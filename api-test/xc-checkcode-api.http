@@ -1,0 +1,5 @@
+### 申请验证码
+POST {{checkcode_host}}/checkcode/pic
+
+### 检验验证码
+POST {{checkcode_host}}/checkcode/verify?key=checkcode:0ad9e9c90c3c4309a43108ffbd17a481&code=AFWZ1

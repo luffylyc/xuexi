@@ -1,0 +1,734 @@
+2023-03-10 13:04:16,807 INFO [main][SpringApplication.java:655] - The following profiles are active: dev
+2023-03-10 13:04:16,807 INFO [main][SpringApplication.java:655] - The following profiles are active: dev
+2023-03-10 13:04:18,511 DEBUG [main][LogFactory.java:105] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2023-03-10 13:04:18,511 DEBUG [main][LogFactory.java:105] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2023-03-10 13:04:18,655 INFO [main][GenericScope.java:295] - BeanFactory id=93a25b20-42a7-3cd7-ad5c-2fa9e0fd1783
+2023-03-10 13:04:18,655 INFO [main][GenericScope.java:295] - BeanFactory id=93a25b20-42a7-3cd7-ad5c-2fa9e0fd1783
+2023-03-10 13:04:18,737 INFO [main][PostProcessorRegistrationDelegate.java:335] - Bean 'com.xuecheng.learning.feignclient.ContentServiceClient' of type [org.springframework.cloud.openfeign.FeignClientFactoryBean] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2023-03-10 13:04:18,737 INFO [main][PostProcessorRegistrationDelegate.java:335] - Bean 'com.xuecheng.learning.feignclient.ContentServiceClient' of type [org.springframework.cloud.openfeign.FeignClientFactoryBean] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2023-03-10 13:04:18,740 INFO [main][PostProcessorRegistrationDelegate.java:335] - Bean 'com.xuecheng.learning.feignclient.MediaServiceClient' of type [org.springframework.cloud.openfeign.FeignClientFactoryBean] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2023-03-10 13:04:18,740 INFO [main][PostProcessorRegistrationDelegate.java:335] - Bean 'com.xuecheng.learning.feignclient.MediaServiceClient' of type [org.springframework.cloud.openfeign.FeignClientFactoryBean] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2023-03-10 13:04:19,131 WARN [main][URLConfigurationSource.java:121] - No URLs will be polled as dynamic configuration sources.
+2023-03-10 13:04:19,131 WARN [main][URLConfigurationSource.java:121] - No URLs will be polled as dynamic configuration sources.
+2023-03-10 13:04:19,132 INFO [main][URLConfigurationSource.java:122] - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2023-03-10 13:04:19,132 INFO [main][URLConfigurationSource.java:122] - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2023-03-10 13:04:19,147 WARN [main][URLConfigurationSource.java:121] - No URLs will be polled as dynamic configuration sources.
+2023-03-10 13:04:19,147 WARN [main][URLConfigurationSource.java:121] - No URLs will be polled as dynamic configuration sources.
+2023-03-10 13:04:19,147 INFO [main][URLConfigurationSource.java:122] - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2023-03-10 13:04:19,147 INFO [main][URLConfigurationSource.java:122] - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2023-03-10 13:04:21,261 INFO [main][InetUtils.java:170] - Cannot determine local hostname
+2023-03-10 13:04:21,261 INFO [main][InetUtils.java:170] - Cannot determine local hostname
+2023-03-10 13:04:21,294 INFO [main][ExecutorConfigurationSupport.java:181] - Initializing ExecutorService 'Nacos-Watch-Task-Scheduler'
+2023-03-10 13:04:21,294 INFO [main][ExecutorConfigurationSupport.java:181] - Initializing ExecutorService 'Nacos-Watch-Task-Scheduler'
+2023-03-10 13:04:21,637 DEBUG [main][HikariConfig.java:946] - Driver class com.mysql.cj.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
+2023-03-10 13:04:21,637 DEBUG [main][HikariConfig.java:946] - Driver class com.mysql.cj.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
+2023-03-10 13:04:21,979 DEBUG [main][Logger.java:49] - Registered plugin: 'com.baomidou.mybatisplus.extension.plugins.MybatisPlusInterceptor@56da96b3'
+2023-03-10 13:04:21,979 DEBUG [main][Logger.java:49] - Registered plugin: 'com.baomidou.mybatisplus.extension.plugins.MybatisPlusInterceptor@56da96b3'
+2023-03-10 13:04:21,985 DEBUG [main][Logger.java:49] - Property 'mapperLocations' was not specified.
+2023-03-10 13:04:21,985 DEBUG [main][Logger.java:49] - Property 'mapperLocations' was not specified.
+2023-03-10 13:04:24,089 DEBUG [main][ResourceBundleMessageInterpolator.java:172] - Loaded expression factory via original TCCL
+2023-03-10 13:04:24,089 DEBUG [main][ResourceBundleMessageInterpolator.java:172] - Loaded expression factory via original TCCL
+2023-03-10 13:04:24,106 DEBUG [main][AbstractConfigurationImpl.java:171] - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+2023-03-10 13:04:24,106 DEBUG [main][AbstractConfigurationImpl.java:171] - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+2023-03-10 13:04:24,107 DEBUG [main][AbstractConfigurationImpl.java:203] - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+2023-03-10 13:04:24,107 DEBUG [main][AbstractConfigurationImpl.java:203] - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+2023-03-10 13:04:24,109 DEBUG [main][AbstractConfigurationImpl.java:217] - Setting custom ParameterNameProvider of type org.springframework.validation.beanvalidation.LocalValidatorFactoryBean$1
+2023-03-10 13:04:24,109 DEBUG [main][AbstractConfigurationImpl.java:217] - Setting custom ParameterNameProvider of type org.springframework.validation.beanvalidation.LocalValidatorFactoryBean$1
+2023-03-10 13:04:24,116 DEBUG [main][ValidationXmlParser.java:120] - Trying to load META-INF/validation.xml for XML based Validator configuration.
+2023-03-10 13:04:24,116 DEBUG [main][ValidationXmlParser.java:120] - Trying to load META-INF/validation.xml for XML based Validator configuration.
+2023-03-10 13:04:24,116 DEBUG [main][ResourceLoaderHelper.java:53] - Trying to load META-INF/validation.xml via user class loader
+2023-03-10 13:04:24,116 DEBUG [main][ResourceLoaderHelper.java:53] - Trying to load META-INF/validation.xml via user class loader
+2023-03-10 13:04:24,119 DEBUG [main][ResourceLoaderHelper.java:60] - Trying to load META-INF/validation.xml via TCCL
+2023-03-10 13:04:24,119 DEBUG [main][ResourceLoaderHelper.java:60] - Trying to load META-INF/validation.xml via TCCL
+2023-03-10 13:04:24,122 DEBUG [main][ResourceLoaderHelper.java:66] - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2023-03-10 13:04:24,122 DEBUG [main][ResourceLoaderHelper.java:66] - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2023-03-10 13:04:24,124 DEBUG [main][ValidationXmlParser.java:127] - No META-INF/validation.xml found. Using annotation based configuration only.
+2023-03-10 13:04:24,124 DEBUG [main][ValidationXmlParser.java:127] - No META-INF/validation.xml found. Using annotation based configuration only.
+2023-03-10 13:04:24,126 DEBUG [main][TraversableResolvers.java:60] - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2023-03-10 13:04:24,126 DEBUG [main][TraversableResolvers.java:60] - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2023-03-10 13:04:24,131 DEBUG [main][ValidatorFactoryConfigurationHelper.java:300] - HV000252: Using org.hibernate.validator.internal.engine.DefaultPropertyNodeNameProvider as property node name provider.
+2023-03-10 13:04:24,131 DEBUG [main][ValidatorFactoryConfigurationHelper.java:300] - HV000252: Using org.hibernate.validator.internal.engine.DefaultPropertyNodeNameProvider as property node name provider.
+2023-03-10 13:04:24,132 DEBUG [main][ValidatorFactoryConfigurationHelper.java:375] - HV000234: Using org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator as ValidatorFactory-scoped message interpolator.
+2023-03-10 13:04:24,132 DEBUG [main][ValidatorFactoryConfigurationHelper.java:375] - HV000234: Using org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator as ValidatorFactory-scoped message interpolator.
+2023-03-10 13:04:24,133 DEBUG [main][ValidatorFactoryConfigurationHelper.java:376] - HV000234: Using org.hibernate.validator.internal.engine.resolver.TraverseAllTraversableResolver as ValidatorFactory-scoped traversable resolver.
+2023-03-10 13:04:24,133 DEBUG [main][ValidatorFactoryConfigurationHelper.java:376] - HV000234: Using org.hibernate.validator.internal.engine.resolver.TraverseAllTraversableResolver as ValidatorFactory-scoped traversable resolver.
+2023-03-10 13:04:24,133 DEBUG [main][ValidatorFactoryConfigurationHelper.java:377] - HV000234: Using org.hibernate.validator.internal.util.ExecutableParameterNameProvider as ValidatorFactory-scoped parameter name provider.
+2023-03-10 13:04:24,133 DEBUG [main][ValidatorFactoryConfigurationHelper.java:377] - HV000234: Using org.hibernate.validator.internal.util.ExecutableParameterNameProvider as ValidatorFactory-scoped parameter name provider.
+2023-03-10 13:04:24,134 DEBUG [main][ValidatorFactoryConfigurationHelper.java:378] - HV000234: Using org.hibernate.validator.internal.engine.DefaultClockProvider as ValidatorFactory-scoped clock provider.
+2023-03-10 13:04:24,134 DEBUG [main][ValidatorFactoryConfigurationHelper.java:378] - HV000234: Using org.hibernate.validator.internal.engine.DefaultClockProvider as ValidatorFactory-scoped clock provider.
+2023-03-10 13:04:24,134 DEBUG [main][ValidatorFactoryConfigurationHelper.java:379] - HV000234: Using org.hibernate.validator.internal.engine.scripting.DefaultScriptEvaluatorFactory as ValidatorFactory-scoped script evaluator factory.
+2023-03-10 13:04:24,134 DEBUG [main][ValidatorFactoryConfigurationHelper.java:379] - HV000234: Using org.hibernate.validator.internal.engine.scripting.DefaultScriptEvaluatorFactory as ValidatorFactory-scoped script evaluator factory.
+2023-03-10 13:04:24,483 WARN [main][FreeMarkerAutoConfiguration.java:65] - Cannot find template location(s): [classpath:/templates/] (please add some templates, check your FreeMarker configuration, or set spring.freemarker.checkTemplateLocation=false)
+2023-03-10 13:04:24,483 WARN [main][FreeMarkerAutoConfiguration.java:65] - Cannot find template location(s): [classpath:/templates/] (please add some templates, check your FreeMarker configuration, or set spring.freemarker.checkTemplateLocation=false)
+2023-03-10 13:04:27,087 INFO [main][InetUtils.java:170] - Cannot determine local hostname
+2023-03-10 13:04:27,087 INFO [main][InetUtils.java:170] - Cannot determine local hostname
+2023-03-10 13:04:27,886 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcChooseCourseMapper.insert
+2023-03-10 13:04:27,886 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcChooseCourseMapper.insert
+2023-03-10 13:04:27,896 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcChooseCourseMapper.delete
+2023-03-10 13:04:27,896 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcChooseCourseMapper.delete
+2023-03-10 13:04:27,904 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcChooseCourseMapper.deleteByMap
+2023-03-10 13:04:27,904 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcChooseCourseMapper.deleteByMap
+2023-03-10 13:04:27,979 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcChooseCourseMapper.deleteById
+2023-03-10 13:04:27,979 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcChooseCourseMapper.deleteById
+2023-03-10 13:04:27,982 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcChooseCourseMapper.deleteBatchIds
+2023-03-10 13:04:27,982 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcChooseCourseMapper.deleteBatchIds
+2023-03-10 13:04:28,029 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcChooseCourseMapper.update
+2023-03-10 13:04:28,029 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcChooseCourseMapper.update
+2023-03-10 13:04:28,051 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcChooseCourseMapper.updateById
+2023-03-10 13:04:28,051 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcChooseCourseMapper.updateById
+2023-03-10 13:04:28,053 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcChooseCourseMapper.selectById
+2023-03-10 13:04:28,053 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcChooseCourseMapper.selectById
+2023-03-10 13:04:28,056 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcChooseCourseMapper.selectBatchIds
+2023-03-10 13:04:28,056 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcChooseCourseMapper.selectBatchIds
+2023-03-10 13:04:28,059 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcChooseCourseMapper.selectByMap
+2023-03-10 13:04:28,059 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcChooseCourseMapper.selectByMap
+2023-03-10 13:04:28,080 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcChooseCourseMapper.selectOne
+2023-03-10 13:04:28,085 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcChooseCourseMapper.selectCount
+2023-03-10 13:04:28,089 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcChooseCourseMapper.selectMaps
+2023-03-10 13:04:28,080 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcChooseCourseMapper.selectOne
+2023-03-10 13:04:28,085 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcChooseCourseMapper.selectCount
+2023-03-10 13:04:28,089 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcChooseCourseMapper.selectMaps
+2023-03-10 13:04:28,094 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcChooseCourseMapper.selectMapsPage
+2023-03-10 13:04:28,094 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcChooseCourseMapper.selectMapsPage
+2023-03-10 13:04:28,114 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcChooseCourseMapper.selectObjs
+2023-03-10 13:04:28,114 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcChooseCourseMapper.selectObjs
+2023-03-10 13:04:28,148 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcChooseCourseMapper.selectList
+2023-03-10 13:04:28,148 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcChooseCourseMapper.selectList
+2023-03-10 13:04:28,158 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcChooseCourseMapper.selectPage
+2023-03-10 13:04:28,158 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcChooseCourseMapper.selectPage
+2023-03-10 13:04:28,202 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcCourseTablesMapper.insert
+2023-03-10 13:04:28,202 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcCourseTablesMapper.insert
+2023-03-10 13:04:28,214 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcCourseTablesMapper.delete
+2023-03-10 13:04:28,214 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcCourseTablesMapper.delete
+2023-03-10 13:04:28,216 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcCourseTablesMapper.deleteByMap
+2023-03-10 13:04:28,216 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcCourseTablesMapper.deleteByMap
+2023-03-10 13:04:28,227 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcCourseTablesMapper.deleteById
+2023-03-10 13:04:28,227 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcCourseTablesMapper.deleteById
+2023-03-10 13:04:28,230 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcCourseTablesMapper.deleteBatchIds
+2023-03-10 13:04:28,230 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcCourseTablesMapper.deleteBatchIds
+2023-03-10 13:04:28,234 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcCourseTablesMapper.update
+2023-03-10 13:04:28,234 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcCourseTablesMapper.update
+2023-03-10 13:04:28,239 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcCourseTablesMapper.updateById
+2023-03-10 13:04:28,239 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcCourseTablesMapper.updateById
+2023-03-10 13:04:28,240 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcCourseTablesMapper.selectById
+2023-03-10 13:04:28,240 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcCourseTablesMapper.selectById
+2023-03-10 13:04:28,242 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcCourseTablesMapper.selectBatchIds
+2023-03-10 13:04:28,242 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcCourseTablesMapper.selectBatchIds
+2023-03-10 13:04:28,245 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcCourseTablesMapper.selectByMap
+2023-03-10 13:04:28,245 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcCourseTablesMapper.selectByMap
+2023-03-10 13:04:28,248 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcCourseTablesMapper.selectOne
+2023-03-10 13:04:28,248 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcCourseTablesMapper.selectOne
+2023-03-10 13:04:28,252 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcCourseTablesMapper.selectCount
+2023-03-10 13:04:28,252 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcCourseTablesMapper.selectCount
+2023-03-10 13:04:28,257 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcCourseTablesMapper.selectMaps
+2023-03-10 13:04:28,257 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcCourseTablesMapper.selectMaps
+2023-03-10 13:04:28,261 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcCourseTablesMapper.selectMapsPage
+2023-03-10 13:04:28,261 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcCourseTablesMapper.selectMapsPage
+2023-03-10 13:04:28,264 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcCourseTablesMapper.selectObjs
+2023-03-10 13:04:28,264 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcCourseTablesMapper.selectObjs
+2023-03-10 13:04:28,270 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcCourseTablesMapper.selectList
+2023-03-10 13:04:28,270 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcCourseTablesMapper.selectList
+2023-03-10 13:04:28,270 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcCourseTablesMapper.selectPage
+2023-03-10 13:04:28,270 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcCourseTablesMapper.selectPage
+2023-03-10 13:04:28,370 INFO [main][InitUtils.java:65] - initializer namespace from System Property :null
+2023-03-10 13:04:28,372 INFO [main][InitUtils.java:74] - initializer namespace from System Environment :null
+2023-03-10 13:04:28,373 INFO [main][InitUtils.java:84] - initializer namespace from System Property :null
+2023-03-10 13:04:28,370 INFO [main][InitUtils.java:65] - initializer namespace from System Property :null
+2023-03-10 13:04:28,372 INFO [main][InitUtils.java:74] - initializer namespace from System Environment :null
+2023-03-10 13:04:28,373 INFO [main][InitUtils.java:84] - initializer namespace from System Property :null
+2023-03-10 13:04:28,387 DEBUG [main][NamingProxy.java:195] - server list provided by user: [39.105.221.68:8848]
+2023-03-10 13:04:28,387 DEBUG [main][NamingProxy.java:195] - server list provided by user: [39.105.221.68:8848]
+2023-03-10 13:04:28,405 DEBUG [com.alibaba.nacos.client.naming.updater][NamingProxy.java:195] - server list provided by user: [39.105.221.68:8848]
+2023-03-10 13:04:28,405 DEBUG [com.alibaba.nacos.client.naming.updater][NamingProxy.java:195] - server list provided by user: [39.105.221.68:8848]
+2023-03-10 13:04:28,408 DEBUG [com.alibaba.nacos.naming.failover][FailoverReactor.java:147] - failover switch is not found, failover00-00---000-VIPSRV_FAILOVER_SWITCH-000---00-00
+2023-03-10 13:04:28,408 DEBUG [com.alibaba.nacos.naming.failover][FailoverReactor.java:147] - failover switch is not found, failover00-00---000-VIPSRV_FAILOVER_SWITCH-000---00-00
+2023-03-10 13:04:28,439 DEBUG [main][HostReactor.java:306] - failover-mode: false
+2023-03-10 13:04:28,439 DEBUG [main][HostReactor.java:306] - failover-mode: false
+2023-03-10 13:04:28,442 DEBUG [main][NacosRestTemplate.java:476] - HTTP method: GET, url: http://39.105.221.68:8848/nacos/v1/ns/instance/list?app=unknown&healthyOnly=false&namespaceId=dev148&clientIP=192.168.101.1&serviceName=xuecheng-plus-project%40%40learning-service&udpPort=59485&clusters=DEFAULT, body: {}
+2023-03-10 13:04:28,442 DEBUG [main][NacosRestTemplate.java:476] - HTTP method: GET, url: http://39.105.221.68:8848/nacos/v1/ns/instance/list?app=unknown&healthyOnly=false&namespaceId=dev148&clientIP=192.168.101.1&serviceName=xuecheng-plus-project%40%40learning-service&udpPort=59485&clusters=DEFAULT, body: {}
+2023-03-10 13:04:28,612 INFO [main][StartupInfoLogger.java:61] - Started FeignClientTest in 20.006 seconds (JVM running for 24.925)
+2023-03-10 13:04:28,612 INFO [main][StartupInfoLogger.java:61] - Started FeignClientTest in 20.006 seconds (JVM running for 24.925)
+2023-03-10 13:04:28,623 INFO [main][ClientWorker.java:169] - [fixed-39.105.221.68_8848-dev148] [subscribe] swagger-dev.yaml+xuecheng-plus-common+dev148
+2023-03-10 13:04:28,623 INFO [main][ClientWorker.java:169] - [fixed-39.105.221.68_8848-dev148] [subscribe] swagger-dev.yaml+xuecheng-plus-common+dev148
+2023-03-10 13:04:28,624 INFO [main][CacheData.java:92] - [fixed-39.105.221.68_8848-dev148] [add-listener] ok, tenant=dev148, dataId=swagger-dev.yaml, group=xuecheng-plus-common, cnt=1
+2023-03-10 13:04:28,624 INFO [main][CacheData.java:92] - [fixed-39.105.221.68_8848-dev148] [add-listener] ok, tenant=dev148, dataId=swagger-dev.yaml, group=xuecheng-plus-common, cnt=1
+2023-03-10 13:04:28,625 INFO [main][ClientWorker.java:169] - [fixed-39.105.221.68_8848-dev148] [subscribe] learning-service.yaml+xuecheng-plus-project+dev148
+2023-03-10 13:04:28,626 INFO [main][CacheData.java:92] - [fixed-39.105.221.68_8848-dev148] [add-listener] ok, tenant=dev148, dataId=learning-service.yaml, group=xuecheng-plus-project, cnt=1
+2023-03-10 13:04:28,625 INFO [main][ClientWorker.java:169] - [fixed-39.105.221.68_8848-dev148] [subscribe] learning-service.yaml+xuecheng-plus-project+dev148
+2023-03-10 13:04:28,629 INFO [main][ClientWorker.java:169] - [fixed-39.105.221.68_8848-dev148] [subscribe] feign-dev.yaml+xuecheng-plus-common+dev148
+2023-03-10 13:04:28,626 INFO [main][CacheData.java:92] - [fixed-39.105.221.68_8848-dev148] [add-listener] ok, tenant=dev148, dataId=learning-service.yaml, group=xuecheng-plus-project, cnt=1
+2023-03-10 13:04:28,629 INFO [main][ClientWorker.java:169] - [fixed-39.105.221.68_8848-dev148] [subscribe] feign-dev.yaml+xuecheng-plus-common+dev148
+2023-03-10 13:04:28,630 INFO [main][CacheData.java:92] - [fixed-39.105.221.68_8848-dev148] [add-listener] ok, tenant=dev148, dataId=feign-dev.yaml, group=xuecheng-plus-common, cnt=1
+2023-03-10 13:04:28,630 INFO [main][CacheData.java:92] - [fixed-39.105.221.68_8848-dev148] [add-listener] ok, tenant=dev148, dataId=feign-dev.yaml, group=xuecheng-plus-common, cnt=1
+2023-03-10 13:04:28,643 INFO [main][ClientWorker.java:169] - [fixed-39.105.221.68_8848-dev148] [subscribe] learning-service-dev.yaml+xuecheng-plus-project+dev148
+2023-03-10 13:04:28,643 INFO [main][ClientWorker.java:169] - [fixed-39.105.221.68_8848-dev148] [subscribe] learning-service-dev.yaml+xuecheng-plus-project+dev148
+2023-03-10 13:04:28,644 INFO [main][CacheData.java:92] - [fixed-39.105.221.68_8848-dev148] [add-listener] ok, tenant=dev148, dataId=learning-service-dev.yaml, group=xuecheng-plus-project, cnt=1
+2023-03-10 13:04:28,644 INFO [main][CacheData.java:92] - [fixed-39.105.221.68_8848-dev148] [add-listener] ok, tenant=dev148, dataId=learning-service-dev.yaml, group=xuecheng-plus-project, cnt=1
+2023-03-10 13:04:28,645 INFO [main][ClientWorker.java:169] - [fixed-39.105.221.68_8848-dev148] [subscribe] learning-service+xuecheng-plus-project+dev148
+2023-03-10 13:04:28,645 INFO [main][ClientWorker.java:169] - [fixed-39.105.221.68_8848-dev148] [subscribe] learning-service+xuecheng-plus-project+dev148
+2023-03-10 13:04:28,646 INFO [main][CacheData.java:92] - [fixed-39.105.221.68_8848-dev148] [add-listener] ok, tenant=dev148, dataId=learning-service, group=xuecheng-plus-project, cnt=1
+2023-03-10 13:04:28,646 INFO [main][CacheData.java:92] - [fixed-39.105.221.68_8848-dev148] [add-listener] ok, tenant=dev148, dataId=learning-service, group=xuecheng-plus-project, cnt=1
+2023-03-10 13:04:28,649 INFO [main][ClientWorker.java:169] - [fixed-39.105.221.68_8848-dev148] [subscribe] logging-dev.yaml+xuecheng-plus-common+dev148
+2023-03-10 13:04:28,658 INFO [main][CacheData.java:92] - [fixed-39.105.221.68_8848-dev148] [add-listener] ok, tenant=dev148, dataId=logging-dev.yaml, group=xuecheng-plus-common, cnt=1
+2023-03-10 13:04:28,649 INFO [main][ClientWorker.java:169] - [fixed-39.105.221.68_8848-dev148] [subscribe] logging-dev.yaml+xuecheng-plus-common+dev148
+2023-03-10 13:04:28,658 INFO [main][CacheData.java:92] - [fixed-39.105.221.68_8848-dev148] [add-listener] ok, tenant=dev148, dataId=logging-dev.yaml, group=xuecheng-plus-common, cnt=1
+2023-03-10 13:04:28,663 DEBUG [com.alibaba.nacos.client.Worker.longPolling.fixed-39.105.221.68_8848-dev148][NacosRestTemplate.java:476] - HTTP method: POST, url: http://39.105.221.68:8848/nacos/v1/cs/configs/listener, body: {Listening-Configs=swagger-dev.yamlxuecheng-plus-commond1ed4a52ae4a1d92f8aa9a7fe96c5a4cdev148learning-service.yamlxuecheng-plus-projectdev148learning-service-dev.yamlxuecheng-plus-project6bf7a861e1e6e4be7f91b28530b54404dev148feign-dev.yamlxuecheng-plus-common2287b4dcf1db4d243a11c74f7a2b6affdev148learning-servicexuecheng-plus-projectdev148logging-dev.yamlxuecheng-plus-commoncf8b1af28beb25b242f97519c8f2c560dev148, tenant=dev148}
+2023-03-10 13:04:28,663 DEBUG [com.alibaba.nacos.client.Worker.longPolling.fixed-39.105.221.68_8848-dev148][NacosRestTemplate.java:476] - HTTP method: POST, url: http://39.105.221.68:8848/nacos/v1/cs/configs/listener, body: {Listening-Configs=swagger-dev.yamlxuecheng-plus-commond1ed4a52ae4a1d92f8aa9a7fe96c5a4cdev148learning-service.yamlxuecheng-plus-projectdev148learning-service-dev.yamlxuecheng-plus-project6bf7a861e1e6e4be7f91b28530b54404dev148feign-dev.yamlxuecheng-plus-common2287b4dcf1db4d243a11c74f7a2b6affdev148learning-servicexuecheng-plus-projectdev148logging-dev.yamlxuecheng-plus-commoncf8b1af28beb25b242f97519c8f2c560dev148, tenant=dev148}
+2023-03-10 13:04:28,663 DEBUG [com.alibaba.nacos.client.Worker.longPolling.fixed-39.105.221.68_8848-dev148][NacosRestTemplate.java:494] - Execute via interceptors :[com.alibaba.nacos.client.config.impl.ConfigHttpClientManager$LimiterHttpClientRequestInterceptor@4f5ab760]
+2023-03-10 13:04:28,663 DEBUG [com.alibaba.nacos.client.Worker.longPolling.fixed-39.105.221.68_8848-dev148][NacosRestTemplate.java:494] - Execute via interceptors :[com.alibaba.nacos.client.config.impl.ConfigHttpClientManager$LimiterHttpClientRequestInterceptor@4f5ab760]
+2023-03-10 13:04:28,715 DEBUG [com.alibaba.nacos.client.Worker.longPolling.fixed-39.105.221.68_8848-dev148][NacosRestTemplate.java:476] - HTTP method: POST, url: http://39.105.221.68:8848/nacos/v1/cs/configs/listener, body: {Listening-Configs=swagger-dev.yamlxuecheng-plus-commond1ed4a52ae4a1d92f8aa9a7fe96c5a4cdev148learning-service.yamlxuecheng-plus-projectdev148learning-service-dev.yamlxuecheng-plus-project6bf7a861e1e6e4be7f91b28530b54404dev148feign-dev.yamlxuecheng-plus-common2287b4dcf1db4d243a11c74f7a2b6affdev148learning-servicexuecheng-plus-projectdev148logging-dev.yamlxuecheng-plus-commoncf8b1af28beb25b242f97519c8f2c560dev148, tenant=dev148}
+2023-03-10 13:04:28,715 DEBUG [com.alibaba.nacos.client.Worker.longPolling.fixed-39.105.221.68_8848-dev148][NacosRestTemplate.java:494] - Execute via interceptors :[com.alibaba.nacos.client.config.impl.ConfigHttpClientManager$LimiterHttpClientRequestInterceptor@4f5ab760]
+2023-03-10 13:04:28,715 DEBUG [com.alibaba.nacos.client.Worker.longPolling.fixed-39.105.221.68_8848-dev148][NacosRestTemplate.java:476] - HTTP method: POST, url: http://39.105.221.68:8848/nacos/v1/cs/configs/listener, body: {Listening-Configs=swagger-dev.yamlxuecheng-plus-commond1ed4a52ae4a1d92f8aa9a7fe96c5a4cdev148learning-service.yamlxuecheng-plus-projectdev148learning-service-dev.yamlxuecheng-plus-project6bf7a861e1e6e4be7f91b28530b54404dev148feign-dev.yamlxuecheng-plus-common2287b4dcf1db4d243a11c74f7a2b6affdev148learning-servicexuecheng-plus-projectdev148logging-dev.yamlxuecheng-plus-commoncf8b1af28beb25b242f97519c8f2c560dev148, tenant=dev148}
+2023-03-10 13:04:28,715 DEBUG [com.alibaba.nacos.client.Worker.longPolling.fixed-39.105.221.68_8848-dev148][NacosRestTemplate.java:494] - Execute via interceptors :[com.alibaba.nacos.client.config.impl.ConfigHttpClientManager$LimiterHttpClientRequestInterceptor@4f5ab760]
+2023-03-10 13:04:29,586 DEBUG [com.alibaba.nacos.client.naming.updater][NacosRestTemplate.java:476] - HTTP method: GET, url: http://39.105.221.68:8848/nacos/v1/ns/instance/list?app=unknown&healthyOnly=false&namespaceId=dev148&clientIP=192.168.101.1&serviceName=xuecheng-plus-project%40%40learning-service&udpPort=59485&clusters=DEFAULT, body: {}
+2023-03-10 13:04:29,586 DEBUG [com.alibaba.nacos.client.naming.updater][NacosRestTemplate.java:476] - HTTP method: GET, url: http://39.105.221.68:8848/nacos/v1/ns/instance/list?app=unknown&healthyOnly=false&namespaceId=dev148&clientIP=192.168.101.1&serviceName=xuecheng-plus-project%40%40learning-service&udpPort=59485&clusters=DEFAULT, body: {}
+2023-03-10 13:04:29,764 DEBUG [main][HystrixPlugins.java:386] - Created HystrixDynamicProperties. Using class : com.netflix.hystrix.strategy.properties.archaius.HystrixDynamicPropertiesArchaius
+2023-03-10 13:04:29,764 DEBUG [main][HystrixPlugins.java:386] - Created HystrixDynamicProperties. Using class : com.netflix.hystrix.strategy.properties.archaius.HystrixDynamicPropertiesArchaius
+2023-03-10 13:04:29,792 DEBUG [main][HystrixPropertiesChainedProperty.java:93] - Flipping property: hystrix.command.ContentServiceClient#getCoursepublish(Long).circuitBreaker.enabled to use NEXT property: hystrix.command.default.circuitBreaker.enabled = true
+2023-03-10 13:04:29,792 DEBUG [main][HystrixPropertiesChainedProperty.java:93] - Flipping property: hystrix.command.ContentServiceClient#getCoursepublish(Long).circuitBreaker.enabled to use NEXT property: hystrix.command.default.circuitBreaker.enabled = true
+2023-03-10 13:04:29,794 DEBUG [main][HystrixPropertiesChainedProperty.java:93] - Flipping property: hystrix.command.ContentServiceClient#getCoursepublish(Long).circuitBreaker.requestVolumeThreshold to use NEXT property: hystrix.command.default.circuitBreaker.requestVolumeThreshold = 20
+2023-03-10 13:04:29,794 DEBUG [main][HystrixPropertiesChainedProperty.java:93] - Flipping property: hystrix.command.ContentServiceClient#getCoursepublish(Long).circuitBreaker.requestVolumeThreshold to use NEXT property: hystrix.command.default.circuitBreaker.requestVolumeThreshold = 20
+2023-03-10 13:04:29,796 DEBUG [main][HystrixPropertiesChainedProperty.java:93] - Flipping property: hystrix.command.ContentServiceClient#getCoursepublish(Long).circuitBreaker.sleepWindowInMilliseconds to use NEXT property: hystrix.command.default.circuitBreaker.sleepWindowInMilliseconds = 5000
+2023-03-10 13:04:29,796 DEBUG [main][HystrixPropertiesChainedProperty.java:93] - Flipping property: hystrix.command.ContentServiceClient#getCoursepublish(Long).circuitBreaker.sleepWindowInMilliseconds to use NEXT property: hystrix.command.default.circuitBreaker.sleepWindowInMilliseconds = 5000
+2023-03-10 13:04:29,796 DEBUG [main][HystrixPropertiesChainedProperty.java:93] - Flipping property: hystrix.command.ContentServiceClient#getCoursepublish(Long).circuitBreaker.errorThresholdPercentage to use NEXT property: hystrix.command.default.circuitBreaker.errorThresholdPercentage = 50
+2023-03-10 13:04:29,796 DEBUG [main][HystrixPropertiesChainedProperty.java:93] - Flipping property: hystrix.command.ContentServiceClient#getCoursepublish(Long).circuitBreaker.errorThresholdPercentage to use NEXT property: hystrix.command.default.circuitBreaker.errorThresholdPercentage = 50
+2023-03-10 13:04:29,796 DEBUG [main][HystrixPropertiesChainedProperty.java:93] - Flipping property: hystrix.command.ContentServiceClient#getCoursepublish(Long).circuitBreaker.forceOpen to use NEXT property: hystrix.command.default.circuitBreaker.forceOpen = false
+2023-03-10 13:04:29,796 DEBUG [main][HystrixPropertiesChainedProperty.java:93] - Flipping property: hystrix.command.ContentServiceClient#getCoursepublish(Long).circuitBreaker.forceOpen to use NEXT property: hystrix.command.default.circuitBreaker.forceOpen = false
+2023-03-10 13:04:29,809 DEBUG [main][HystrixPropertiesChainedProperty.java:93] - Flipping property: hystrix.command.ContentServiceClient#getCoursepublish(Long).circuitBreaker.forceClosed to use NEXT property: hystrix.command.default.circuitBreaker.forceClosed = false
+2023-03-10 13:04:29,809 DEBUG [main][HystrixPropertiesChainedProperty.java:93] - Flipping property: hystrix.command.ContentServiceClient#getCoursepublish(Long).circuitBreaker.forceClosed to use NEXT property: hystrix.command.default.circuitBreaker.forceClosed = false
+2023-03-10 13:04:29,811 DEBUG [main][HystrixPropertiesChainedProperty.java:93] - Flipping property: hystrix.command.ContentServiceClient#getCoursepublish(Long).execution.isolation.strategy to use NEXT property: hystrix.command.default.execution.isolation.strategy = THREAD
+2023-03-10 13:04:29,811 DEBUG [main][HystrixPropertiesChainedProperty.java:93] - Flipping property: hystrix.command.ContentServiceClient#getCoursepublish(Long).execution.isolation.strategy to use NEXT property: hystrix.command.default.execution.isolation.strategy = THREAD
+2023-03-10 13:04:29,813 DEBUG [main][HystrixPropertiesChainedProperty.java:93] - Flipping property: hystrix.command.ContentServiceClient#getCoursepublish(Long).execution.isolation.thread.timeoutInMilliseconds to use NEXT property: hystrix.command.default.execution.isolation.thread.timeoutInMilliseconds = 1000
+2023-03-10 13:04:29,813 DEBUG [main][HystrixPropertiesChainedProperty.java:93] - Flipping property: hystrix.command.ContentServiceClient#getCoursepublish(Long).execution.isolation.thread.timeoutInMilliseconds to use NEXT property: hystrix.command.default.execution.isolation.thread.timeoutInMilliseconds = 1000
+2023-03-10 13:04:29,814 DEBUG [main][HystrixPropertiesChainedProperty.java:93] - Flipping property: hystrix.command.ContentServiceClient#getCoursepublish(Long).execution.timeout.enabled to use NEXT property: hystrix.command.default.execution.timeout.enabled = true
+2023-03-10 13:04:29,814 DEBUG [main][HystrixPropertiesChainedProperty.java:93] - Flipping property: hystrix.command.ContentServiceClient#getCoursepublish(Long).execution.timeout.enabled to use NEXT property: hystrix.command.default.execution.timeout.enabled = true
+2023-03-10 13:04:29,815 DEBUG [main][HystrixPropertiesChainedProperty.java:93] - Flipping property: hystrix.command.ContentServiceClient#getCoursepublish(Long).execution.isolation.thread.interruptOnTimeout to use NEXT property: hystrix.command.default.execution.isolation.thread.interruptOnTimeout = true
+2023-03-10 13:04:29,815 DEBUG [main][HystrixPropertiesChainedProperty.java:93] - Flipping property: hystrix.command.ContentServiceClient#getCoursepublish(Long).execution.isolation.thread.interruptOnTimeout to use NEXT property: hystrix.command.default.execution.isolation.thread.interruptOnTimeout = true
+2023-03-10 13:04:29,816 DEBUG [main][HystrixPropertiesChainedProperty.java:93] - Flipping property: hystrix.command.ContentServiceClient#getCoursepublish(Long).execution.isolation.thread.interruptOnFutureCancel to use NEXT property: hystrix.command.default.execution.isolation.thread.interruptOnFutureCancel = false
+2023-03-10 13:04:29,816 DEBUG [main][HystrixPropertiesChainedProperty.java:93] - Flipping property: hystrix.command.ContentServiceClient#getCoursepublish(Long).execution.isolation.thread.interruptOnFutureCancel to use NEXT property: hystrix.command.default.execution.isolation.thread.interruptOnFutureCancel = false
+2023-03-10 13:04:29,820 DEBUG [main][HystrixPropertiesChainedProperty.java:93] - Flipping property: hystrix.command.ContentServiceClient#getCoursepublish(Long).execution.isolation.semaphore.maxConcurrentRequests to use NEXT property: hystrix.command.default.execution.isolation.semaphore.maxConcurrentRequests = 10
+2023-03-10 13:04:29,820 DEBUG [main][HystrixPropertiesChainedProperty.java:93] - Flipping property: hystrix.command.ContentServiceClient#getCoursepublish(Long).execution.isolation.semaphore.maxConcurrentRequests to use NEXT property: hystrix.command.default.execution.isolation.semaphore.maxConcurrentRequests = 10
+2023-03-10 13:04:29,821 DEBUG [main][HystrixPropertiesChainedProperty.java:93] - Flipping property: hystrix.command.ContentServiceClient#getCoursepublish(Long).fallback.isolation.semaphore.maxConcurrentRequests to use NEXT property: hystrix.command.default.fallback.isolation.semaphore.maxConcurrentRequests = 10
+2023-03-10 13:04:29,821 DEBUG [main][HystrixPropertiesChainedProperty.java:93] - Flipping property: hystrix.command.ContentServiceClient#getCoursepublish(Long).fallback.isolation.semaphore.maxConcurrentRequests to use NEXT property: hystrix.command.default.fallback.isolation.semaphore.maxConcurrentRequests = 10
+2023-03-10 13:04:29,822 DEBUG [main][HystrixPropertiesChainedProperty.java:93] - Flipping property: hystrix.command.ContentServiceClient#getCoursepublish(Long).fallback.enabled to use NEXT property: hystrix.command.default.fallback.enabled = true
+2023-03-10 13:04:29,822 DEBUG [main][HystrixPropertiesChainedProperty.java:93] - Flipping property: hystrix.command.ContentServiceClient#getCoursepublish(Long).fallback.enabled to use NEXT property: hystrix.command.default.fallback.enabled = true
+2023-03-10 13:04:29,823 DEBUG [main][HystrixPropertiesChainedProperty.java:93] - Flipping property: hystrix.command.ContentServiceClient#getCoursepublish(Long).metrics.rollingStats.timeInMilliseconds to use NEXT property: hystrix.command.default.metrics.rollingStats.timeInMilliseconds = 10000
+2023-03-10 13:04:29,823 DEBUG [main][HystrixPropertiesChainedProperty.java:93] - Flipping property: hystrix.command.ContentServiceClient#getCoursepublish(Long).metrics.rollingStats.timeInMilliseconds to use NEXT property: hystrix.command.default.metrics.rollingStats.timeInMilliseconds = 10000
+2023-03-10 13:04:29,823 DEBUG [main][HystrixPropertiesChainedProperty.java:93] - Flipping property: hystrix.command.ContentServiceClient#getCoursepublish(Long).metrics.rollingStats.numBuckets to use NEXT property: hystrix.command.default.metrics.rollingStats.numBuckets = 10
+2023-03-10 13:04:29,823 DEBUG [main][HystrixPropertiesChainedProperty.java:93] - Flipping property: hystrix.command.ContentServiceClient#getCoursepublish(Long).metrics.rollingStats.numBuckets to use NEXT property: hystrix.command.default.metrics.rollingStats.numBuckets = 10
+2023-03-10 13:04:29,824 DEBUG [main][HystrixPropertiesChainedProperty.java:93] - Flipping property: hystrix.command.ContentServiceClient#getCoursepublish(Long).metrics.rollingPercentile.enabled to use NEXT property: hystrix.command.default.metrics.rollingPercentile.enabled = true
+2023-03-10 13:04:29,824 DEBUG [main][HystrixPropertiesChainedProperty.java:93] - Flipping property: hystrix.command.ContentServiceClient#getCoursepublish(Long).metrics.rollingPercentile.enabled to use NEXT property: hystrix.command.default.metrics.rollingPercentile.enabled = true
+2023-03-10 13:04:29,824 DEBUG [main][HystrixPropertiesChainedProperty.java:93] - Flipping property: hystrix.command.ContentServiceClient#getCoursepublish(Long).metrics.rollingPercentile.timeInMilliseconds to use NEXT property: hystrix.command.default.metrics.rollingPercentile.timeInMilliseconds = 60000
+2023-03-10 13:04:29,824 DEBUG [main][HystrixPropertiesChainedProperty.java:93] - Flipping property: hystrix.command.ContentServiceClient#getCoursepublish(Long).metrics.rollingPercentile.timeInMilliseconds to use NEXT property: hystrix.command.default.metrics.rollingPercentile.timeInMilliseconds = 60000
+2023-03-10 13:04:29,825 DEBUG [main][HystrixPropertiesChainedProperty.java:93] - Flipping property: hystrix.command.ContentServiceClient#getCoursepublish(Long).metrics.rollingPercentile.numBuckets to use NEXT property: hystrix.command.default.metrics.rollingPercentile.numBuckets = 6
+2023-03-10 13:04:29,825 DEBUG [main][HystrixPropertiesChainedProperty.java:93] - Flipping property: hystrix.command.ContentServiceClient#getCoursepublish(Long).metrics.rollingPercentile.numBuckets to use NEXT property: hystrix.command.default.metrics.rollingPercentile.numBuckets = 6
+2023-03-10 13:04:29,826 DEBUG [main][HystrixPropertiesChainedProperty.java:93] - Flipping property: hystrix.command.ContentServiceClient#getCoursepublish(Long).metrics.rollingPercentile.bucketSize to use NEXT property: hystrix.command.default.metrics.rollingPercentile.bucketSize = 100
+2023-03-10 13:04:29,826 DEBUG [main][HystrixPropertiesChainedProperty.java:93] - Flipping property: hystrix.command.ContentServiceClient#getCoursepublish(Long).metrics.rollingPercentile.bucketSize to use NEXT property: hystrix.command.default.metrics.rollingPercentile.bucketSize = 100
+2023-03-10 13:04:29,826 DEBUG [main][HystrixPropertiesChainedProperty.java:93] - Flipping property: hystrix.command.ContentServiceClient#getCoursepublish(Long).metrics.healthSnapshot.intervalInMilliseconds to use NEXT property: hystrix.command.default.metrics.healthSnapshot.intervalInMilliseconds = 500
+2023-03-10 13:04:29,826 DEBUG [main][HystrixPropertiesChainedProperty.java:93] - Flipping property: hystrix.command.ContentServiceClient#getCoursepublish(Long).metrics.healthSnapshot.intervalInMilliseconds to use NEXT property: hystrix.command.default.metrics.healthSnapshot.intervalInMilliseconds = 500
+2023-03-10 13:04:29,827 DEBUG [main][HystrixPropertiesChainedProperty.java:93] - Flipping property: hystrix.command.ContentServiceClient#getCoursepublish(Long).requestCache.enabled to use NEXT property: hystrix.command.default.requestCache.enabled = true
+2023-03-10 13:04:29,827 DEBUG [main][HystrixPropertiesChainedProperty.java:93] - Flipping property: hystrix.command.ContentServiceClient#getCoursepublish(Long).requestCache.enabled to use NEXT property: hystrix.command.default.requestCache.enabled = true
+2023-03-10 13:04:29,828 DEBUG [main][HystrixPropertiesChainedProperty.java:93] - Flipping property: hystrix.command.ContentServiceClient#getCoursepublish(Long).requestLog.enabled to use NEXT property: hystrix.command.default.requestLog.enabled = true
+2023-03-10 13:04:29,828 DEBUG [main][HystrixPropertiesChainedProperty.java:93] - Flipping property: hystrix.command.ContentServiceClient#getCoursepublish(Long).requestLog.enabled to use NEXT property: hystrix.command.default.requestLog.enabled = true
+2023-03-10 13:04:30,320 DEBUG [main][HystrixPropertiesChainedProperty.java:93] - Flipping property: hystrix.threadpool.content-api.allowMaximumSizeToDivergeFromCoreSize to use NEXT property: hystrix.threadpool.default.allowMaximumSizeToDivergeFromCoreSize = false
+2023-03-10 13:04:30,320 DEBUG [main][HystrixPropertiesChainedProperty.java:93] - Flipping property: hystrix.threadpool.content-api.allowMaximumSizeToDivergeFromCoreSize to use NEXT property: hystrix.threadpool.default.allowMaximumSizeToDivergeFromCoreSize = false
+2023-03-10 13:04:30,320 DEBUG [main][HystrixPropertiesChainedProperty.java:93] - Flipping property: hystrix.threadpool.content-api.coreSize to use NEXT property: hystrix.threadpool.default.coreSize = 10
+2023-03-10 13:04:30,320 DEBUG [main][HystrixPropertiesChainedProperty.java:93] - Flipping property: hystrix.threadpool.content-api.maximumSize to use NEXT property: hystrix.threadpool.default.maximumSize = 10
+2023-03-10 13:04:30,320 DEBUG [main][HystrixPropertiesChainedProperty.java:93] - Flipping property: hystrix.threadpool.content-api.coreSize to use NEXT property: hystrix.threadpool.default.coreSize = 10
+2023-03-10 13:04:30,320 DEBUG [main][HystrixPropertiesChainedProperty.java:93] - Flipping property: hystrix.threadpool.content-api.maximumSize to use NEXT property: hystrix.threadpool.default.maximumSize = 10
+2023-03-10 13:04:30,320 DEBUG [main][HystrixPropertiesChainedProperty.java:93] - Flipping property: hystrix.threadpool.content-api.keepAliveTimeMinutes to use NEXT property: hystrix.threadpool.default.keepAliveTimeMinutes = 1
+2023-03-10 13:04:30,320 DEBUG [main][HystrixPropertiesChainedProperty.java:93] - Flipping property: hystrix.threadpool.content-api.keepAliveTimeMinutes to use NEXT property: hystrix.threadpool.default.keepAliveTimeMinutes = 1
+2023-03-10 13:04:30,320 DEBUG [main][HystrixPropertiesChainedProperty.java:93] - Flipping property: hystrix.threadpool.content-api.maxQueueSize to use NEXT property: hystrix.threadpool.default.maxQueueSize = -1
+2023-03-10 13:04:30,320 DEBUG [main][HystrixPropertiesChainedProperty.java:93] - Flipping property: hystrix.threadpool.content-api.maxQueueSize to use NEXT property: hystrix.threadpool.default.maxQueueSize = -1
+2023-03-10 13:04:30,320 DEBUG [main][HystrixPropertiesChainedProperty.java:93] - Flipping property: hystrix.threadpool.content-api.queueSizeRejectionThreshold to use NEXT property: hystrix.threadpool.default.queueSizeRejectionThreshold = 5
+2023-03-10 13:04:30,320 DEBUG [main][HystrixPropertiesChainedProperty.java:93] - Flipping property: hystrix.threadpool.content-api.queueSizeRejectionThreshold to use NEXT property: hystrix.threadpool.default.queueSizeRejectionThreshold = 5
+2023-03-10 13:04:30,320 DEBUG [main][HystrixPropertiesChainedProperty.java:93] - Flipping property: hystrix.threadpool.content-api.metrics.rollingStats.timeInMilliseconds to use NEXT property: hystrix.threadpool.default.metrics.rollingStats.timeInMilliseconds = 10000
+2023-03-10 13:04:30,320 DEBUG [main][HystrixPropertiesChainedProperty.java:93] - Flipping property: hystrix.threadpool.content-api.metrics.rollingStats.timeInMilliseconds to use NEXT property: hystrix.threadpool.default.metrics.rollingStats.timeInMilliseconds = 10000
+2023-03-10 13:04:30,327 DEBUG [main][HystrixPropertiesChainedProperty.java:93] - Flipping property: hystrix.threadpool.content-api.metrics.rollingStats.numBuckets to use NEXT property: hystrix.threadpool.default.metrics.rollingStats.numBuckets = 10
+2023-03-10 13:04:30,327 DEBUG [main][HystrixPropertiesChainedProperty.java:93] - Flipping property: hystrix.threadpool.content-api.metrics.rollingStats.numBuckets to use NEXT property: hystrix.threadpool.default.metrics.rollingStats.numBuckets = 10
+2023-03-10 13:04:30,405 DEBUG [hystrix-content-api-1][Slf4jLogger.java:72] - [ContentServiceClient#getCoursepublish] ---> GET http://content-api/content/r/coursepublish/129 HTTP/1.1
+2023-03-10 13:04:30,405 DEBUG [hystrix-content-api-1][Slf4jLogger.java:72] - [ContentServiceClient#getCoursepublish] ---> GET http://content-api/content/r/coursepublish/129 HTTP/1.1
+2023-03-10 13:04:30,815 DEBUG [hystrix-content-api-1][ZoneAffinityServerListFilter.java:83] - ZoneAffinity is set to false
+2023-03-10 13:04:30,815 DEBUG [hystrix-content-api-1][ZoneAffinityServerListFilter.java:83] - ZoneAffinity is set to false
+2023-03-10 13:04:30,819 DEBUG [hystrix-content-api-1][ZoneAffinityServerListFilter.java:93] - activeReqeustsPerServerThreshold: 0.6
+2023-03-10 13:04:30,819 DEBUG [hystrix-content-api-1][ZoneAffinityServerListFilter.java:93] - activeReqeustsPerServerThreshold: 0.6
+2023-03-10 13:04:30,820 DEBUG [hystrix-content-api-1][ZoneAffinityServerListFilter.java:95] - blackOutServerPercentageThreshold: 0.8
+2023-03-10 13:04:30,822 DEBUG [hystrix-content-api-1][ZoneAffinityServerListFilter.java:97] - availableServersThreshold: 2
+2023-03-10 13:04:30,820 DEBUG [hystrix-content-api-1][ZoneAffinityServerListFilter.java:95] - blackOutServerPercentageThreshold: 0.8
+2023-03-10 13:04:30,822 DEBUG [hystrix-content-api-1][ZoneAffinityServerListFilter.java:97] - availableServersThreshold: 2
+2023-03-10 13:04:30,874 INFO [hystrix-content-api-1][ChainedDynamicProperty.java:115] - Flipping property: content-api.ribbon.ActiveConnectionsLimit to use NEXT property: niws.loadbalancer.availabilityFilteringRule.activeConnectionsLimit = 2147483647
+2023-03-10 13:04:30,874 INFO [hystrix-content-api-1][ChainedDynamicProperty.java:115] - Flipping property: content-api.ribbon.ActiveConnectionsLimit to use NEXT property: niws.loadbalancer.availabilityFilteringRule.activeConnectionsLimit = 2147483647
+2023-03-10 13:04:30,904 DEBUG [hystrix-content-api-1][BaseLoadBalancer.java:338] - LoadBalancer [content-api]:  pingIntervalSeconds set to 30
+2023-03-10 13:04:30,904 DEBUG [hystrix-content-api-1][BaseLoadBalancer.java:338] - LoadBalancer [content-api]:  pingIntervalSeconds set to 30
+2023-03-10 13:04:30,905 DEBUG [hystrix-content-api-1][BaseLoadBalancer.java:356] - LoadBalancer [content-api]: maxTotalPingTime set to 2
+2023-03-10 13:04:30,905 DEBUG [hystrix-content-api-1][BaseLoadBalancer.java:356] - LoadBalancer [content-api]: maxTotalPingTime set to 2
+2023-03-10 13:04:30,908 INFO [hystrix-content-api-1][BaseLoadBalancer.java:197] - Client: content-api instantiated a LoadBalancer: DynamicServerListLoadBalancer:{NFLoadBalancer:name=content-api,current list of Servers=[],Load balancer stats=Zone stats: {},Server stats: []}ServerList:null
+2023-03-10 13:04:30,908 INFO [hystrix-content-api-1][BaseLoadBalancer.java:197] - Client: content-api instantiated a LoadBalancer: DynamicServerListLoadBalancer:{NFLoadBalancer:name=content-api,current list of Servers=[],Load balancer stats=Zone stats: {},Server stats: []}ServerList:null
+2023-03-10 13:04:30,913 INFO [hystrix-content-api-1][DynamicServerListLoadBalancer.java:222] - Using serverListUpdater PollingServerListUpdater
+2023-03-10 13:04:30,913 INFO [hystrix-content-api-1][DynamicServerListLoadBalancer.java:222] - Using serverListUpdater PollingServerListUpdater
+2023-03-10 13:04:30,921 DEBUG [hystrix-content-api-1][HostReactor.java:306] - failover-mode: false
+2023-03-10 13:04:30,921 DEBUG [hystrix-content-api-1][HostReactor.java:306] - failover-mode: false
+2023-03-10 13:04:30,922 DEBUG [hystrix-content-api-1][NacosRestTemplate.java:476] - HTTP method: GET, url: http://39.105.221.68:8848/nacos/v1/ns/instance/list?app=unknown&healthyOnly=false&namespaceId=dev148&clientIP=192.168.101.1&serviceName=xuecheng-plus-project%40%40content-api&udpPort=59485&clusters=, body: {}
+2023-03-10 13:04:30,922 DEBUG [hystrix-content-api-1][NacosRestTemplate.java:476] - HTTP method: GET, url: http://39.105.221.68:8848/nacos/v1/ns/instance/list?app=unknown&healthyOnly=false&namespaceId=dev148&clientIP=192.168.101.1&serviceName=xuecheng-plus-project%40%40content-api&udpPort=59485&clusters=, body: {}
+2023-03-10 13:04:30,968 INFO [hystrix-content-api-1][HostReactor.java:232] - new ips(1) service: xuecheng-plus-project@@content-api -> [{"instanceId":"192.168.101.1#63040#DEFAULT#xuecheng-plus-project@@content-api","ip":"192.168.101.1","port":63040,"weight":1.0,"healthy":true,"enabled":true,"ephemeral":true,"clusterName":"DEFAULT","serviceName":"xuecheng-plus-project@@content-api","metadata":{"preserved.register.source":"SPRING_CLOUD"},"ipDeleteTimeout":30000,"instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000}]
+2023-03-10 13:04:30,968 INFO [hystrix-content-api-1][HostReactor.java:232] - new ips(1) service: xuecheng-plus-project@@content-api -> [{"instanceId":"192.168.101.1#63040#DEFAULT#xuecheng-plus-project@@content-api","ip":"192.168.101.1","port":63040,"weight":1.0,"healthy":true,"enabled":true,"ephemeral":true,"clusterName":"DEFAULT","serviceName":"xuecheng-plus-project@@content-api","metadata":{"preserved.register.source":"SPRING_CLOUD"},"ipDeleteTimeout":30000,"instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000}]
+2023-03-10 13:04:30,970 DEBUG [nacos.publisher-com.alibaba.nacos.client.naming.event.InstancesChangeEvent][DefaultPublisher.java:193] - [NotifyCenter] the com.alibaba.nacos.client.naming.event.InstancesChangeEvent@3c60bae0 will received by com.alibaba.nacos.client.naming.event.InstancesChangeNotifier@1791e231
+2023-03-10 13:04:30,970 DEBUG [nacos.publisher-com.alibaba.nacos.client.naming.event.InstancesChangeEvent][DefaultPublisher.java:193] - [NotifyCenter] the com.alibaba.nacos.client.naming.event.InstancesChangeEvent@3c60bae0 will received by com.alibaba.nacos.client.naming.event.InstancesChangeNotifier@1791e231
+2023-03-10 13:04:30,976 INFO [hystrix-content-api-1][HostReactor.java:271] - current ips:(1) service: xuecheng-plus-project@@content-api -> [{"instanceId":"192.168.101.1#63040#DEFAULT#xuecheng-plus-project@@content-api","ip":"192.168.101.1","port":63040,"weight":1.0,"healthy":true,"enabled":true,"ephemeral":true,"clusterName":"DEFAULT","serviceName":"xuecheng-plus-project@@content-api","metadata":{"preserved.register.source":"SPRING_CLOUD"},"ipDeleteTimeout":30000,"instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000}]
+2023-03-10 13:04:30,976 INFO [hystrix-content-api-1][HostReactor.java:271] - current ips:(1) service: xuecheng-plus-project@@content-api -> [{"instanceId":"192.168.101.1#63040#DEFAULT#xuecheng-plus-project@@content-api","ip":"192.168.101.1","port":63040,"weight":1.0,"healthy":true,"enabled":true,"ephemeral":true,"clusterName":"DEFAULT","serviceName":"xuecheng-plus-project@@content-api","metadata":{"preserved.register.source":"SPRING_CLOUD"},"ipDeleteTimeout":30000,"instanceHeartBeatInterval":5000,"instanceHeartBeatTimeOut":15000}]
+2023-03-10 13:04:30,979 DEBUG [hystrix-content-api-1][DynamicServerListLoadBalancer.java:241] - List of Servers for content-api obtained from Discovery client: [192.168.101.1:63040]
+2023-03-10 13:04:30,979 DEBUG [hystrix-content-api-1][DynamicServerListLoadBalancer.java:241] - List of Servers for content-api obtained from Discovery client: [192.168.101.1:63040]
+2023-03-10 13:04:30,980 DEBUG [hystrix-content-api-1][DynamicServerListLoadBalancer.java:246] - Filtered List of Servers for content-api obtained from Discovery client: [192.168.101.1:63040]
+2023-03-10 13:04:30,980 DEBUG [hystrix-content-api-1][DynamicServerListLoadBalancer.java:246] - Filtered List of Servers for content-api obtained from Discovery client: [192.168.101.1:63040]
+2023-03-10 13:04:30,980 DEBUG [hystrix-content-api-1][BaseLoadBalancer.java:491] - LoadBalancer [content-api]: clearing server list (SET op)
+2023-03-10 13:04:30,980 DEBUG [hystrix-content-api-1][BaseLoadBalancer.java:491] - LoadBalancer [content-api]: clearing server list (SET op)
+2023-03-10 13:04:30,980 DEBUG [hystrix-content-api-1][BaseLoadBalancer.java:507] - LoadBalancer [content-api]:  addServer [192.168.101.1:63040]
+2023-03-10 13:04:30,980 DEBUG [hystrix-content-api-1][BaseLoadBalancer.java:507] - LoadBalancer [content-api]:  addServer [192.168.101.1:63040]
+2023-03-10 13:04:30,990 DEBUG [hystrix-content-api-1][DynamicServerListLoadBalancer.java:179] - Setting server list for zones: {unknown=[192.168.101.1:63040]}
+2023-03-10 13:04:30,990 DEBUG [hystrix-content-api-1][DynamicServerListLoadBalancer.java:179] - Setting server list for zones: {unknown=[192.168.101.1:63040]}
+2023-03-10 13:04:30,992 INFO [hystrix-content-api-1][ChainedDynamicProperty.java:115] - Flipping property: content-api.ribbon.ActiveConnectionsLimit to use NEXT property: niws.loadbalancer.availabilityFilteringRule.activeConnectionsLimit = 2147483647
+2023-03-10 13:04:30,992 INFO [hystrix-content-api-1][ChainedDynamicProperty.java:115] - Flipping property: content-api.ribbon.ActiveConnectionsLimit to use NEXT property: niws.loadbalancer.availabilityFilteringRule.activeConnectionsLimit = 2147483647
+2023-03-10 13:04:30,993 DEBUG [hystrix-content-api-1][BaseLoadBalancer.java:147] - LoadBalancer [content-api_unknown]:  initialized
+2023-03-10 13:04:30,993 DEBUG [hystrix-content-api-1][BaseLoadBalancer.java:147] - LoadBalancer [content-api_unknown]:  initialized
+2023-03-10 13:04:30,994 DEBUG [hystrix-content-api-1][BaseLoadBalancer.java:491] - LoadBalancer [content-api_unknown]: clearing server list (SET op)
+2023-03-10 13:04:30,994 DEBUG [hystrix-content-api-1][BaseLoadBalancer.java:507] - LoadBalancer [content-api_unknown]:  addServer [192.168.101.1:63040]
+2023-03-10 13:04:30,994 DEBUG [hystrix-content-api-1][BaseLoadBalancer.java:491] - LoadBalancer [content-api_unknown]: clearing server list (SET op)
+2023-03-10 13:04:30,994 DEBUG [hystrix-content-api-1][BaseLoadBalancer.java:507] - LoadBalancer [content-api_unknown]:  addServer [192.168.101.1:63040]
+2023-03-10 13:04:31,002 INFO [hystrix-content-api-1][DynamicServerListLoadBalancer.java:150] - DynamicServerListLoadBalancer for client content-api initialized: DynamicServerListLoadBalancer:{NFLoadBalancer:name=content-api,current list of Servers=[192.168.101.1:63040],Load balancer stats=Zone stats: {unknown=[Zone:unknown;	Instance count:1;	Active connections count: 0;	Circuit breaker tripped count: 0;	Active connections per server: 0.0;]
+},Server stats: [[Server:192.168.101.1:63040;	Zone:UNKNOWN;	Total Requests:0;	Successive connection failure:0;	Total blackout seconds:0;	Last connection made:Thu Jan 01 08:00:00 CST 1970;	First connection made: Thu Jan 01 08:00:00 CST 1970;	Active Connections:0;	total failure count in last (1000) msecs:0;	average resp time:0.0;	90 percentile resp time:0.0;	95 percentile resp time:0.0;	min resp time:0.0;	max resp time:0.0;	stddev resp time:0.0]
+]}ServerList:com.alibaba.cloud.nacos.ribbon.NacosServerList@5af59c00
+2023-03-10 13:04:31,002 INFO [hystrix-content-api-1][DynamicServerListLoadBalancer.java:150] - DynamicServerListLoadBalancer for client content-api initialized: DynamicServerListLoadBalancer:{NFLoadBalancer:name=content-api,current list of Servers=[192.168.101.1:63040],Load balancer stats=Zone stats: {unknown=[Zone:unknown;	Instance count:1;	Active connections count: 0;	Circuit breaker tripped count: 0;	Active connections per server: 0.0;]
+},Server stats: [[Server:192.168.101.1:63040;	Zone:UNKNOWN;	Total Requests:0;	Successive connection failure:0;	Total blackout seconds:0;	Last connection made:Thu Jan 01 08:00:00 CST 1970;	First connection made: Thu Jan 01 08:00:00 CST 1970;	Active Connections:0;	total failure count in last (1000) msecs:0;	average resp time:0.0;	90 percentile resp time:0.0;	95 percentile resp time:0.0;	min resp time:0.0;	max resp time:0.0;	stddev resp time:0.0]
+]}ServerList:com.alibaba.cloud.nacos.ribbon.NacosServerList@5af59c00
+2023-03-10 13:04:31,054 DEBUG [hystrix-content-api-1][ZoneAwareLoadBalancer.java:112] - Zone aware logic disabled or there is only one zone
+2023-03-10 13:04:31,054 DEBUG [hystrix-content-api-1][ZoneAwareLoadBalancer.java:112] - Zone aware logic disabled or there is only one zone
+2023-03-10 13:04:31,067 DEBUG [hystrix-content-api-1][LoadBalancerContext.java:492] - content-api using LB returned Server: 192.168.101.1:63040 for request http:///content/r/coursepublish/129
+2023-03-10 13:04:31,067 DEBUG [hystrix-content-api-1][LoadBalancerContext.java:492] - content-api using LB returned Server: 192.168.101.1:63040 for request http:///content/r/coursepublish/129
+2023-03-10 13:04:31,168 DEBUG [hystrix-content-api-1][Slf4jLogger.java:72] - [ContentServiceClient#getCoursepublish] <--- HTTP/1.1 200 (757ms)
+2023-03-10 13:04:31,168 DEBUG [hystrix-content-api-1][Slf4jLogger.java:72] - [ContentServiceClient#getCoursepublish] <--- HTTP/1.1 200 (757ms)
+2023-03-10 13:04:51,737 DEBUG [com.alibaba.nacos.client.naming.updater][NacosRestTemplate.java:476] - HTTP method: GET, url: http://39.105.221.68:8848/nacos/v1/ns/instance/list?app=unknown&healthyOnly=false&namespaceId=dev148&clientIP=192.168.101.1&serviceName=xuecheng-plus-project%40%40learning-service&udpPort=59485&clusters=DEFAULT, body: {}
+2023-03-10 13:04:51,737 DEBUG [com.alibaba.nacos.client.naming.updater][NacosRestTemplate.java:476] - HTTP method: GET, url: http://39.105.221.68:8848/nacos/v1/ns/instance/list?app=unknown&healthyOnly=false&namespaceId=dev148&clientIP=192.168.101.1&serviceName=xuecheng-plus-project%40%40content-api&udpPort=59485&clusters=, body: {}
+2023-03-10 13:04:51,737 DEBUG [com.alibaba.nacos.client.naming.updater][NacosRestTemplate.java:476] - HTTP method: GET, url: http://39.105.221.68:8848/nacos/v1/ns/instance/list?app=unknown&healthyOnly=false&namespaceId=dev148&clientIP=192.168.101.1&serviceName=xuecheng-plus-project%40%40learning-service&udpPort=59485&clusters=DEFAULT, body: {}
+2023-03-10 13:04:51,737 DEBUG [com.alibaba.nacos.naming.failover][FailoverReactor.java:147] - failover switch is not found, failover00-00---000-VIPSRV_FAILOVER_SWITCH-000---00-00
+2023-03-10 13:04:51,737 DEBUG [com.alibaba.nacos.client.naming.updater][NacosRestTemplate.java:476] - HTTP method: GET, url: http://39.105.221.68:8848/nacos/v1/ns/instance/list?app=unknown&healthyOnly=false&namespaceId=dev148&clientIP=192.168.101.1&serviceName=xuecheng-plus-project%40%40content-api&udpPort=59485&clusters=, body: {}
+2023-03-10 13:04:51,737 DEBUG [com.alibaba.nacos.naming.failover][FailoverReactor.java:147] - failover switch is not found, failover00-00---000-VIPSRV_FAILOVER_SWITCH-000---00-00
+2023-03-10 13:04:51,747 DEBUG [PollingServerListUpdater-0][HostReactor.java:306] - failover-mode: false
+2023-03-10 13:04:51,751 DEBUG [PollingServerListUpdater-0][DynamicServerListLoadBalancer.java:241] - List of Servers for content-api obtained from Discovery client: [192.168.101.1:63040]
+2023-03-10 13:04:51,752 DEBUG [PollingServerListUpdater-0][DynamicServerListLoadBalancer.java:246] - Filtered List of Servers for content-api obtained from Discovery client: [192.168.101.1:63040]
+2023-03-10 13:04:51,752 DEBUG [PollingServerListUpdater-0][BaseLoadBalancer.java:491] - LoadBalancer [content-api]: clearing server list (SET op)
+2023-03-10 13:04:51,753 DEBUG [PollingServerListUpdater-0][BaseLoadBalancer.java:507] - LoadBalancer [content-api]:  addServer [192.168.101.1:63040]
+2023-03-10 13:04:51,753 DEBUG [PollingServerListUpdater-0][DynamicServerListLoadBalancer.java:179] - Setting server list for zones: {unknown=[192.168.101.1:63040]}
+2023-03-10 13:04:51,754 INFO [PollingServerListUpdater-0][ChainedDynamicProperty.java:115] - Flipping property: content-api.ribbon.ActiveConnectionsLimit to use NEXT property: niws.loadbalancer.availabilityFilteringRule.activeConnectionsLimit = 2147483647
+2023-03-10 13:04:51,754 DEBUG [PollingServerListUpdater-0][BaseLoadBalancer.java:147] - LoadBalancer [content-api_unknown]:  initialized
+2023-03-10 13:04:51,747 DEBUG [PollingServerListUpdater-0][HostReactor.java:306] - failover-mode: false
+2023-03-10 13:04:51,751 DEBUG [PollingServerListUpdater-0][DynamicServerListLoadBalancer.java:241] - List of Servers for content-api obtained from Discovery client: [192.168.101.1:63040]
+2023-03-10 13:04:51,752 DEBUG [PollingServerListUpdater-0][DynamicServerListLoadBalancer.java:246] - Filtered List of Servers for content-api obtained from Discovery client: [192.168.101.1:63040]
+2023-03-10 13:04:51,752 DEBUG [PollingServerListUpdater-0][BaseLoadBalancer.java:491] - LoadBalancer [content-api]: clearing server list (SET op)
+2023-03-10 13:04:51,753 DEBUG [PollingServerListUpdater-0][BaseLoadBalancer.java:507] - LoadBalancer [content-api]:  addServer [192.168.101.1:63040]
+2023-03-10 13:04:51,753 DEBUG [PollingServerListUpdater-0][DynamicServerListLoadBalancer.java:179] - Setting server list for zones: {unknown=[192.168.101.1:63040]}
+2023-03-10 13:04:51,754 INFO [PollingServerListUpdater-0][ChainedDynamicProperty.java:115] - Flipping property: content-api.ribbon.ActiveConnectionsLimit to use NEXT property: niws.loadbalancer.availabilityFilteringRule.activeConnectionsLimit = 2147483647
+2023-03-10 13:04:51,754 DEBUG [PollingServerListUpdater-0][BaseLoadBalancer.java:147] - LoadBalancer [content-api_unknown]:  initialized
+2023-03-10 13:04:51,787 DEBUG [PollingServerListUpdater-0][BaseLoadBalancer.java:491] - LoadBalancer [content-api_unknown]: clearing server list (SET op)
+2023-03-10 13:04:51,787 DEBUG [PollingServerListUpdater-0][BaseLoadBalancer.java:491] - LoadBalancer [content-api_unknown]: clearing server list (SET op)
+2023-03-10 13:04:51,789 DEBUG [PollingServerListUpdater-0][BaseLoadBalancer.java:507] - LoadBalancer [content-api_unknown]:  addServer [192.168.101.1:63040]
+2023-03-10 13:04:51,789 DEBUG [PollingServerListUpdater-0][BaseLoadBalancer.java:507] - LoadBalancer [content-api_unknown]:  addServer [192.168.101.1:63040]
+2023-03-10 13:04:51,852 WARN [Thread-2][HttpClientBeanHolder.java:108] - [HttpClientBeanHolder] Start destroying common HttpClient
+2023-03-10 13:04:51,852 WARN [Thread-2][HttpClientBeanHolder.java:108] - [HttpClientBeanHolder] Start destroying common HttpClient
+2023-03-10 13:04:51,854 INFO [Thread-20][PollingServerListUpdater.java:53] - Shutting down the Executor Pool for PollingServerListUpdater
+2023-03-10 13:04:51,854 WARN [Thread-2][HttpClientBeanHolder.java:114] - [HttpClientBeanHolder] Destruction of the end
+2023-03-10 13:04:51,854 INFO [Thread-20][PollingServerListUpdater.java:53] - Shutting down the Executor Pool for PollingServerListUpdater
+2023-03-10 13:04:51,854 WARN [Thread-2][HttpClientBeanHolder.java:114] - [HttpClientBeanHolder] Destruction of the end
+2023-03-10 13:04:51,856 INFO [SpringContextShutdownHook][ExecutorConfigurationSupport.java:218] - Shutting down ExecutorService 'Nacos-Watch-Task-Scheduler'
+2023-03-10 13:04:51,856 INFO [SpringContextShutdownHook][ExecutorConfigurationSupport.java:218] - Shutting down ExecutorService 'Nacos-Watch-Task-Scheduler'
+2023-03-10 13:04:51,857 WARN [Thread-13][NotifyCenter.java:145] - [NotifyCenter] Start destroying Publisher
+2023-03-10 13:04:51,857 WARN [Thread-13][NotifyCenter.java:145] - [NotifyCenter] Start destroying Publisher
+2023-03-10 13:04:51,859 WARN [Thread-13][NotifyCenter.java:162] - [NotifyCenter] Destruction of the end
+2023-03-10 13:04:51,859 WARN [Thread-13][NotifyCenter.java:162] - [NotifyCenter] Destruction of the end
+2023-03-10 13:04:51,890 INFO [SpringContextShutdownHook][BeatReactor.java:147] - com.alibaba.nacos.client.naming.beat.BeatReactor do shutdown begin
+2023-03-10 13:04:51,890 INFO [SpringContextShutdownHook][BeatReactor.java:147] - com.alibaba.nacos.client.naming.beat.BeatReactor do shutdown begin
+2023-03-10 13:04:51,890 INFO [SpringContextShutdownHook][BeatReactor.java:149] - com.alibaba.nacos.client.naming.beat.BeatReactor do shutdown stop
+2023-03-10 13:04:51,890 INFO [SpringContextShutdownHook][BeatReactor.java:149] - com.alibaba.nacos.client.naming.beat.BeatReactor do shutdown stop
+2023-03-10 13:04:51,890 INFO [SpringContextShutdownHook][HostReactor.java:413] - com.alibaba.nacos.client.naming.core.HostReactor do shutdown begin
+2023-03-10 13:04:51,890 INFO [SpringContextShutdownHook][HostReactor.java:413] - com.alibaba.nacos.client.naming.core.HostReactor do shutdown begin
+2023-03-10 13:04:54,907 INFO [SpringContextShutdownHook][PushReceiver.java:132] - com.alibaba.nacos.client.naming.core.PushReceiver do shutdown begin
+2023-03-10 13:04:54,907 INFO [SpringContextShutdownHook][PushReceiver.java:132] - com.alibaba.nacos.client.naming.core.PushReceiver do shutdown begin
+2023-03-10 13:04:56,753 DEBUG [com.alibaba.nacos.naming.failover][FailoverReactor.java:147] - failover switch is not found, failover00-00---000-VIPSRV_FAILOVER_SWITCH-000---00-00
+2023-03-10 13:04:56,753 DEBUG [com.alibaba.nacos.naming.failover][FailoverReactor.java:147] - failover switch is not found, failover00-00---000-VIPSRV_FAILOVER_SWITCH-000---00-00
+2023-03-10 13:04:57,945 INFO [SpringContextShutdownHook][PushReceiver.java:136] - com.alibaba.nacos.client.naming.core.PushReceiver do shutdown stop
+2023-03-10 13:04:57,945 INFO [SpringContextShutdownHook][PushReceiver.java:136] - com.alibaba.nacos.client.naming.core.PushReceiver do shutdown stop
+2023-03-10 13:04:57,946 INFO [SpringContextShutdownHook][FailoverReactor.java:132] - com.alibaba.nacos.client.naming.backups.FailoverReactor do shutdown begin
+2023-03-10 13:04:57,946 INFO [SpringContextShutdownHook][FailoverReactor.java:132] - com.alibaba.nacos.client.naming.backups.FailoverReactor do shutdown begin
+2023-03-10 13:04:57,947 INFO [SpringContextShutdownHook][FailoverReactor.java:134] - com.alibaba.nacos.client.naming.backups.FailoverReactor do shutdown stop
+2023-03-10 13:04:57,947 INFO [SpringContextShutdownHook][FailoverReactor.java:134] - com.alibaba.nacos.client.naming.backups.FailoverReactor do shutdown stop
+2023-03-10 13:04:57,947 INFO [SpringContextShutdownHook][HostReactor.java:418] - com.alibaba.nacos.client.naming.core.HostReactor do shutdown stop
+2023-03-10 13:04:57,947 INFO [SpringContextShutdownHook][HostReactor.java:418] - com.alibaba.nacos.client.naming.core.HostReactor do shutdown stop
+2023-03-10 13:04:57,948 INFO [SpringContextShutdownHook][NamingProxy.java:719] - com.alibaba.nacos.client.naming.net.NamingProxy do shutdown begin
+2023-03-10 13:04:57,948 INFO [SpringContextShutdownHook][NamingProxy.java:719] - com.alibaba.nacos.client.naming.net.NamingProxy do shutdown begin
+2023-03-10 13:04:57,949 WARN [SpringContextShutdownHook][NamingHttpClientManager.java:72] - [NamingHttpClientManager] Start destroying NacosRestTemplate
+2023-03-10 13:04:57,949 WARN [SpringContextShutdownHook][NamingHttpClientManager.java:72] - [NamingHttpClientManager] Start destroying NacosRestTemplate
+2023-03-10 13:04:57,949 WARN [SpringContextShutdownHook][NamingHttpClientManager.java:79] - [NamingHttpClientManager] Destruction of the end
+2023-03-10 13:04:57,949 WARN [SpringContextShutdownHook][NamingHttpClientManager.java:79] - [NamingHttpClientManager] Destruction of the end
+2023-03-10 13:04:57,950 INFO [SpringContextShutdownHook][CredentialWatcher.java:105] - [null] CredentialWatcher is stopped
+2023-03-10 13:04:57,950 INFO [SpringContextShutdownHook][CredentialWatcher.java:105] - [null] CredentialWatcher is stopped
+2023-03-10 13:04:57,951 INFO [SpringContextShutdownHook][CredentialService.java:98] - [null] CredentialService is freed
+2023-03-10 13:04:57,951 INFO [SpringContextShutdownHook][CredentialService.java:98] - [null] CredentialService is freed
+2023-03-10 13:04:57,951 INFO [SpringContextShutdownHook][NamingProxy.java:723] - com.alibaba.nacos.client.naming.net.NamingProxy do shutdown stop
+2023-03-10 13:04:57,951 INFO [SpringContextShutdownHook][NamingProxy.java:723] - com.alibaba.nacos.client.naming.net.NamingProxy do shutdown stop
+2023-03-10 13:05:31,856 INFO [main][SpringApplication.java:655] - The following profiles are active: dev
+2023-03-10 13:05:31,856 INFO [main][SpringApplication.java:655] - The following profiles are active: dev
+2023-03-10 13:05:32,683 DEBUG [main][LogFactory.java:105] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2023-03-10 13:05:32,683 DEBUG [main][LogFactory.java:105] - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2023-03-10 13:05:32,806 INFO [main][GenericScope.java:295] - BeanFactory id=93a25b20-42a7-3cd7-ad5c-2fa9e0fd1783
+2023-03-10 13:05:32,806 INFO [main][GenericScope.java:295] - BeanFactory id=93a25b20-42a7-3cd7-ad5c-2fa9e0fd1783
+2023-03-10 13:05:32,869 INFO [main][PostProcessorRegistrationDelegate.java:335] - Bean 'com.xuecheng.learning.feignclient.ContentServiceClient' of type [org.springframework.cloud.openfeign.FeignClientFactoryBean] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2023-03-10 13:05:32,869 INFO [main][PostProcessorRegistrationDelegate.java:335] - Bean 'com.xuecheng.learning.feignclient.ContentServiceClient' of type [org.springframework.cloud.openfeign.FeignClientFactoryBean] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2023-03-10 13:05:32,878 INFO [main][PostProcessorRegistrationDelegate.java:335] - Bean 'com.xuecheng.learning.feignclient.MediaServiceClient' of type [org.springframework.cloud.openfeign.FeignClientFactoryBean] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2023-03-10 13:05:32,878 INFO [main][PostProcessorRegistrationDelegate.java:335] - Bean 'com.xuecheng.learning.feignclient.MediaServiceClient' of type [org.springframework.cloud.openfeign.FeignClientFactoryBean] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2023-03-10 13:05:33,192 WARN [main][URLConfigurationSource.java:121] - No URLs will be polled as dynamic configuration sources.
+2023-03-10 13:05:33,192 WARN [main][URLConfigurationSource.java:121] - No URLs will be polled as dynamic configuration sources.
+2023-03-10 13:05:33,193 INFO [main][URLConfigurationSource.java:122] - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2023-03-10 13:05:33,193 INFO [main][URLConfigurationSource.java:122] - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2023-03-10 13:05:33,201 WARN [main][URLConfigurationSource.java:121] - No URLs will be polled as dynamic configuration sources.
+2023-03-10 13:05:33,201 WARN [main][URLConfigurationSource.java:121] - No URLs will be polled as dynamic configuration sources.
+2023-03-10 13:05:33,202 INFO [main][URLConfigurationSource.java:122] - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2023-03-10 13:05:33,202 INFO [main][URLConfigurationSource.java:122] - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2023-03-10 13:05:35,193 INFO [main][InetUtils.java:170] - Cannot determine local hostname
+2023-03-10 13:05:35,193 INFO [main][InetUtils.java:170] - Cannot determine local hostname
+2023-03-10 13:05:35,225 INFO [main][ExecutorConfigurationSupport.java:181] - Initializing ExecutorService 'Nacos-Watch-Task-Scheduler'
+2023-03-10 13:05:35,225 INFO [main][ExecutorConfigurationSupport.java:181] - Initializing ExecutorService 'Nacos-Watch-Task-Scheduler'
+2023-03-10 13:05:35,554 DEBUG [main][HikariConfig.java:946] - Driver class com.mysql.cj.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
+2023-03-10 13:05:35,554 DEBUG [main][HikariConfig.java:946] - Driver class com.mysql.cj.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
+2023-03-10 13:05:36,114 DEBUG [main][Logger.java:49] - Registered plugin: 'com.baomidou.mybatisplus.extension.plugins.MybatisPlusInterceptor@239f017e'
+2023-03-10 13:05:36,114 DEBUG [main][Logger.java:49] - Registered plugin: 'com.baomidou.mybatisplus.extension.plugins.MybatisPlusInterceptor@239f017e'
+2023-03-10 13:05:36,117 DEBUG [main][Logger.java:49] - Property 'mapperLocations' was not specified.
+2023-03-10 13:05:36,117 DEBUG [main][Logger.java:49] - Property 'mapperLocations' was not specified.
+2023-03-10 13:05:38,321 DEBUG [main][ResourceBundleMessageInterpolator.java:172] - Loaded expression factory via original TCCL
+2023-03-10 13:05:38,321 DEBUG [main][ResourceBundleMessageInterpolator.java:172] - Loaded expression factory via original TCCL
+2023-03-10 13:05:38,344 DEBUG [main][AbstractConfigurationImpl.java:171] - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+2023-03-10 13:05:38,344 DEBUG [main][AbstractConfigurationImpl.java:171] - Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+2023-03-10 13:05:38,345 DEBUG [main][AbstractConfigurationImpl.java:203] - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+2023-03-10 13:05:38,345 DEBUG [main][AbstractConfigurationImpl.java:203] - Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+2023-03-10 13:05:38,346 DEBUG [main][AbstractConfigurationImpl.java:217] - Setting custom ParameterNameProvider of type org.springframework.validation.beanvalidation.LocalValidatorFactoryBean$1
+2023-03-10 13:05:38,346 DEBUG [main][AbstractConfigurationImpl.java:217] - Setting custom ParameterNameProvider of type org.springframework.validation.beanvalidation.LocalValidatorFactoryBean$1
+2023-03-10 13:05:38,353 DEBUG [main][ValidationXmlParser.java:120] - Trying to load META-INF/validation.xml for XML based Validator configuration.
+2023-03-10 13:05:38,353 DEBUG [main][ValidationXmlParser.java:120] - Trying to load META-INF/validation.xml for XML based Validator configuration.
+2023-03-10 13:05:38,353 DEBUG [main][ResourceLoaderHelper.java:53] - Trying to load META-INF/validation.xml via user class loader
+2023-03-10 13:05:38,353 DEBUG [main][ResourceLoaderHelper.java:53] - Trying to load META-INF/validation.xml via user class loader
+2023-03-10 13:05:38,357 DEBUG [main][ResourceLoaderHelper.java:60] - Trying to load META-INF/validation.xml via TCCL
+2023-03-10 13:05:38,357 DEBUG [main][ResourceLoaderHelper.java:60] - Trying to load META-INF/validation.xml via TCCL
+2023-03-10 13:05:38,357 DEBUG [main][ResourceLoaderHelper.java:66] - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2023-03-10 13:05:38,357 DEBUG [main][ResourceLoaderHelper.java:66] - Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+2023-03-10 13:05:38,357 DEBUG [main][ValidationXmlParser.java:127] - No META-INF/validation.xml found. Using annotation based configuration only.
+2023-03-10 13:05:38,357 DEBUG [main][ValidationXmlParser.java:127] - No META-INF/validation.xml found. Using annotation based configuration only.
+2023-03-10 13:05:38,357 DEBUG [main][TraversableResolvers.java:60] - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2023-03-10 13:05:38,357 DEBUG [main][TraversableResolvers.java:60] - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2023-03-10 13:05:38,357 DEBUG [main][ValidatorFactoryConfigurationHelper.java:300] - HV000252: Using org.hibernate.validator.internal.engine.DefaultPropertyNodeNameProvider as property node name provider.
+2023-03-10 13:05:38,357 DEBUG [main][ValidatorFactoryConfigurationHelper.java:300] - HV000252: Using org.hibernate.validator.internal.engine.DefaultPropertyNodeNameProvider as property node name provider.
+2023-03-10 13:05:38,357 DEBUG [main][ValidatorFactoryConfigurationHelper.java:375] - HV000234: Using org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator as ValidatorFactory-scoped message interpolator.
+2023-03-10 13:05:38,357 DEBUG [main][ValidatorFactoryConfigurationHelper.java:375] - HV000234: Using org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator as ValidatorFactory-scoped message interpolator.
+2023-03-10 13:05:38,357 DEBUG [main][ValidatorFactoryConfigurationHelper.java:376] - HV000234: Using org.hibernate.validator.internal.engine.resolver.TraverseAllTraversableResolver as ValidatorFactory-scoped traversable resolver.
+2023-03-10 13:05:38,357 DEBUG [main][ValidatorFactoryConfigurationHelper.java:376] - HV000234: Using org.hibernate.validator.internal.engine.resolver.TraverseAllTraversableResolver as ValidatorFactory-scoped traversable resolver.
+2023-03-10 13:05:38,357 DEBUG [main][ValidatorFactoryConfigurationHelper.java:377] - HV000234: Using org.hibernate.validator.internal.util.ExecutableParameterNameProvider as ValidatorFactory-scoped parameter name provider.
+2023-03-10 13:05:38,357 DEBUG [main][ValidatorFactoryConfigurationHelper.java:377] - HV000234: Using org.hibernate.validator.internal.util.ExecutableParameterNameProvider as ValidatorFactory-scoped parameter name provider.
+2023-03-10 13:05:38,357 DEBUG [main][ValidatorFactoryConfigurationHelper.java:378] - HV000234: Using org.hibernate.validator.internal.engine.DefaultClockProvider as ValidatorFactory-scoped clock provider.
+2023-03-10 13:05:38,357 DEBUG [main][ValidatorFactoryConfigurationHelper.java:378] - HV000234: Using org.hibernate.validator.internal.engine.DefaultClockProvider as ValidatorFactory-scoped clock provider.
+2023-03-10 13:05:38,369 DEBUG [main][ValidatorFactoryConfigurationHelper.java:379] - HV000234: Using org.hibernate.validator.internal.engine.scripting.DefaultScriptEvaluatorFactory as ValidatorFactory-scoped script evaluator factory.
+2023-03-10 13:05:38,369 DEBUG [main][ValidatorFactoryConfigurationHelper.java:379] - HV000234: Using org.hibernate.validator.internal.engine.scripting.DefaultScriptEvaluatorFactory as ValidatorFactory-scoped script evaluator factory.
+2023-03-10 13:05:38,675 WARN [main][FreeMarkerAutoConfiguration.java:65] - Cannot find template location(s): [classpath:/templates/] (please add some templates, check your FreeMarker configuration, or set spring.freemarker.checkTemplateLocation=false)
+2023-03-10 13:05:38,675 WARN [main][FreeMarkerAutoConfiguration.java:65] - Cannot find template location(s): [classpath:/templates/] (please add some templates, check your FreeMarker configuration, or set spring.freemarker.checkTemplateLocation=false)
+2023-03-10 13:05:41,051 INFO [main][InetUtils.java:170] - Cannot determine local hostname
+2023-03-10 13:05:41,051 INFO [main][InetUtils.java:170] - Cannot determine local hostname
+2023-03-10 13:05:41,642 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcChooseCourseMapper.insert
+2023-03-10 13:05:41,642 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcChooseCourseMapper.insert
+2023-03-10 13:05:41,652 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcChooseCourseMapper.delete
+2023-03-10 13:05:41,652 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcChooseCourseMapper.delete
+2023-03-10 13:05:41,658 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcChooseCourseMapper.deleteByMap
+2023-03-10 13:05:41,658 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcChooseCourseMapper.deleteByMap
+2023-03-10 13:05:41,723 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcChooseCourseMapper.deleteById
+2023-03-10 13:05:41,723 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcChooseCourseMapper.deleteById
+2023-03-10 13:05:41,728 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcChooseCourseMapper.deleteBatchIds
+2023-03-10 13:05:41,728 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcChooseCourseMapper.deleteBatchIds
+2023-03-10 13:05:41,738 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcChooseCourseMapper.update
+2023-03-10 13:05:41,738 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcChooseCourseMapper.update
+2023-03-10 13:05:41,746 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcChooseCourseMapper.updateById
+2023-03-10 13:05:41,746 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcChooseCourseMapper.updateById
+2023-03-10 13:05:41,748 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcChooseCourseMapper.selectById
+2023-03-10 13:05:41,748 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcChooseCourseMapper.selectById
+2023-03-10 13:05:41,753 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcChooseCourseMapper.selectBatchIds
+2023-03-10 13:05:41,753 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcChooseCourseMapper.selectBatchIds
+2023-03-10 13:05:41,756 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcChooseCourseMapper.selectByMap
+2023-03-10 13:05:41,756 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcChooseCourseMapper.selectByMap
+2023-03-10 13:05:41,762 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcChooseCourseMapper.selectOne
+2023-03-10 13:05:41,762 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcChooseCourseMapper.selectOne
+2023-03-10 13:05:41,781 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcChooseCourseMapper.selectCount
+2023-03-10 13:05:41,781 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcChooseCourseMapper.selectCount
+2023-03-10 13:05:41,786 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcChooseCourseMapper.selectMaps
+2023-03-10 13:05:41,786 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcChooseCourseMapper.selectMaps
+2023-03-10 13:05:41,792 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcChooseCourseMapper.selectMapsPage
+2023-03-10 13:05:41,792 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcChooseCourseMapper.selectMapsPage
+2023-03-10 13:05:41,797 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcChooseCourseMapper.selectObjs
+2023-03-10 13:05:41,797 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcChooseCourseMapper.selectObjs
+2023-03-10 13:05:41,831 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcChooseCourseMapper.selectList
+2023-03-10 13:05:41,831 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcChooseCourseMapper.selectList
+2023-03-10 13:05:41,841 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcChooseCourseMapper.selectPage
+2023-03-10 13:05:41,841 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcChooseCourseMapper.selectPage
+2023-03-10 13:05:41,880 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcCourseTablesMapper.insert
+2023-03-10 13:05:41,880 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcCourseTablesMapper.insert
+2023-03-10 13:05:41,890 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcCourseTablesMapper.delete
+2023-03-10 13:05:41,890 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcCourseTablesMapper.delete
+2023-03-10 13:05:41,895 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcCourseTablesMapper.deleteByMap
+2023-03-10 13:05:41,895 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcCourseTablesMapper.deleteByMap
+2023-03-10 13:05:41,906 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcCourseTablesMapper.deleteById
+2023-03-10 13:05:41,906 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcCourseTablesMapper.deleteById
+2023-03-10 13:05:41,909 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcCourseTablesMapper.deleteBatchIds
+2023-03-10 13:05:41,909 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcCourseTablesMapper.deleteBatchIds
+2023-03-10 13:05:41,920 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcCourseTablesMapper.update
+2023-03-10 13:05:41,920 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcCourseTablesMapper.update
+2023-03-10 13:05:41,924 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcCourseTablesMapper.updateById
+2023-03-10 13:05:41,924 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcCourseTablesMapper.updateById
+2023-03-10 13:05:41,925 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcCourseTablesMapper.selectById
+2023-03-10 13:05:41,925 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcCourseTablesMapper.selectById
+2023-03-10 13:05:41,935 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcCourseTablesMapper.selectBatchIds
+2023-03-10 13:05:41,935 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcCourseTablesMapper.selectBatchIds
+2023-03-10 13:05:41,939 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcCourseTablesMapper.selectByMap
+2023-03-10 13:05:41,939 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcCourseTablesMapper.selectByMap
+2023-03-10 13:05:41,941 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcCourseTablesMapper.selectOne
+2023-03-10 13:05:41,941 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcCourseTablesMapper.selectOne
+2023-03-10 13:05:41,947 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcCourseTablesMapper.selectCount
+2023-03-10 13:05:41,947 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcCourseTablesMapper.selectCount
+2023-03-10 13:05:41,957 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcCourseTablesMapper.selectMaps
+2023-03-10 13:05:41,957 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcCourseTablesMapper.selectMaps
+2023-03-10 13:05:41,964 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcCourseTablesMapper.selectMapsPage
+2023-03-10 13:05:41,964 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcCourseTablesMapper.selectMapsPage
+2023-03-10 13:05:41,971 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcCourseTablesMapper.selectObjs
+2023-03-10 13:05:41,971 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcCourseTablesMapper.selectObjs
+2023-03-10 13:05:41,973 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcCourseTablesMapper.selectList
+2023-03-10 13:05:41,973 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcCourseTablesMapper.selectList
+2023-03-10 13:05:41,977 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcCourseTablesMapper.selectPage
+2023-03-10 13:05:41,977 DEBUG [main][MybatisConfiguration.java:128] - addMappedStatement: com.xuecheng.learning.mapper.XcCourseTablesMapper.selectPage
+2023-03-10 13:05:42,033 INFO [main][InitUtils.java:65] - initializer namespace from System Property :null
+2023-03-10 13:05:42,034 INFO [main][InitUtils.java:74] - initializer namespace from System Environment :null
+2023-03-10 13:05:42,033 INFO [main][InitUtils.java:65] - initializer namespace from System Property :null
+2023-03-10 13:05:42,034 INFO [main][InitUtils.java:74] - initializer namespace from System Environment :null
+2023-03-10 13:05:42,035 INFO [main][InitUtils.java:84] - initializer namespace from System Property :null
+2023-03-10 13:05:42,035 INFO [main][InitUtils.java:84] - initializer namespace from System Property :null
+2023-03-10 13:05:42,046 DEBUG [main][NamingProxy.java:195] - server list provided by user: [39.105.221.68:8848]
+2023-03-10 13:05:42,046 DEBUG [main][NamingProxy.java:195] - server list provided by user: [39.105.221.68:8848]
+2023-03-10 13:05:42,047 DEBUG [com.alibaba.nacos.client.naming.updater][NamingProxy.java:195] - server list provided by user: [39.105.221.68:8848]
+2023-03-10 13:05:42,047 DEBUG [com.alibaba.nacos.client.naming.updater][NamingProxy.java:195] - server list provided by user: [39.105.221.68:8848]
+2023-03-10 13:05:42,057 DEBUG [com.alibaba.nacos.naming.failover][FailoverReactor.java:147] - failover switch is not found, failover00-00---000-VIPSRV_FAILOVER_SWITCH-000---00-00
+2023-03-10 13:05:42,057 DEBUG [com.alibaba.nacos.naming.failover][FailoverReactor.java:147] - failover switch is not found, failover00-00---000-VIPSRV_FAILOVER_SWITCH-000---00-00
+2023-03-10 13:05:42,072 DEBUG [main][HostReactor.java:306] - failover-mode: false
+2023-03-10 13:05:42,072 DEBUG [main][HostReactor.java:306] - failover-mode: false
+2023-03-10 13:05:42,075 DEBUG [main][NacosRestTemplate.java:476] - HTTP method: GET, url: http://39.105.221.68:8848/nacos/v1/ns/instance/list?app=unknown&healthyOnly=false&namespaceId=dev148&clientIP=192.168.101.1&serviceName=xuecheng-plus-project%40%40learning-service&udpPort=52301&clusters=DEFAULT, body: {}
+2023-03-10 13:05:42,075 DEBUG [main][NacosRestTemplate.java:476] - HTTP method: GET, url: http://39.105.221.68:8848/nacos/v1/ns/instance/list?app=unknown&healthyOnly=false&namespaceId=dev148&clientIP=192.168.101.1&serviceName=xuecheng-plus-project%40%40learning-service&udpPort=52301&clusters=DEFAULT, body: {}
+2023-03-10 13:05:42,272 INFO [main][StartupInfoLogger.java:61] - Started FeignClientTest in 17.408 seconds (JVM running for 22.883)
+2023-03-10 13:05:42,272 INFO [main][StartupInfoLogger.java:61] - Started FeignClientTest in 17.408 seconds (JVM running for 22.883)
+2023-03-10 13:05:42,279 INFO [main][ClientWorker.java:169] - [fixed-39.105.221.68_8848-dev148] [subscribe] swagger-dev.yaml+xuecheng-plus-common+dev148
+2023-03-10 13:05:42,279 INFO [main][ClientWorker.java:169] - [fixed-39.105.221.68_8848-dev148] [subscribe] swagger-dev.yaml+xuecheng-plus-common+dev148
+2023-03-10 13:05:42,281 INFO [main][CacheData.java:92] - [fixed-39.105.221.68_8848-dev148] [add-listener] ok, tenant=dev148, dataId=swagger-dev.yaml, group=xuecheng-plus-common, cnt=1
+2023-03-10 13:05:42,281 INFO [main][CacheData.java:92] - [fixed-39.105.221.68_8848-dev148] [add-listener] ok, tenant=dev148, dataId=swagger-dev.yaml, group=xuecheng-plus-common, cnt=1
+2023-03-10 13:05:42,282 INFO [main][ClientWorker.java:169] - [fixed-39.105.221.68_8848-dev148] [subscribe] learning-service.yaml+xuecheng-plus-project+dev148
+2023-03-10 13:05:42,282 INFO [main][ClientWorker.java:169] - [fixed-39.105.221.68_8848-dev148] [subscribe] learning-service.yaml+xuecheng-plus-project+dev148
+2023-03-10 13:05:42,282 INFO [main][CacheData.java:92] - [fixed-39.105.221.68_8848-dev148] [add-listener] ok, tenant=dev148, dataId=learning-service.yaml, group=xuecheng-plus-project, cnt=1
+2023-03-10 13:05:42,282 INFO [main][CacheData.java:92] - [fixed-39.105.221.68_8848-dev148] [add-listener] ok, tenant=dev148, dataId=learning-service.yaml, group=xuecheng-plus-project, cnt=1
+2023-03-10 13:05:42,286 INFO [main][ClientWorker.java:169] - [fixed-39.105.221.68_8848-dev148] [subscribe] feign-dev.yaml+xuecheng-plus-common+dev148
+2023-03-10 13:05:42,286 INFO [main][ClientWorker.java:169] - [fixed-39.105.221.68_8848-dev148] [subscribe] feign-dev.yaml+xuecheng-plus-common+dev148
+2023-03-10 13:05:42,286 INFO [main][CacheData.java:92] - [fixed-39.105.221.68_8848-dev148] [add-listener] ok, tenant=dev148, dataId=feign-dev.yaml, group=xuecheng-plus-common, cnt=1
+2023-03-10 13:05:42,286 INFO [main][CacheData.java:92] - [fixed-39.105.221.68_8848-dev148] [add-listener] ok, tenant=dev148, dataId=feign-dev.yaml, group=xuecheng-plus-common, cnt=1
+2023-03-10 13:05:42,288 DEBUG [com.alibaba.nacos.client.Worker.longPolling.fixed-39.105.221.68_8848-dev148][NacosRestTemplate.java:476] - HTTP method: POST, url: http://39.105.221.68:8848/nacos/v1/cs/configs/listener, body: {Listening-Configs=swagger-dev.yamlxuecheng-plus-commond1ed4a52ae4a1d92f8aa9a7fe96c5a4cdev148learning-service.yamlxuecheng-plus-projectdev148feign-dev.yamlxuecheng-plus-common2287b4dcf1db4d243a11c74f7a2b6affdev148, tenant=dev148}
+2023-03-10 13:05:42,288 DEBUG [com.alibaba.nacos.client.Worker.longPolling.fixed-39.105.221.68_8848-dev148][NacosRestTemplate.java:476] - HTTP method: POST, url: http://39.105.221.68:8848/nacos/v1/cs/configs/listener, body: {Listening-Configs=swagger-dev.yamlxuecheng-plus-commond1ed4a52ae4a1d92f8aa9a7fe96c5a4cdev148learning-service.yamlxuecheng-plus-projectdev148feign-dev.yamlxuecheng-plus-common2287b4dcf1db4d243a11c74f7a2b6affdev148, tenant=dev148}
+2023-03-10 13:05:42,288 INFO [main][ClientWorker.java:169] - [fixed-39.105.221.68_8848-dev148] [subscribe] learning-service-dev.yaml+xuecheng-plus-project+dev148
+2023-03-10 13:05:42,289 INFO [main][CacheData.java:92] - [fixed-39.105.221.68_8848-dev148] [add-listener] ok, tenant=dev148, dataId=learning-service-dev.yaml, group=xuecheng-plus-project, cnt=1
+2023-03-10 13:05:42,289 DEBUG [com.alibaba.nacos.client.Worker.longPolling.fixed-39.105.221.68_8848-dev148][NacosRestTemplate.java:494] - Execute via interceptors :[com.alibaba.nacos.client.config.impl.ConfigHttpClientManager$LimiterHttpClientRequestInterceptor@524344c5]
+2023-03-10 13:05:42,288 INFO [main][ClientWorker.java:169] - [fixed-39.105.221.68_8848-dev148] [subscribe] learning-service-dev.yaml+xuecheng-plus-project+dev148
+2023-03-10 13:05:42,289 DEBUG [com.alibaba.nacos.client.Worker.longPolling.fixed-39.105.221.68_8848-dev148][NacosRestTemplate.java:494] - Execute via interceptors :[com.alibaba.nacos.client.config.impl.ConfigHttpClientManager$LimiterHttpClientRequestInterceptor@524344c5]
+2023-03-10 13:05:42,289 INFO [main][CacheData.java:92] - [fixed-39.105.221.68_8848-dev148] [add-listener] ok, tenant=dev148, dataId=learning-service-dev.yaml, group=xuecheng-plus-project, cnt=1
+2023-03-10 13:05:42,291 INFO [main][ClientWorker.java:169] - [fixed-39.105.221.68_8848-dev148] [subscribe] learning-service+xuecheng-plus-project+dev148
+2023-03-10 13:05:42,292 INFO [main][CacheData.java:92] - [fixed-39.105.221.68_8848-dev148] [add-listener] ok, tenant=dev148, dataId=learning-service, group=xuecheng-plus-project, cnt=1
+2023-03-10 13:05:42,291 INFO [main][ClientWorker.java:169] - [fixed-39.105.221.68_8848-dev148] [subscribe] learning-service+xuecheng-plus-project+dev148
+2023-03-10 13:05:42,292 INFO [main][CacheData.java:92] - [fixed-39.105.221.68_8848-dev148] [add-listener] ok, tenant=dev148, dataId=learning-service, group=xuecheng-plus-project, cnt=1
+2023-03-10 13:05:42,294 INFO [main][ClientWorker.java:169] - [fixed-39.105.221.68_8848-dev148] [subscribe] logging-dev.yaml+xuecheng-plus-common+dev148
+2023-03-10 13:05:42,294 INFO [main][ClientWorker.java:169] - [fixed-39.105.221.68_8848-dev148] [subscribe] logging-dev.yaml+xuecheng-plus-common+dev148
+2023-03-10 13:05:42,296 INFO [main][CacheData.java:92] - [fixed-39.105.221.68_8848-dev148] [add-listener] ok, tenant=dev148, dataId=logging-dev.yaml, group=xuecheng-plus-common, cnt=1
+2023-03-10 13:05:42,296 INFO [main][CacheData.java:92] - [fixed-39.105.221.68_8848-dev148] [add-listener] ok, tenant=dev148, dataId=logging-dev.yaml, group=xuecheng-plus-common, cnt=1
+2023-03-10 13:05:42,345 DEBUG [com.alibaba.nacos.client.Worker.longPolling.fixed-39.105.221.68_8848-dev148][NacosRestTemplate.java:476] - HTTP method: POST, url: http://39.105.221.68:8848/nacos/v1/cs/configs/listener, body: {Listening-Configs=swagger-dev.yamlxuecheng-plus-commond1ed4a52ae4a1d92f8aa9a7fe96c5a4cdev148learning-service.yamlxuecheng-plus-projectdev148learning-service-dev.yamlxuecheng-plus-project6bf7a861e1e6e4be7f91b28530b54404dev148feign-dev.yamlxuecheng-plus-common2287b4dcf1db4d243a11c74f7a2b6affdev148learning-servicexuecheng-plus-projectdev148logging-dev.yamlxuecheng-plus-commoncf8b1af28beb25b242f97519c8f2c560dev148, tenant=dev148}
+2023-03-10 13:05:42,345 DEBUG [com.alibaba.nacos.client.Worker.longPolling.fixed-39.105.221.68_8848-dev148][NacosRestTemplate.java:494] - Execute via interceptors :[com.alibaba.nacos.client.config.impl.ConfigHttpClientManager$LimiterHttpClientRequestInterceptor@524344c5]
+2023-03-10 13:05:42,345 DEBUG [com.alibaba.nacos.client.Worker.longPolling.fixed-39.105.221.68_8848-dev148][NacosRestTemplate.java:476] - HTTP method: POST, url: http://39.105.221.68:8848/nacos/v1/cs/configs/listener, body: {Listening-Configs=swagger-dev.yamlxuecheng-plus-commond1ed4a52ae4a1d92f8aa9a7fe96c5a4cdev148learning-service.yamlxuecheng-plus-projectdev148learning-service-dev.yamlxuecheng-plus-project6bf7a861e1e6e4be7f91b28530b54404dev148feign-dev.yamlxuecheng-plus-common2287b4dcf1db4d243a11c74f7a2b6affdev148learning-servicexuecheng-plus-projectdev148logging-dev.yamlxuecheng-plus-commoncf8b1af28beb25b242f97519c8f2c560dev148, tenant=dev148}
+2023-03-10 13:05:42,345 DEBUG [com.alibaba.nacos.client.Worker.longPolling.fixed-39.105.221.68_8848-dev148][NacosRestTemplate.java:494] - Execute via interceptors :[com.alibaba.nacos.client.config.impl.ConfigHttpClientManager$LimiterHttpClientRequestInterceptor@524344c5]
+2023-03-10 13:05:42,387 DEBUG [com.alibaba.nacos.client.Worker.longPolling.fixed-39.105.221.68_8848-dev148][NacosRestTemplate.java:476] - HTTP method: POST, url: http://39.105.221.68:8848/nacos/v1/cs/configs/listener, body: {Listening-Configs=swagger-dev.yamlxuecheng-plus-commond1ed4a52ae4a1d92f8aa9a7fe96c5a4cdev148learning-service.yamlxuecheng-plus-projectdev148learning-service-dev.yamlxuecheng-plus-project6bf7a861e1e6e4be7f91b28530b54404dev148feign-dev.yamlxuecheng-plus-common2287b4dcf1db4d243a11c74f7a2b6affdev148learning-servicexuecheng-plus-projectdev148logging-dev.yamlxuecheng-plus-commoncf8b1af28beb25b242f97519c8f2c560dev148, tenant=dev148}
+2023-03-10 13:05:42,387 DEBUG [com.alibaba.nacos.client.Worker.longPolling.fixed-39.105.221.68_8848-dev148][NacosRestTemplate.java:476] - HTTP method: POST, url: http://39.105.221.68:8848/nacos/v1/cs/configs/listener, body: {Listening-Configs=swagger-dev.yamlxuecheng-plus-commond1ed4a52ae4a1d92f8aa9a7fe96c5a4cdev148learning-service.yamlxuecheng-plus-projectdev148learning-service-dev.yamlxuecheng-plus-project6bf7a861e1e6e4be7f91b28530b54404dev148feign-dev.yamlxuecheng-plus-common2287b4dcf1db4d243a11c74f7a2b6affdev148learning-servicexuecheng-plus-projectdev148logging-dev.yamlxuecheng-plus-commoncf8b1af28beb25b242f97519c8f2c560dev148, tenant=dev148}
+2023-03-10 13:05:42,388 DEBUG [com.alibaba.nacos.client.Worker.longPolling.fixed-39.105.221.68_8848-dev148][NacosRestTemplate.java:494] - Execute via interceptors :[com.alibaba.nacos.client.config.impl.ConfigHttpClientManager$LimiterHttpClientRequestInterceptor@524344c5]
+2023-03-10 13:05:42,388 DEBUG [com.alibaba.nacos.client.Worker.longPolling.fixed-39.105.221.68_8848-dev148][NacosRestTemplate.java:494] - Execute via interceptors :[com.alibaba.nacos.client.config.impl.ConfigHttpClientManager$LimiterHttpClientRequestInterceptor@524344c5]
+2023-03-10 13:05:42,805 DEBUG [main][HystrixPlugins.java:386] - Created HystrixDynamicProperties. Using class : com.netflix.hystrix.strategy.properties.archaius.HystrixDynamicPropertiesArchaius
+2023-03-10 13:05:42,805 DEBUG [main][HystrixPlugins.java:386] - Created HystrixDynamicProperties. Using class : com.netflix.hystrix.strategy.properties.archaius.HystrixDynamicPropertiesArchaius
+2023-03-10 13:05:42,831 DEBUG [main][HystrixPropertiesChainedProperty.java:93] - Flipping property: hystrix.command.ContentServiceClient#getCoursepublish(Long).circuitBreaker.enabled to use NEXT property: hystrix.command.default.circuitBreaker.enabled = true
+2023-03-10 13:05:42,831 DEBUG [main][HystrixPropertiesChainedProperty.java:93] - Flipping property: hystrix.command.ContentServiceClient#getCoursepublish(Long).circuitBreaker.enabled to use NEXT property: hystrix.command.default.circuitBreaker.enabled = true
+2023-03-10 13:05:42,837 DEBUG [main][HystrixPropertiesChainedProperty.java:93] - Flipping property: hystrix.command.ContentServiceClient#getCoursepublish(Long).circuitBreaker.requestVolumeThreshold to use NEXT property: hystrix.command.default.circuitBreaker.requestVolumeThreshold = 20
+2023-03-10 13:05:42,837 DEBUG [main][HystrixPropertiesChainedProperty.java:93] - Flipping property: hystrix.command.ContentServiceClient#getCoursepublish(Long).circuitBreaker.requestVolumeThreshold to use NEXT property: hystrix.command.default.circuitBreaker.requestVolumeThreshold = 20
+2023-03-10 13:05:42,837 DEBUG [main][HystrixPropertiesChainedProperty.java:93] - Flipping property: hystrix.command.ContentServiceClient#getCoursepublish(Long).circuitBreaker.sleepWindowInMilliseconds to use NEXT property: hystrix.command.default.circuitBreaker.sleepWindowInMilliseconds = 5000
+2023-03-10 13:05:42,837 DEBUG [main][HystrixPropertiesChainedProperty.java:93] - Flipping property: hystrix.command.ContentServiceClient#getCoursepublish(Long).circuitBreaker.sleepWindowInMilliseconds to use NEXT property: hystrix.command.default.circuitBreaker.sleepWindowInMilliseconds = 5000
+2023-03-10 13:05:42,837 DEBUG [main][HystrixPropertiesChainedProperty.java:93] - Flipping property: hystrix.command.ContentServiceClient#getCoursepublish(Long).circuitBreaker.errorThresholdPercentage to use NEXT property: hystrix.command.default.circuitBreaker.errorThresholdPercentage = 50
+2023-03-10 13:05:42,837 DEBUG [main][HystrixPropertiesChainedProperty.java:93] - Flipping property: hystrix.command.ContentServiceClient#getCoursepublish(Long).circuitBreaker.errorThresholdPercentage to use NEXT property: hystrix.command.default.circuitBreaker.errorThresholdPercentage = 50
+2023-03-10 13:05:42,842 DEBUG [main][HystrixPropertiesChainedProperty.java:93] - Flipping property: hystrix.command.ContentServiceClient#getCoursepublish(Long).circuitBreaker.forceOpen to use NEXT property: hystrix.command.default.circuitBreaker.forceOpen = false
+2023-03-10 13:05:42,842 DEBUG [main][HystrixPropertiesChainedProperty.java:93] - Flipping property: hystrix.command.ContentServiceClient#getCoursepublish(Long).circuitBreaker.forceOpen to use NEXT property: hystrix.command.default.circuitBreaker.forceOpen = false
+2023-03-10 13:05:42,842 DEBUG [main][HystrixPropertiesChainedProperty.java:93] - Flipping property: hystrix.command.ContentServiceClient#getCoursepublish(Long).circuitBreaker.forceClosed to use NEXT property: hystrix.command.default.circuitBreaker.forceClosed = false
+2023-03-10 13:05:42,842 DEBUG [main][HystrixPropertiesChainedProperty.java:93] - Flipping property: hystrix.command.ContentServiceClient#getCoursepublish(Long).circuitBreaker.forceClosed to use NEXT property: hystrix.command.default.circuitBreaker.forceClosed = false
+2023-03-10 13:05:42,847 DEBUG [main][HystrixPropertiesChainedProperty.java:93] - Flipping property: hystrix.command.ContentServiceClient#getCoursepublish(Long).execution.isolation.strategy to use NEXT property: hystrix.command.default.execution.isolation.strategy = THREAD
+2023-03-10 13:05:42,847 DEBUG [main][HystrixPropertiesChainedProperty.java:93] - Flipping property: hystrix.command.ContentServiceClient#getCoursepublish(Long).execution.isolation.strategy to use NEXT property: hystrix.command.default.execution.isolation.strategy = THREAD
+2023-03-10 13:05:42,849 DEBUG [main][HystrixPropertiesChainedProperty.java:93] - Flipping property: hystrix.command.ContentServiceClient#getCoursepublish(Long).execution.isolation.thread.timeoutInMilliseconds to use NEXT property: hystrix.command.default.execution.isolation.thread.timeoutInMilliseconds = 1000
+2023-03-10 13:05:42,849 DEBUG [main][HystrixPropertiesChainedProperty.java:93] - Flipping property: hystrix.command.ContentServiceClient#getCoursepublish(Long).execution.isolation.thread.timeoutInMilliseconds to use NEXT property: hystrix.command.default.execution.isolation.thread.timeoutInMilliseconds = 1000
+2023-03-10 13:05:42,849 DEBUG [main][HystrixPropertiesChainedProperty.java:93] - Flipping property: hystrix.command.ContentServiceClient#getCoursepublish(Long).execution.timeout.enabled to use NEXT property: hystrix.command.default.execution.timeout.enabled = true
+2023-03-10 13:05:42,849 DEBUG [main][HystrixPropertiesChainedProperty.java:93] - Flipping property: hystrix.command.ContentServiceClient#getCoursepublish(Long).execution.timeout.enabled to use NEXT property: hystrix.command.default.execution.timeout.enabled = true
+2023-03-10 13:05:42,849 DEBUG [main][HystrixPropertiesChainedProperty.java:93] - Flipping property: hystrix.command.ContentServiceClient#getCoursepublish(Long).execution.isolation.thread.interruptOnTimeout to use NEXT property: hystrix.command.default.execution.isolation.thread.interruptOnTimeout = true
+2023-03-10 13:05:42,849 DEBUG [main][HystrixPropertiesChainedProperty.java:93] - Flipping property: hystrix.command.ContentServiceClient#getCoursepublish(Long).execution.isolation.thread.interruptOnTimeout to use NEXT property: hystrix.command.default.execution.isolation.thread.interruptOnTimeout = true
+2023-03-10 13:05:42,849 DEBUG [main][HystrixPropertiesChainedProperty.java:93] - Flipping property: hystrix.command.ContentServiceClient#getCoursepublish(Long).execution.isolation.thread.interruptOnFutureCancel to use NEXT property: hystrix.command.default.execution.isolation.thread.interruptOnFutureCancel = false
+2023-03-10 13:05:42,849 DEBUG [main][HystrixPropertiesChainedProperty.java:93] - Flipping property: hystrix.command.ContentServiceClient#getCoursepublish(Long).execution.isolation.thread.interruptOnFutureCancel to use NEXT property: hystrix.command.default.execution.isolation.thread.interruptOnFutureCancel = false
+2023-03-10 13:05:42,849 DEBUG [main][HystrixPropertiesChainedProperty.java:93] - Flipping property: hystrix.command.ContentServiceClient#getCoursepublish(Long).execution.isolation.semaphore.maxConcurrentRequests to use NEXT property: hystrix.command.default.execution.isolation.semaphore.maxConcurrentRequests = 10
+2023-03-10 13:05:42,849 DEBUG [main][HystrixPropertiesChainedProperty.java:93] - Flipping property: hystrix.command.ContentServiceClient#getCoursepublish(Long).execution.isolation.semaphore.maxConcurrentRequests to use NEXT property: hystrix.command.default.execution.isolation.semaphore.maxConcurrentRequests = 10
+2023-03-10 13:05:42,849 DEBUG [main][HystrixPropertiesChainedProperty.java:93] - Flipping property: hystrix.command.ContentServiceClient#getCoursepublish(Long).fallback.isolation.semaphore.maxConcurrentRequests to use NEXT property: hystrix.command.default.fallback.isolation.semaphore.maxConcurrentRequests = 10
+2023-03-10 13:05:42,849 DEBUG [main][HystrixPropertiesChainedProperty.java:93] - Flipping property: hystrix.command.ContentServiceClient#getCoursepublish(Long).fallback.isolation.semaphore.maxConcurrentRequests to use NEXT property: hystrix.command.default.fallback.isolation.semaphore.maxConcurrentRequests = 10
+2023-03-10 13:05:42,849 DEBUG [main][HystrixPropertiesChainedProperty.java:93] - Flipping property: hystrix.command.ContentServiceClient#getCoursepublish(Long).fallback.enabled to use NEXT property: hystrix.command.default.fallback.enabled = true
+2023-03-10 13:05:42,849 DEBUG [main][HystrixPropertiesChainedProperty.java:93] - Flipping property: hystrix.command.ContentServiceClient#getCoursepublish(Long).fallback.enabled to use NEXT property: hystrix.command.default.fallback.enabled = true
+2023-03-10 13:05:42,849 DEBUG [main][HystrixPropertiesChainedProperty.java:93] - Flipping property: hystrix.command.ContentServiceClient#getCoursepublish(Long).metrics.rollingStats.timeInMilliseconds to use NEXT property: hystrix.command.default.metrics.rollingStats.timeInMilliseconds = 10000
+2023-03-10 13:05:42,849 DEBUG [main][HystrixPropertiesChainedProperty.java:93] - Flipping property: hystrix.command.ContentServiceClient#getCoursepublish(Long).metrics.rollingStats.timeInMilliseconds to use NEXT property: hystrix.command.default.metrics.rollingStats.timeInMilliseconds = 10000
+2023-03-10 13:05:42,849 DEBUG [main][HystrixPropertiesChainedProperty.java:93] - Flipping property: hystrix.command.ContentServiceClient#getCoursepublish(Long).metrics.rollingStats.numBuckets to use NEXT property: hystrix.command.default.metrics.rollingStats.numBuckets = 10
+2023-03-10 13:05:42,849 DEBUG [main][HystrixPropertiesChainedProperty.java:93] - Flipping property: hystrix.command.ContentServiceClient#getCoursepublish(Long).metrics.rollingStats.numBuckets to use NEXT property: hystrix.command.default.metrics.rollingStats.numBuckets = 10
+2023-03-10 13:05:42,857 DEBUG [main][HystrixPropertiesChainedProperty.java:93] - Flipping property: hystrix.command.ContentServiceClient#getCoursepublish(Long).metrics.rollingPercentile.enabled to use NEXT property: hystrix.command.default.metrics.rollingPercentile.enabled = true
+2023-03-10 13:05:42,857 DEBUG [main][HystrixPropertiesChainedProperty.java:93] - Flipping property: hystrix.command.ContentServiceClient#getCoursepublish(Long).metrics.rollingPercentile.enabled to use NEXT property: hystrix.command.default.metrics.rollingPercentile.enabled = true
+2023-03-10 13:05:42,857 DEBUG [main][HystrixPropertiesChainedProperty.java:93] - Flipping property: hystrix.command.ContentServiceClient#getCoursepublish(Long).metrics.rollingPercentile.timeInMilliseconds to use NEXT property: hystrix.command.default.metrics.rollingPercentile.timeInMilliseconds = 60000
+2023-03-10 13:05:42,857 DEBUG [main][HystrixPropertiesChainedProperty.java:93] - Flipping property: hystrix.command.ContentServiceClient#getCoursepublish(Long).metrics.rollingPercentile.timeInMilliseconds to use NEXT property: hystrix.command.default.metrics.rollingPercentile.timeInMilliseconds = 60000
+2023-03-10 13:05:42,857 DEBUG [main][HystrixPropertiesChainedProperty.java:93] - Flipping property: hystrix.command.ContentServiceClient#getCoursepublish(Long).metrics.rollingPercentile.numBuckets to use NEXT property: hystrix.command.default.metrics.rollingPercentile.numBuckets = 6
+2023-03-10 13:05:42,857 DEBUG [main][HystrixPropertiesChainedProperty.java:93] - Flipping property: hystrix.command.ContentServiceClient#getCoursepublish(Long).metrics.rollingPercentile.numBuckets to use NEXT property: hystrix.command.default.metrics.rollingPercentile.numBuckets = 6
+2023-03-10 13:05:42,857 DEBUG [main][HystrixPropertiesChainedProperty.java:93] - Flipping property: hystrix.command.ContentServiceClient#getCoursepublish(Long).metrics.rollingPercentile.bucketSize to use NEXT property: hystrix.command.default.metrics.rollingPercentile.bucketSize = 100
+2023-03-10 13:05:42,857 DEBUG [main][HystrixPropertiesChainedProperty.java:93] - Flipping property: hystrix.command.ContentServiceClient#getCoursepublish(Long).metrics.rollingPercentile.bucketSize to use NEXT property: hystrix.command.default.metrics.rollingPercentile.bucketSize = 100
+2023-03-10 13:05:42,857 DEBUG [main][HystrixPropertiesChainedProperty.java:93] - Flipping property: hystrix.command.ContentServiceClient#getCoursepublish(Long).metrics.healthSnapshot.intervalInMilliseconds to use NEXT property: hystrix.command.default.metrics.healthSnapshot.intervalInMilliseconds = 500
+2023-03-10 13:05:42,857 DEBUG [main][HystrixPropertiesChainedProperty.java:93] - Flipping property: hystrix.command.ContentServiceClient#getCoursepublish(Long).metrics.healthSnapshot.intervalInMilliseconds to use NEXT property: hystrix.command.default.metrics.healthSnapshot.intervalInMilliseconds = 500
+2023-03-10 13:05:42,862 DEBUG [main][HystrixPropertiesChainedProperty.java:93] - Flipping property: hystrix.command.ContentServiceClient#getCoursepublish(Long).requestCache.enabled to use NEXT property: hystrix.command.default.requestCache.enabled = true
+2023-03-10 13:05:42,862 DEBUG [main][HystrixPropertiesChainedProperty.java:93] - Flipping property: hystrix.command.ContentServiceClient#getCoursepublish(Long).requestCache.enabled to use NEXT property: hystrix.command.default.requestCache.enabled = true
+2023-03-10 13:05:42,862 DEBUG [main][HystrixPropertiesChainedProperty.java:93] - Flipping property: hystrix.command.ContentServiceClient#getCoursepublish(Long).requestLog.enabled to use NEXT property: hystrix.command.default.requestLog.enabled = true
+2023-03-10 13:05:42,862 DEBUG [main][HystrixPropertiesChainedProperty.java:93] - Flipping property: hystrix.command.ContentServiceClient#getCoursepublish(Long).requestLog.enabled to use NEXT property: hystrix.command.default.requestLog.enabled = true
+2023-03-10 13:05:43,029 DEBUG [main][HystrixPropertiesChainedProperty.java:93] - Flipping property: hystrix.threadpool.content-api.allowMaximumSizeToDivergeFromCoreSize to use NEXT property: hystrix.threadpool.default.allowMaximumSizeToDivergeFromCoreSize = false
+2023-03-10 13:05:43,029 DEBUG [main][HystrixPropertiesChainedProperty.java:93] - Flipping property: hystrix.threadpool.content-api.allowMaximumSizeToDivergeFromCoreSize to use NEXT property: hystrix.threadpool.default.allowMaximumSizeToDivergeFromCoreSize = false
+2023-03-10 13:05:43,030 DEBUG [main][HystrixPropertiesChainedProperty.java:93] - Flipping property: hystrix.threadpool.content-api.coreSize to use NEXT property: hystrix.threadpool.default.coreSize = 10
+2023-03-10 13:05:43,030 DEBUG [main][HystrixPropertiesChainedProperty.java:93] - Flipping property: hystrix.threadpool.content-api.coreSize to use NEXT property: hystrix.threadpool.default.coreSize = 10
+2023-03-10 13:05:43,030 DEBUG [main][HystrixPropertiesChainedProperty.java:93] - Flipping property: hystrix.threadpool.content-api.maximumSize to use NEXT property: hystrix.threadpool.default.maximumSize = 10
+2023-03-10 13:05:43,030 DEBUG [main][HystrixPropertiesChainedProperty.java:93] - Flipping property: hystrix.threadpool.content-api.maximumSize to use NEXT property: hystrix.threadpool.default.maximumSize = 10
+2023-03-10 13:05:43,031 DEBUG [main][HystrixPropertiesChainedProperty.java:93] - Flipping property: hystrix.threadpool.content-api.keepAliveTimeMinutes to use NEXT property: hystrix.threadpool.default.keepAliveTimeMinutes = 1
+2023-03-10 13:05:43,031 DEBUG [main][HystrixPropertiesChainedProperty.java:93] - Flipping property: hystrix.threadpool.content-api.keepAliveTimeMinutes to use NEXT property: hystrix.threadpool.default.keepAliveTimeMinutes = 1
+2023-03-10 13:05:43,033 DEBUG [main][HystrixPropertiesChainedProperty.java:93] - Flipping property: hystrix.threadpool.content-api.maxQueueSize to use NEXT property: hystrix.threadpool.default.maxQueueSize = -1
+2023-03-10 13:05:43,033 DEBUG [main][HystrixPropertiesChainedProperty.java:93] - Flipping property: hystrix.threadpool.content-api.maxQueueSize to use NEXT property: hystrix.threadpool.default.maxQueueSize = -1
+2023-03-10 13:05:43,033 DEBUG [main][HystrixPropertiesChainedProperty.java:93] - Flipping property: hystrix.threadpool.content-api.queueSizeRejectionThreshold to use NEXT property: hystrix.threadpool.default.queueSizeRejectionThreshold = 5
+2023-03-10 13:05:43,033 DEBUG [main][HystrixPropertiesChainedProperty.java:93] - Flipping property: hystrix.threadpool.content-api.queueSizeRejectionThreshold to use NEXT property: hystrix.threadpool.default.queueSizeRejectionThreshold = 5
+2023-03-10 13:05:43,033 DEBUG [main][HystrixPropertiesChainedProperty.java:93] - Flipping property: hystrix.threadpool.content-api.metrics.rollingStats.timeInMilliseconds to use NEXT property: hystrix.threadpool.default.metrics.rollingStats.timeInMilliseconds = 10000
+2023-03-10 13:05:43,033 DEBUG [main][HystrixPropertiesChainedProperty.java:93] - Flipping property: hystrix.threadpool.content-api.metrics.rollingStats.timeInMilliseconds to use NEXT property: hystrix.threadpool.default.metrics.rollingStats.timeInMilliseconds = 10000
+2023-03-10 13:05:43,037 DEBUG [main][HystrixPropertiesChainedProperty.java:93] - Flipping property: hystrix.threadpool.content-api.metrics.rollingStats.numBuckets to use NEXT property: hystrix.threadpool.default.metrics.rollingStats.numBuckets = 10
+2023-03-10 13:05:43,037 DEBUG [main][HystrixPropertiesChainedProperty.java:93] - Flipping property: hystrix.threadpool.content-api.metrics.rollingStats.numBuckets to use NEXT property: hystrix.threadpool.default.metrics.rollingStats.numBuckets = 10
+2023-03-10 13:05:43,154 DEBUG [hystrix-content-api-1][Slf4jLogger.java:72] - [ContentServiceClient#getCoursepublish] ---> GET http://content-api/content/r/coursepublish/129 HTTP/1.1
+2023-03-10 13:05:43,154 DEBUG [hystrix-content-api-1][Slf4jLogger.java:72] - [ContentServiceClient#getCoursepublish] ---> GET http://content-api/content/r/coursepublish/129 HTTP/1.1
+2023-03-10 13:05:43,370 DEBUG [com.alibaba.nacos.client.naming.updater][NacosRestTemplate.java:476] - HTTP method: GET, url: http://39.105.221.68:8848/nacos/v1/ns/instance/list?app=unknown&healthyOnly=false&namespaceId=dev148&clientIP=192.168.101.1&serviceName=xuecheng-plus-project%40%40learning-service&udpPort=52301&clusters=DEFAULT, body: {}
+2023-03-10 13:05:43,370 DEBUG [com.alibaba.nacos.client.naming.updater][NacosRestTemplate.java:476] - HTTP method: GET, url: http://39.105.221.68:8848/nacos/v1/ns/instance/list?app=unknown&healthyOnly=false&namespaceId=dev148&clientIP=192.168.101.1&serviceName=xuecheng-plus-project%40%40learning-service&udpPort=52301&clusters=DEFAULT, body: {}
+2023-03-10 13:05:43,607 DEBUG [hystrix-content-api-1][ZoneAffinityServerListFilter.java:83] - ZoneAffinity is set to false
+2023-03-10 13:05:43,607 DEBUG [hystrix-content-api-1][ZoneAffinityServerListFilter.java:83] - ZoneAffinity is set to false
+2023-03-10 13:05:43,608 DEBUG [hystrix-content-api-1][ZoneAffinityServerListFilter.java:93] - activeReqeustsPerServerThreshold: 0.6
+2023-03-10 13:05:43,608 DEBUG [hystrix-content-api-1][ZoneAffinityServerListFilter.java:93] - activeReqeustsPerServerThreshold: 0.6
+2023-03-10 13:05:43,609 DEBUG [hystrix-content-api-1][ZoneAffinityServerListFilter.java:95] - blackOutServerPercentageThreshold: 0.8
+2023-03-10 13:05:43,609 DEBUG [hystrix-content-api-1][ZoneAffinityServerListFilter.java:95] - blackOutServerPercentageThreshold: 0.8
+2023-03-10 13:05:43,610 DEBUG [hystrix-content-api-1][ZoneAffinityServerListFilter.java:97] - availableServersThreshold: 2
+2023-03-10 13:05:43,610 DEBUG [hystrix-content-api-1][ZoneAffinityServerListFilter.java:97] - availableServersThreshold: 2
+2023-03-10 13:05:43,657 INFO [hystrix-content-api-1][ChainedDynamicProperty.java:115] - Flipping property: content-api.ribbon.ActiveConnectionsLimit to use NEXT property: niws.loadbalancer.availabilityFilteringRule.activeConnectionsLimit = 2147483647
+2023-03-10 13:05:43,657 INFO [hystrix-content-api-1][ChainedDynamicProperty.java:115] - Flipping property: content-api.ribbon.ActiveConnectionsLimit to use NEXT property: niws.loadbalancer.availabilityFilteringRule.activeConnectionsLimit = 2147483647
+2023-03-10 13:05:43,690 DEBUG [hystrix-content-api-1][BaseLoadBalancer.java:338] - LoadBalancer [content-api]:  pingIntervalSeconds set to 30
+2023-03-10 13:05:43,690 DEBUG [hystrix-content-api-1][BaseLoadBalancer.java:338] - LoadBalancer [content-api]:  pingIntervalSeconds set to 30
+2023-03-10 13:05:43,690 DEBUG [hystrix-content-api-1][BaseLoadBalancer.java:356] - LoadBalancer [content-api]: maxTotalPingTime set to 2
+2023-03-10 13:05:43,690 DEBUG [hystrix-content-api-1][BaseLoadBalancer.java:356] - LoadBalancer [content-api]: maxTotalPingTime set to 2
+2023-03-10 13:05:43,695 INFO [hystrix-content-api-1][BaseLoadBalancer.java:197] - Client: content-api instantiated a LoadBalancer: DynamicServerListLoadBalancer:{NFLoadBalancer:name=content-api,current list of Servers=[],Load balancer stats=Zone stats: {},Server stats: []}ServerList:null
+2023-03-10 13:05:43,695 INFO [hystrix-content-api-1][BaseLoadBalancer.java:197] - Client: content-api instantiated a LoadBalancer: DynamicServerListLoadBalancer:{NFLoadBalancer:name=content-api,current list of Servers=[],Load balancer stats=Zone stats: {},Server stats: []}ServerList:null
+2023-03-10 13:05:43,705 INFO [hystrix-content-api-1][DynamicServerListLoadBalancer.java:222] - Using serverListUpdater PollingServerListUpdater
+2023-03-10 13:05:43,705 INFO [hystrix-content-api-1][DynamicServerListLoadBalancer.java:222] - Using serverListUpdater PollingServerListUpdater
+2023-03-10 13:05:43,709 DEBUG [hystrix-content-api-1][HostReactor.java:306] - failover-mode: false
+2023-03-10 13:05:43,709 DEBUG [hystrix-content-api-1][HostReactor.java:306] - failover-mode: false
+2023-03-10 13:05:43,710 DEBUG [hystrix-content-api-1][NacosRestTemplate.java:476] - HTTP method: GET, url: http://39.105.221.68:8848/nacos/v1/ns/instance/list?app=unknown&healthyOnly=false&namespaceId=dev148&clientIP=192.168.101.1&serviceName=xuecheng-plus-project%40%40content-api&udpPort=52301&clusters=, body: {}
+2023-03-10 13:05:43,710 DEBUG [hystrix-content-api-1][NacosRestTemplate.java:476] - HTTP method: GET, url: http://39.105.221.68:8848/nacos/v1/ns/instance/list?app=unknown&healthyOnly=false&namespaceId=dev148&clientIP=192.168.101.1&serviceName=xuecheng-plus-project%40%40content-api&udpPort=52301&clusters=, body: {}
+2023-03-10 13:05:43,762 INFO [hystrix-content-api-1][HostReactor.java:232] - new ips(1) service: xuecheng-plus-project@@content-api -> [{"instanceId":"192.168.101.1#63040#DEFAULT#xuecheng-plus-project@@content-api","ip":"192.168.101.1","port":63040,"weight":1.0,"healthy":true,"enabled":true,"ephemeral":true,"clusterName":"DEFAULT","serviceName":"xuecheng-plus-project@@content-api","metadata":{"preserved.register.source":"SPRING_CLOUD"},"instanceHeartBeatTimeOut":15000,"instanceHeartBeatInterval":5000,"ipDeleteTimeout":30000}]
+2023-03-10 13:05:43,762 INFO [hystrix-content-api-1][HostReactor.java:232] - new ips(1) service: xuecheng-plus-project@@content-api -> [{"instanceId":"192.168.101.1#63040#DEFAULT#xuecheng-plus-project@@content-api","ip":"192.168.101.1","port":63040,"weight":1.0,"healthy":true,"enabled":true,"ephemeral":true,"clusterName":"DEFAULT","serviceName":"xuecheng-plus-project@@content-api","metadata":{"preserved.register.source":"SPRING_CLOUD"},"instanceHeartBeatTimeOut":15000,"instanceHeartBeatInterval":5000,"ipDeleteTimeout":30000}]
+2023-03-10 13:05:43,763 DEBUG [nacos.publisher-com.alibaba.nacos.client.naming.event.InstancesChangeEvent][DefaultPublisher.java:193] - [NotifyCenter] the com.alibaba.nacos.client.naming.event.InstancesChangeEvent@7720805d will received by com.alibaba.nacos.client.naming.event.InstancesChangeNotifier@4a2bf50f
+2023-03-10 13:05:43,763 DEBUG [nacos.publisher-com.alibaba.nacos.client.naming.event.InstancesChangeEvent][DefaultPublisher.java:193] - [NotifyCenter] the com.alibaba.nacos.client.naming.event.InstancesChangeEvent@7720805d will received by com.alibaba.nacos.client.naming.event.InstancesChangeNotifier@4a2bf50f
+2023-03-10 13:05:43,769 INFO [hystrix-content-api-1][HostReactor.java:271] - current ips:(1) service: xuecheng-plus-project@@content-api -> [{"instanceId":"192.168.101.1#63040#DEFAULT#xuecheng-plus-project@@content-api","ip":"192.168.101.1","port":63040,"weight":1.0,"healthy":true,"enabled":true,"ephemeral":true,"clusterName":"DEFAULT","serviceName":"xuecheng-plus-project@@content-api","metadata":{"preserved.register.source":"SPRING_CLOUD"},"instanceHeartBeatTimeOut":15000,"instanceHeartBeatInterval":5000,"ipDeleteTimeout":30000}]
+2023-03-10 13:05:43,769 INFO [hystrix-content-api-1][HostReactor.java:271] - current ips:(1) service: xuecheng-plus-project@@content-api -> [{"instanceId":"192.168.101.1#63040#DEFAULT#xuecheng-plus-project@@content-api","ip":"192.168.101.1","port":63040,"weight":1.0,"healthy":true,"enabled":true,"ephemeral":true,"clusterName":"DEFAULT","serviceName":"xuecheng-plus-project@@content-api","metadata":{"preserved.register.source":"SPRING_CLOUD"},"instanceHeartBeatTimeOut":15000,"instanceHeartBeatInterval":5000,"ipDeleteTimeout":30000}]
+2023-03-10 13:05:43,772 DEBUG [hystrix-content-api-1][DynamicServerListLoadBalancer.java:241] - List of Servers for content-api obtained from Discovery client: [192.168.101.1:63040]
+2023-03-10 13:05:43,772 DEBUG [hystrix-content-api-1][DynamicServerListLoadBalancer.java:241] - List of Servers for content-api obtained from Discovery client: [192.168.101.1:63040]
+2023-03-10 13:05:43,773 DEBUG [hystrix-content-api-1][DynamicServerListLoadBalancer.java:246] - Filtered List of Servers for content-api obtained from Discovery client: [192.168.101.1:63040]
+2023-03-10 13:05:43,773 DEBUG [hystrix-content-api-1][DynamicServerListLoadBalancer.java:246] - Filtered List of Servers for content-api obtained from Discovery client: [192.168.101.1:63040]
+2023-03-10 13:05:43,773 DEBUG [hystrix-content-api-1][BaseLoadBalancer.java:491] - LoadBalancer [content-api]: clearing server list (SET op)
+2023-03-10 13:05:43,773 DEBUG [hystrix-content-api-1][BaseLoadBalancer.java:491] - LoadBalancer [content-api]: clearing server list (SET op)
+2023-03-10 13:05:43,774 DEBUG [hystrix-content-api-1][BaseLoadBalancer.java:507] - LoadBalancer [content-api]:  addServer [192.168.101.1:63040]
+2023-03-10 13:05:43,774 DEBUG [hystrix-content-api-1][BaseLoadBalancer.java:507] - LoadBalancer [content-api]:  addServer [192.168.101.1:63040]
+2023-03-10 13:05:43,783 DEBUG [hystrix-content-api-1][DynamicServerListLoadBalancer.java:179] - Setting server list for zones: {unknown=[192.168.101.1:63040]}
+2023-03-10 13:05:43,783 DEBUG [hystrix-content-api-1][DynamicServerListLoadBalancer.java:179] - Setting server list for zones: {unknown=[192.168.101.1:63040]}
+2023-03-10 13:05:43,786 INFO [hystrix-content-api-1][ChainedDynamicProperty.java:115] - Flipping property: content-api.ribbon.ActiveConnectionsLimit to use NEXT property: niws.loadbalancer.availabilityFilteringRule.activeConnectionsLimit = 2147483647
+2023-03-10 13:05:43,786 INFO [hystrix-content-api-1][ChainedDynamicProperty.java:115] - Flipping property: content-api.ribbon.ActiveConnectionsLimit to use NEXT property: niws.loadbalancer.availabilityFilteringRule.activeConnectionsLimit = 2147483647
+2023-03-10 13:05:43,787 DEBUG [hystrix-content-api-1][BaseLoadBalancer.java:147] - LoadBalancer [content-api_unknown]:  initialized
+2023-03-10 13:05:43,787 DEBUG [hystrix-content-api-1][BaseLoadBalancer.java:147] - LoadBalancer [content-api_unknown]:  initialized
+2023-03-10 13:05:43,788 DEBUG [hystrix-content-api-1][BaseLoadBalancer.java:491] - LoadBalancer [content-api_unknown]: clearing server list (SET op)
+2023-03-10 13:05:43,788 DEBUG [hystrix-content-api-1][BaseLoadBalancer.java:491] - LoadBalancer [content-api_unknown]: clearing server list (SET op)
+2023-03-10 13:05:43,790 DEBUG [hystrix-content-api-1][BaseLoadBalancer.java:507] - LoadBalancer [content-api_unknown]:  addServer [192.168.101.1:63040]
+2023-03-10 13:05:43,790 DEBUG [hystrix-content-api-1][BaseLoadBalancer.java:507] - LoadBalancer [content-api_unknown]:  addServer [192.168.101.1:63040]
+2023-03-10 13:05:43,792 INFO [hystrix-content-api-1][DynamicServerListLoadBalancer.java:150] - DynamicServerListLoadBalancer for client content-api initialized: DynamicServerListLoadBalancer:{NFLoadBalancer:name=content-api,current list of Servers=[192.168.101.1:63040],Load balancer stats=Zone stats: {unknown=[Zone:unknown;	Instance count:1;	Active connections count: 0;	Circuit breaker tripped count: 0;	Active connections per server: 0.0;]
+},Server stats: [[Server:192.168.101.1:63040;	Zone:UNKNOWN;	Total Requests:0;	Successive connection failure:0;	Total blackout seconds:0;	Last connection made:Thu Jan 01 08:00:00 CST 1970;	First connection made: Thu Jan 01 08:00:00 CST 1970;	Active Connections:0;	total failure count in last (1000) msecs:0;	average resp time:0.0;	90 percentile resp time:0.0;	95 percentile resp time:0.0;	min resp time:0.0;	max resp time:0.0;	stddev resp time:0.0]
+]}ServerList:com.alibaba.cloud.nacos.ribbon.NacosServerList@4ffa8357
+2023-03-10 13:05:43,792 INFO [hystrix-content-api-1][DynamicServerListLoadBalancer.java:150] - DynamicServerListLoadBalancer for client content-api initialized: DynamicServerListLoadBalancer:{NFLoadBalancer:name=content-api,current list of Servers=[192.168.101.1:63040],Load balancer stats=Zone stats: {unknown=[Zone:unknown;	Instance count:1;	Active connections count: 0;	Circuit breaker tripped count: 0;	Active connections per server: 0.0;]
+},Server stats: [[Server:192.168.101.1:63040;	Zone:UNKNOWN;	Total Requests:0;	Successive connection failure:0;	Total blackout seconds:0;	Last connection made:Thu Jan 01 08:00:00 CST 1970;	First connection made: Thu Jan 01 08:00:00 CST 1970;	Active Connections:0;	total failure count in last (1000) msecs:0;	average resp time:0.0;	90 percentile resp time:0.0;	95 percentile resp time:0.0;	min resp time:0.0;	max resp time:0.0;	stddev resp time:0.0]
+]}ServerList:com.alibaba.cloud.nacos.ribbon.NacosServerList@4ffa8357
+2023-03-10 13:05:43,847 DEBUG [hystrix-content-api-1][ZoneAwareLoadBalancer.java:112] - Zone aware logic disabled or there is only one zone
+2023-03-10 13:05:43,847 DEBUG [hystrix-content-api-1][ZoneAwareLoadBalancer.java:112] - Zone aware logic disabled or there is only one zone
+2023-03-10 13:05:43,865 DEBUG [hystrix-content-api-1][LoadBalancerContext.java:492] - content-api using LB returned Server: 192.168.101.1:63040 for request http:///content/r/coursepublish/129
+2023-03-10 13:05:43,865 DEBUG [hystrix-content-api-1][LoadBalancerContext.java:492] - content-api using LB returned Server: 192.168.101.1:63040 for request http:///content/r/coursepublish/129
+2023-03-10 13:05:43,980 DEBUG [hystrix-content-api-1][Slf4jLogger.java:72] - [ContentServiceClient#getCoursepublish] <--- HTTP/1.1 200 (822ms)
+2023-03-10 13:05:43,980 DEBUG [hystrix-content-api-1][Slf4jLogger.java:72] - [ContentServiceClient#getCoursepublish] <--- HTTP/1.1 200 (822ms)
+2023-03-10 13:05:44,057 WARN [Thread-2][HttpClientBeanHolder.java:108] - [HttpClientBeanHolder] Start destroying common HttpClient
+2023-03-10 13:05:44,057 WARN [Thread-2][HttpClientBeanHolder.java:108] - [HttpClientBeanHolder] Start destroying common HttpClient
+2023-03-10 13:05:44,057 WARN [Thread-13][NotifyCenter.java:145] - [NotifyCenter] Start destroying Publisher
+2023-03-10 13:05:44,057 WARN [Thread-13][NotifyCenter.java:145] - [NotifyCenter] Start destroying Publisher
+2023-03-10 13:05:44,057 WARN [Thread-2][HttpClientBeanHolder.java:114] - [HttpClientBeanHolder] Destruction of the end
+2023-03-10 13:05:44,057 WARN [Thread-13][NotifyCenter.java:162] - [NotifyCenter] Destruction of the end
+2023-03-10 13:05:44,057 WARN [Thread-13][NotifyCenter.java:162] - [NotifyCenter] Destruction of the end
+2023-03-10 13:05:44,057 WARN [Thread-2][HttpClientBeanHolder.java:114] - [HttpClientBeanHolder] Destruction of the end
+2023-03-10 13:05:44,062 INFO [Thread-21][PollingServerListUpdater.java:53] - Shutting down the Executor Pool for PollingServerListUpdater
+2023-03-10 13:05:44,062 INFO [SpringContextShutdownHook][ExecutorConfigurationSupport.java:218] - Shutting down ExecutorService 'Nacos-Watch-Task-Scheduler'
+2023-03-10 13:05:44,062 INFO [Thread-21][PollingServerListUpdater.java:53] - Shutting down the Executor Pool for PollingServerListUpdater
+2023-03-10 13:05:44,062 INFO [SpringContextShutdownHook][ExecutorConfigurationSupport.java:218] - Shutting down ExecutorService 'Nacos-Watch-Task-Scheduler'
+2023-03-10 13:05:44,096 INFO [SpringContextShutdownHook][BeatReactor.java:147] - com.alibaba.nacos.client.naming.beat.BeatReactor do shutdown begin
+2023-03-10 13:05:44,098 INFO [SpringContextShutdownHook][BeatReactor.java:149] - com.alibaba.nacos.client.naming.beat.BeatReactor do shutdown stop
+2023-03-10 13:05:44,099 INFO [SpringContextShutdownHook][HostReactor.java:413] - com.alibaba.nacos.client.naming.core.HostReactor do shutdown begin
+2023-03-10 13:05:44,096 INFO [SpringContextShutdownHook][BeatReactor.java:147] - com.alibaba.nacos.client.naming.beat.BeatReactor do shutdown begin
+2023-03-10 13:05:44,098 INFO [SpringContextShutdownHook][BeatReactor.java:149] - com.alibaba.nacos.client.naming.beat.BeatReactor do shutdown stop
+2023-03-10 13:05:44,099 INFO [SpringContextShutdownHook][HostReactor.java:413] - com.alibaba.nacos.client.naming.core.HostReactor do shutdown begin
+2023-03-10 13:05:44,781 DEBUG [com.alibaba.nacos.client.naming.updater][NacosRestTemplate.java:476] - HTTP method: GET, url: http://39.105.221.68:8848/nacos/v1/ns/instance/list?app=unknown&healthyOnly=false&namespaceId=dev148&clientIP=192.168.101.1&serviceName=xuecheng-plus-project%40%40content-api&udpPort=52301&clusters=, body: {}
+2023-03-10 13:05:44,781 DEBUG [com.alibaba.nacos.client.naming.updater][NacosRestTemplate.java:476] - HTTP method: GET, url: http://39.105.221.68:8848/nacos/v1/ns/instance/list?app=unknown&healthyOnly=false&namespaceId=dev148&clientIP=192.168.101.1&serviceName=xuecheng-plus-project%40%40content-api&udpPort=52301&clusters=, body: {}
+2023-03-10 13:05:45,437 DEBUG [com.alibaba.nacos.client.naming.updater][NacosRestTemplate.java:476] - HTTP method: GET, url: http://39.105.221.68:8848/nacos/v1/ns/instance/list?app=unknown&healthyOnly=false&namespaceId=dev148&clientIP=192.168.101.1&serviceName=xuecheng-plus-project%40%40learning-service&udpPort=52301&clusters=DEFAULT, body: {}
+2023-03-10 13:05:45,437 DEBUG [com.alibaba.nacos.client.naming.updater][NacosRestTemplate.java:476] - HTTP method: GET, url: http://39.105.221.68:8848/nacos/v1/ns/instance/list?app=unknown&healthyOnly=false&namespaceId=dev148&clientIP=192.168.101.1&serviceName=xuecheng-plus-project%40%40learning-service&udpPort=52301&clusters=DEFAULT, body: {}
+2023-03-10 13:05:45,468 INFO [SpringContextShutdownHook][PushReceiver.java:132] - com.alibaba.nacos.client.naming.core.PushReceiver do shutdown begin
+2023-03-10 13:05:45,468 INFO [SpringContextShutdownHook][PushReceiver.java:132] - com.alibaba.nacos.client.naming.core.PushReceiver do shutdown begin
+2023-03-10 13:05:47,078 DEBUG [com.alibaba.nacos.naming.failover][FailoverReactor.java:147] - failover switch is not found, failover00-00---000-VIPSRV_FAILOVER_SWITCH-000---00-00
+2023-03-10 13:05:47,078 DEBUG [com.alibaba.nacos.naming.failover][FailoverReactor.java:147] - failover switch is not found, failover00-00---000-VIPSRV_FAILOVER_SWITCH-000---00-00
+2023-03-10 13:05:48,495 INFO [SpringContextShutdownHook][PushReceiver.java:136] - com.alibaba.nacos.client.naming.core.PushReceiver do shutdown stop
+2023-03-10 13:05:48,495 INFO [SpringContextShutdownHook][PushReceiver.java:136] - com.alibaba.nacos.client.naming.core.PushReceiver do shutdown stop
+2023-03-10 13:05:48,496 INFO [SpringContextShutdownHook][FailoverReactor.java:132] - com.alibaba.nacos.client.naming.backups.FailoverReactor do shutdown begin
+2023-03-10 13:05:48,496 INFO [SpringContextShutdownHook][FailoverReactor.java:132] - com.alibaba.nacos.client.naming.backups.FailoverReactor do shutdown begin
+2023-03-10 13:05:51,524 INFO [SpringContextShutdownHook][FailoverReactor.java:134] - com.alibaba.nacos.client.naming.backups.FailoverReactor do shutdown stop
+2023-03-10 13:05:51,524 INFO [SpringContextShutdownHook][FailoverReactor.java:134] - com.alibaba.nacos.client.naming.backups.FailoverReactor do shutdown stop
+2023-03-10 13:05:51,524 INFO [SpringContextShutdownHook][HostReactor.java:418] - com.alibaba.nacos.client.naming.core.HostReactor do shutdown stop
+2023-03-10 13:05:51,524 INFO [SpringContextShutdownHook][HostReactor.java:418] - com.alibaba.nacos.client.naming.core.HostReactor do shutdown stop
+2023-03-10 13:05:51,525 INFO [SpringContextShutdownHook][NamingProxy.java:719] - com.alibaba.nacos.client.naming.net.NamingProxy do shutdown begin
+2023-03-10 13:05:51,525 INFO [SpringContextShutdownHook][NamingProxy.java:719] - com.alibaba.nacos.client.naming.net.NamingProxy do shutdown begin
+2023-03-10 13:05:51,527 WARN [SpringContextShutdownHook][NamingHttpClientManager.java:72] - [NamingHttpClientManager] Start destroying NacosRestTemplate
+2023-03-10 13:05:51,527 WARN [SpringContextShutdownHook][NamingHttpClientManager.java:72] - [NamingHttpClientManager] Start destroying NacosRestTemplate
+2023-03-10 13:05:51,527 WARN [SpringContextShutdownHook][NamingHttpClientManager.java:79] - [NamingHttpClientManager] Destruction of the end
+2023-03-10 13:05:51,527 WARN [SpringContextShutdownHook][NamingHttpClientManager.java:79] - [NamingHttpClientManager] Destruction of the end
+2023-03-10 13:05:51,528 INFO [SpringContextShutdownHook][CredentialWatcher.java:105] - [null] CredentialWatcher is stopped
+2023-03-10 13:05:51,528 INFO [SpringContextShutdownHook][CredentialWatcher.java:105] - [null] CredentialWatcher is stopped
+2023-03-10 13:05:51,529 INFO [SpringContextShutdownHook][CredentialService.java:98] - [null] CredentialService is freed
+2023-03-10 13:05:51,529 INFO [SpringContextShutdownHook][CredentialService.java:98] - [null] CredentialService is freed
+2023-03-10 13:05:51,529 INFO [SpringContextShutdownHook][NamingProxy.java:723] - com.alibaba.nacos.client.naming.net.NamingProxy do shutdown stop
+2023-03-10 13:05:51,529 INFO [SpringContextShutdownHook][NamingProxy.java:723] - com.alibaba.nacos.client.naming.net.NamingProxy do shutdown stop

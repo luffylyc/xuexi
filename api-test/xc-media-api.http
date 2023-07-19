@@ -1,0 +1,10 @@
+### 上传文件
+POST {{gateway_host}}/media/upload/coursefile
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="filedata"; filename="12345.jpg"
+Content-Type: application/octet-stream
+
+< E:/照片/12345.jpg
+

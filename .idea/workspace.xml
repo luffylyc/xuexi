@@ -1,0 +1,1470 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="182e7f25-ff10-4e25-9141-71b9a325a253" name="Default Changelist" comment="支付完结">
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-base/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-base/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-base/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-base/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-base/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-content/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-content/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-content/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-content/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-content/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-content/xuecheng-plus-content-api/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-content/xuecheng-plus-content-api/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-content/xuecheng-plus-content-api/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-content/xuecheng-plus-content-api/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-content/xuecheng-plus-content-api/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-content/xuecheng-plus-content-model/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-content/xuecheng-plus-content-model/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-content/xuecheng-plus-content-model/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-content/xuecheng-plus-content-model/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-content/xuecheng-plus-content-model/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-content/xuecheng-plus-content-service/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-content/xuecheng-plus-content-service/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-content/xuecheng-plus-content-service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-content/xuecheng-plus-content-service/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-content/xuecheng-plus-content-service/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-gateway/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-gateway/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-gateway/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-gateway/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-gateway/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-parent/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-parent/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-parent/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-parent/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-parent/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-test/xc-content-api.http" beforeDir="false" afterPath="$PROJECT_DIR$/api-test/xc-content-api.http" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuecheng-plus-auth/src/main/resources/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/xuecheng-plus-auth/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuecheng-plus-checkcode/src/main/resources/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/xuecheng-plus-checkcode/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuecheng-plus-content/xuecheng-plus-content-api/src/main/java/com/xuecheng/content/api/CourseBaseInfoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/xuecheng-plus-content/xuecheng-plus-content-api/src/main/java/com/xuecheng/content/api/CourseBaseInfoController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuecheng-plus-content/xuecheng-plus-content-api/src/main/java/com/xuecheng/content/api/CoursePublishController.java" beforeDir="false" afterPath="$PROJECT_DIR$/xuecheng-plus-content/xuecheng-plus-content-api/src/main/java/com/xuecheng/content/api/CoursePublishController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuecheng-plus-content/xuecheng-plus-content-api/src/main/java/com/xuecheng/content/api/TeachplanController.java" beforeDir="false" afterPath="$PROJECT_DIR$/xuecheng-plus-content/xuecheng-plus-content-api/src/main/java/com/xuecheng/content/api/TeachplanController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuecheng-plus-content/xuecheng-plus-content-api/src/main/resources/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/xuecheng-plus-content/xuecheng-plus-content-api/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuecheng-plus-content/xuecheng-plus-content-model/src/main/java/com/xuecheng/content/model/dto/CourseBaseInfoDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/xuecheng-plus-content/xuecheng-plus-content-model/src/main/java/com/xuecheng/content/model/dto/CourseBaseInfoDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuecheng-plus-content/xuecheng-plus-content-service/src/main/java/com/xuecheng/content/service/TeachplanService.java" beforeDir="false" afterPath="$PROJECT_DIR$/xuecheng-plus-content/xuecheng-plus-content-service/src/main/java/com/xuecheng/content/service/TeachplanService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuecheng-plus-content/xuecheng-plus-content-service/src/main/java/com/xuecheng/content/service/impl/TeachplanServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/xuecheng-plus-content/xuecheng-plus-content-service/src/main/java/com/xuecheng/content/service/impl/TeachplanServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuecheng-plus-content/xuecheng-plus-content-service/src/main/resources/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/xuecheng-plus-content/xuecheng-plus-content-service/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuecheng-plus-content/xuecheng-plus-content-service/src/main/resources/log4j2-dev.xml" beforeDir="false" afterPath="$PROJECT_DIR$/xuecheng-plus-content/xuecheng-plus-content-service/src/main/resources/log4j2-dev.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuecheng-plus-gateway/src/main/resources/bootstrap.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/xuecheng-plus-gateway/src/main/resources/bootstrap.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/content/controller/CourseBaseController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/content/controller/CourseCategoryController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/content/controller/CourseMarketController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/content/controller/CoursePublishController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/content/controller/CoursePublishPreController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/content/controller/CourseTeacherController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/content/controller/MqMessageController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/content/controller/MqMessageHistoryController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/content/controller/TeachplanController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/content/controller/TeachplanMediaController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/content/mapper/CourseBaseMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/content/mapper/CourseBaseMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/content/mapper/CourseCategoryMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/content/mapper/CourseCategoryMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/content/mapper/CourseMarketMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/content/mapper/CourseMarketMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/content/mapper/CoursePublishMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/content/mapper/CoursePublishMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/content/mapper/CoursePublishPreMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/content/mapper/CoursePublishPreMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/content/mapper/CourseTeacherMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/content/mapper/CourseTeacherMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/content/mapper/MqMessageHistoryMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/content/mapper/MqMessageHistoryMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/content/mapper/MqMessageMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/content/mapper/MqMessageMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/content/mapper/TeachplanMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/content/mapper/TeachplanMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/content/mapper/TeachplanMediaMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/content/mapper/TeachplanMediaMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/content/model/po/CourseBase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/content/model/po/CourseCategory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/content/model/po/CourseMarket.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/content/model/po/CoursePublish.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/content/model/po/CoursePublishPre.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/content/model/po/CourseTeacher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/content/model/po/MqMessage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/content/model/po/MqMessageHistory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/content/model/po/Teachplan.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/content/model/po/TeachplanMedia.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/content/service/CourseBaseService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/content/service/CourseCategoryService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/content/service/CourseMarketService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/content/service/CoursePublishPreService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/content/service/CoursePublishService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/content/service/CourseTeacherService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/content/service/MqMessageHistoryService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/content/service/MqMessageService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/content/service/TeachplanMediaService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/content/service/TeachplanService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/content/service/impl/CourseBaseServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/content/service/impl/CourseCategoryServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/content/service/impl/CourseMarketServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/content/service/impl/CoursePublishPreServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/content/service/impl/CoursePublishServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/content/service/impl/CourseTeacherServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/content/service/impl/MqMessageHistoryServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/content/service/impl/MqMessageServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/content/service/impl/TeachplanMediaServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/content/service/impl/TeachplanServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/generator/ContentCodeGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/generator/ContentCodeGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/generator/LearningCodeGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/generator/LearningCodeGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/generator/MediaCodeGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/generator/MediaCodeGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/generator/MessageCodeGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/generator/MessageCodeGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/generator/OrderCodeGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/generator/OrderCodeGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/generator/SystemCodeGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/generator/SystemCodeGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/generator/UcenterCodeGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/generator/UcenterCodeGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuecheng-plus-learning/xuecheng-plus-learning-api/src/main/java/com/xuecheng/learning/api/MyCourseTablesController.java" beforeDir="false" afterPath="$PROJECT_DIR$/xuecheng-plus-learning/xuecheng-plus-learning-api/src/main/java/com/xuecheng/learning/api/MyCourseTablesController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuecheng-plus-learning/xuecheng-plus-learning-api/src/main/java/com/xuecheng/learning/api/MyLearningController.java" beforeDir="false" afterPath="$PROJECT_DIR$/xuecheng-plus-learning/xuecheng-plus-learning-api/src/main/java/com/xuecheng/learning/api/MyLearningController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuecheng-plus-learning/xuecheng-plus-learning-api/src/main/resources/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/xuecheng-plus-learning/xuecheng-plus-learning-api/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuecheng-plus-learning/xuecheng-plus-learning-service/src/main/java/com/xuecheng/learning/service/MyCourseTablesService.java" beforeDir="false" afterPath="$PROJECT_DIR$/xuecheng-plus-learning/xuecheng-plus-learning-service/src/main/java/com/xuecheng/learning/service/MyCourseTablesService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuecheng-plus-learning/xuecheng-plus-learning-service/src/main/java/com/xuecheng/learning/service/impl/MyCourseTablesServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/xuecheng-plus-learning/xuecheng-plus-learning-service/src/main/java/com/xuecheng/learning/service/impl/MyCourseTablesServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuecheng-plus-media/xuecheng-plus-media-api/src/main/resources/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/xuecheng-plus-media/xuecheng-plus-media-api/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuecheng-plus-media/xuecheng-plus-media-service/src/main/resources/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/xuecheng-plus-media/xuecheng-plus-media-service/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuecheng-plus-message-sdk/src/test/resources/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/xuecheng-plus-message-sdk/src/test/resources/bootstrap.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuecheng-plus-orders/xuecheng-plus-orders-api/src/main/resources/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/xuecheng-plus-orders/xuecheng-plus-orders-api/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuecheng-plus-search/src/main/resources/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/xuecheng-plus-search/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuecheng-plus-system/xuecheng-plus-system-api/src/main/resources/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/xuecheng-plus-system/xuecheng-plus-system-api/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuecheng-plus-system/xuecheng-plus-system-service/src/main/resources/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/xuecheng-plus-system/xuecheng-plus-system-service/src/main/resources/bootstrap.yml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTTP Public Environment File" />
+        <option value="FxmlFile" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HttpClientSelectedEnvironments">
+    <file url="file://$PROJECT_DIR$/api-test/xc-content-api.http" environment="dev" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$USER_HOME$/Desktop/mvn" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedIndex" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2MAuIrGDjvAeP2JcaIspeI5TTtp" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/data/work/java/javadata/JavaData/project-xczx2-portal-vue-ts&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;0a21631e2b001910b6a286f4502f230c&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
+  }
+}</component>
+  <component name="ReaderModeSettings">
+    <option name="enabled" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\JavaData\xuechengplus\xuecheng-plus-learning\xuecheng-plus-learning-service\src\main\java\com\xuecheng\learning\service\impl" />
+      <recent name="D:\JavaData\xuechengplus\xuecheng-plus-learning\xuecheng-plus-learning-service\src\main\java\com\xuecheng\learning\service" />
+      <recent name="D:\JavaData\xuechengplus\xuecheng-plus-orders\xuecheng-plus-orders-service\src\main\java\com\xuecheng\orders\config" />
+      <recent name="D:\JavaData\xuechengplus\xuecheng-plus-content\xuecheng-plus-content-api\src\main\resources\templates" />
+      <recent name="D:\JavaData\xuechengplus\xuecheng-plus-base\src\main\java\com\xuecheng\base\utils" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.xuecheng.learning.config" />
+      <recent name="com.xuecheng.content.feignclient.modle" />
+      <recent name="com.xuecheng.media.service.jobhandler" />
+      <recent name="com.xuecheng.media.config" />
+      <recent name="com.xuecheng.content.service" />
+    </key>
+  </component>
+  <component name="RestClientSettings">
+    <option name="REQUEST_HISTORY">
+      <list>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:63075/checkcode/verify" />
+          <option name="urlPath" value="" />
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="key" />
+                <option name="value" value="checkcode:0ad9e9c90c3c4309a43108ffbd17a481" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="code" />
+                <option name="value" value="AFWZ1" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:63075/checkcode/verify" />
+          <option name="urlPath" value="" />
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="key" />
+                <option name="value" value="checkcode:0ad9e9c90c3c4309a43108ffbd17a481" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="code" />
+                <option name="value" value="AFWZ" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:63075/checkcode/pic" />
+          <option name="urlPath" value="" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:63070/auth/oauth/token" />
+          <option name="urlPath" value="" />
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="client_id" />
+                <option name="value" value="XcWebApp" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="client_secret" />
+                <option name="value" value="XcWebApp" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="grant_type" />
+                <option name="value" value="password" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="username" />
+                <option name="value" value="{&quot;username&quot;:&quot;t1&quot;,&quot;password&quot;:&quot;111111&quot;,&quot;authType&quot;:&quot;password&quot;}" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:63010/content/course/2" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOlsieHVlY2hlbmdwbHVzIl0sInVzZXJfbmFtZSI6IntcImNvbXBhbnlJZFwiOlwiMTIzMjE0MTQyNVwiLFwiY3JlYXRlVGltZVwiOlwiMjAyMi0wOS0yOFQwODozMjowM1wiLFwiaWRcIjpcIjUyXCIsXCJuYW1lXCI6XCJN6ICB5biIXCIsXCJzZXhcIjpcIjFcIixcInN0YXR1c1wiOlwiXCIsXCJ1c2VybmFtZVwiOlwidDFcIixcInV0eXBlXCI6XCIxMDEwMDJcIn0iLCJzY29wZSI6WyJhbGwiXSwiZXhwIjoxNjc4MjkxMTAwLCJhdXRob3JpdGllcyI6WyJwMSJdLCJqdGkiOiIwMjI0ZTQ1ZC1mNGZlLTQzMDgtYWRiNy0zYWYzOWE3ZmUwZDgiLCJjbGllbnRfaWQiOiJYY1dlYkFwcCJ9.aLrODFWarsEczWBxrH4eh6eVI7UoRtoRMpb00WB3Yjc" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:63070/auth/oauth/token" />
+          <option name="urlPath" value="" />
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="client_id" />
+                <option name="value" value="XcWebApp" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="client_secret" />
+                <option name="value" value="XcWebApp" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="grant_type" />
+                <option name="value" value="password" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="username" />
+                <option name="value" value="t1" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="password" />
+                <option name="value" value="111111" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:63010/content/course/2" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOlsieHVlY2hlbmdwbHVzIl0sInVzZXJfbmFtZSI6IntcImNvbXBhbnlJZFwiOlwiMTIzMjE0MTQyNVwiLFwiY3JlYXRlVGltZVwiOlwiMjAyMi0wOS0yOFQwODozMjowM1wiLFwiaWRcIjpcIjUyXCIsXCJuYW1lXCI6XCJN6ICB5biIXCIsXCJzZXhcIjpcIjFcIixcInN0YXR1c1wiOlwiXCIsXCJ1c2VybmFtZVwiOlwidDFcIixcInV0eXBlXCI6XCIxMDEwMDJcIn0iLCJzY29wZSI6WyJhbGwiXSwiZXhwIjoxNjc4MjkwOTM4LCJhdXRob3JpdGllcyI6WyJwMSJdLCJqdGkiOiI0ZTY0NzUxOC0xZjAyLTQwNzItOTE3OC04NmU4MGNmYTdhYmUiLCJjbGllbnRfaWQiOiJYY1dlYkFwcCJ9.AvYFRfEuB1-U2-gjgJTr72k4oiCSMdmzGN33d3G--fY" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:63070/auth/oauth/check_token" />
+          <option name="urlPath" value="" />
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="token" />
+                <option name="value" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOlsieHVlY2hlbmdwbHVzIl0sInVzZXJfbmFtZSI6IntcImNvbXBhbnlJZFwiOlwiMTIzMjE0MTQyNVwiLFwiY3JlYXRlVGltZVwiOlwiMjAyMi0wOS0yOFQwODozMjowM1wiLFwiaWRcIjpcIjUyXCIsXCJuYW1lXCI6XCJN6ICB5biIXCIsXCJzZXhcIjpcIjFcIixcInN0YXR1c1wiOlwiXCIsXCJ1c2VybmFtZVwiOlwidDFcIixcInV0eXBlXCI6XCIxMDEwMDJcIn0iLCJzY29wZSI6WyJhbGwiXSwiZXhwIjoxNjc4Mjg5NTU5LCJhdXRob3JpdGllcyI6WyJwMSJdLCJqdGkiOiIzYTQ5OWEwMC0zZDc4LTRkMGQtOTVhNi04MzAyZTA4NzM4NmEiLCJjbGllbnRfaWQiOiJYY1dlYkFwcCJ9.KeA9dUI8Ix0EuyEg2FtGrEKyo2GWbmTd5oUEyIsK1ec" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:63010/content/course/2" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOlsieHVlY2hlbmdwbHVzIl0sInVzZXJfbmFtZSI6InQxIiwic2NvcGUiOlsiYWxsIl0sImV4cCI6MTY3ODI4ODYyMSwiYXV0aG9yaXRpZXMiOlsidGVzdCJdLCJqdGkiOiI0YWY3YzlmZS1iNDU0LTRmOGUtODY3OC0yOWM4NDM0MWUzYTciLCJjbGllbnRfaWQiOiJYY1dlYkFwcCJ9.F4ZxM7sfXbeWpBGA4Dizs0LFD4oM3KWPmxfZ8s3anGQ" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:63070/auth/oauth/token" />
+          <option name="urlPath" value="" />
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="client_id" />
+                <option name="value" value="XcWebApp" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="client_secret" />
+                <option name="value" value="XcWebApp" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="grant_type" />
+                <option name="value" value="password" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="username" />
+                <option name="value" value="zhangsan" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="password" />
+                <option name="value" value="123" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:63010/content/course/2" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOlsieHVlY2hlbmdwbHVzIl0sInVzZXJfbmFtZSI6InpoYW5nc2FuIiwic2NvcGUiOlsiYWxsIl0sImV4cCI6MTY3ODI4NjM0MSwiYXV0aG9yaXRpZXMiOlsicDEiXSwianRpIjoiNWVlMmNkNzktMWYzNS00MzQxLThjOWEtYzg5MmI1MTU1N2Q1IiwiY2xpZW50X2lkIjoiWGNXZWJBcHAifQ.NgbaJnDRuZykndk-EV_1kY1Ue-xpdt1muyYIMq8LhZ8" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:63010/content/course/2" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOlsieHVlY2hlbmdwbHVzIl0sInVzZXJfbmFtZSI6InpoYW5nc2FuIiwic2NvcGUiOlsiYWxsIl0sImV4cCI6MTY3ODI3MzA1OCwiYXV0aG9yaXRpZXMiOlsicDEiXSwianRpIjoiNDJkOTAxZjQtNTI0ZC00Y2Y4LTkzM2EtMWE5MDVlMDFhODg0IiwiY2xpZW50X2lkIjoiWGNXZWJBcHAifQ.6BtcK5iyid6psAYrUlbmjzb30d1KBx1VSrghUXQj_Io" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:63040/content/course/2" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOlsieHVlY2hlbmdwbHVzIl0sInVzZXJfbmFtZSI6InpoYW5nc2FuIiwic2NvcGUiOlsiYWxsIl0sImV4cCI6MTY3ODI3MzA1OCwiYXV0aG9yaXRpZXMiOlsicDEiXSwianRpIjoiNDJkOTAxZjQtNTI0ZC00Y2Y4LTkzM2EtMWE5MDVlMDFhODg0IiwiY2xpZW50X2lkIjoiWGNXZWJBcHAifQ.6BtcK5iyid6psAYrUlbmjzb30d1KBx1VSrghUXQj_Io" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:63040/content/course/2" />
+          <option name="urlPath" value="" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:63070/auth/oauth/check_token" />
+          <option name="urlPath" value="" />
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="token" />
+                <option name="value" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOlsieHVlY2hlbmdwbHVzIl0sInVzZXJfbmFtZSI6InpoYW5nc2FuIiwic2NvcGUiOlsiYWxsIl0sImV4cCI6MTY3ODI3MTYyNSwiYXV0aG9yaXRpZXMiOlsicDEiXSwianRpIjoiNWY2MzRlNWEtMGI2My00MTgyLWI4MzgtZTAyNDUyZGJlMmQzIiwiY2xpZW50X2lkIjoiWGNXZWJBcHAifQ.TuA5GdHQUYxwU6eqml2mgHjKP03f_9Yc1BZ1ZjOVRjA" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:63070/oauth/check_token" />
+          <option name="urlPath" value="" />
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="token" />
+                <option name="value" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOlsieHVlY2hlbmdwbHVzIl0sInVzZXJfbmFtZSI6InpoYW5nc2FuIiwic2NvcGUiOlsiYWxsIl0sImV4cCI6MTY3ODI3MTYyNSwiYXV0aG9yaXRpZXMiOlsicDEiXSwianRpIjoiNWY2MzRlNWEtMGI2My00MTgyLWI4MzgtZTAyNDUyZGJlMmQzIiwiY2xpZW50X2lkIjoiWGNXZWJBcHAifQ.TuA5GdHQUYxwU6eqml2mgHjKP03f_9Yc1BZ1ZjOVRjA" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:63070/auth/oauth/token" />
+          <option name="urlPath" value="" />
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="client_id" />
+                <option name="value" value="XcWebApp" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="client_secret" />
+                <option name="value" value="XcWebApp" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="grant_type" />
+                <option name="value" value="authorization_code" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="code" />
+                <option name="value" value="jwOmBA" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="redirect_uri" />
+                <option name="value" value="http://www.51xuecheng.cn" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:63080/search/course/list" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="pageNo" />
+                <option name="value" value="1" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="keywords" />
+                <option name="value" value="spring" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:63080/search/index/course" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;charge&quot; : &quot;201000&quot;,&#10;  &quot;companyId&quot; : 100000,&#10;  &quot;companyName&quot; : &quot;北京黑马程序&quot;,&#10;  &quot;createDate&quot; : &quot;2022-09-25 09:36:11&quot;,&#10;  &quot;description&quot; : &quot;《Spring编程思想》是2007年6月1日机械工业出版社出版的图书，作者是埃克尔，译者是陈昊鹏。主要内容本书赢得了全球程序员的广泛赞誉，即使是最晦涩的概念，在Bruce Eckel的文字亲和力和小而直接的编程示例面前也会化解于无形。从Java的基础语法到最高级特性（深入的面向对象概念、多线程、自动项目构建、单元测试和调试等），本书都能逐步指导你轻松掌握。从本书获得的各项大奖以及来自世界各地的读者评论中，不难看出这是一本经典之作&quot;,&#10;  &quot;grade&quot; : &quot;204001&quot;,&#10;  &quot;id&quot; : 102,&#10;  &quot;mt&quot; : &quot;1-3&quot;,&#10;  &quot;mtName&quot; : &quot;编程开发&quot;,&#10;  &quot;name&quot; : &quot;Spring编程思想&quot;,&#10;  &quot;originalPrice&quot; : 200.0,&#10;  &quot;pic&quot; : &quot;/mediafiles/2022/09/20/1d0f0e6ed8a0c4a89bfd304b84599d9c.png&quot;,&#10;  &quot;price&quot; : 100.0,&#10;  &quot;remark&quot; : &quot;没有备注&quot;,&#10;  &quot;st&quot; : &quot;1-3-2&quot;,&#10;  &quot;stName&quot; : &quot;Java语言&quot;,&#10;  &quot;status&quot; : &quot;203002&quot;,&#10;  &quot;tags&quot; : &quot;没有标签&quot;,&#10;  &quot;teachmode&quot; : &quot;200002&quot;,&#10;  &quot;validDays&quot; : 222&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:63010/media/upload/coursefile" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="multipart/form-data; boundary=WebAppBoundary" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="isFileUpload" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:63010/media/upload/coursefile" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="multipart/form-data; boundary=WebAppBoundary" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="isFileUpload" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:63010/media/upload/coursefile" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="multipart/form-data; boundary=WebAppBoundary" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="isFileUpload" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:63050/media/upload/coursefile" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="multipart/form-data; boundary=WebAppBoundary" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="isFileUpload" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:63050/media/upload/coursefile" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="multipart/form-data; boundary=WebAppBoundary" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="isFileUpload" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:63050/media/upload/coursefile" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="multipart/form-data; boundary=WebAppBoundary" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="isFileUpload" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:63050/media/upload/coursefile" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="multipart/form-data; boundary=WebAppBoundary" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="isFileUpload" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:63010/content/course/list" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="pageNo" />
+                <option name="value" value="1" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="pageSize" />
+                <option name="value" value="3" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;auditStatus&quot;: &quot;202004&quot;,&#10;  &quot;courseName&quot;: &quot;java&quot;,&#10;  &quot;publishStatus&quot;: &quot;203001&quot;&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:63040/content/course/list" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="pageNo" />
+                <option name="value" value="1" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="pageSize" />
+                <option name="value" value="3" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;auditStatus&quot;: &quot;202004&quot;,&#10;  &quot;courseName&quot;: &quot;java&quot;,&#10;  &quot;publishStatus&quot;: &quot;203001&quot;&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:63040/content/teachplan/117/tree-nodes" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:63040/content/teachplan/74/tree-nodes" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:63040/content/course" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;charge&quot;: &quot;201001&quot;,&#10;  &quot;price&quot;: 0,&#10;  &quot;originalPrice&quot;:0,&#10;  &quot;qq&quot;: &quot;22333&quot;,&#10;  &quot;wechat&quot;: &quot;223344&quot;,&#10;  &quot;phone&quot;: &quot;13333333&quot;,&#10;  &quot;validDays&quot;: 365,&#10;  &quot;mt&quot;: &quot;1-1&quot;,&#10;  &quot;st&quot;: &quot;1-1-1&quot;,&#10;  &quot;name&quot;: &quot;&quot;,&#10;  &quot;pic&quot;: &quot;&quot;,&#10;  &quot;teachmode&quot;: &quot;200002&quot;,&#10;  &quot;users&quot;: &quot;初级人员初级人员初级人员初级人员&quot;,&#10;  &quot;tags&quot;: &quot;&quot;,&#10;  &quot;grade&quot;: &quot;204001&quot;,&#10;  &quot;description&quot;: &quot;&quot;,&#10;  &quot;objectives&quot;: &quot;&quot;&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:63040/content/course" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;charge&quot;: &quot;201001&quot;,&#10;  &quot;price&quot;: 0,&#10;  &quot;originalPrice&quot;:0,&#10;  &quot;qq&quot;: &quot;22333&quot;,&#10;  &quot;wechat&quot;: &quot;223344&quot;,&#10;  &quot;phone&quot;: &quot;13333333&quot;,&#10;  &quot;validDays&quot;: 365,&#10;  &quot;mt&quot;: &quot;1-1&quot;,&#10;  &quot;st&quot;: &quot;1-1-1&quot;,&#10;  &quot;name&quot;: &quot;&quot;,&#10;  &quot;pic&quot;: &quot;&quot;,&#10;  &quot;teachmode&quot;: &quot;200002&quot;,&#10;  &quot;users&quot;: &quot;初级人员&quot;,&#10;  &quot;tags&quot;: &quot;&quot;,&#10;  &quot;grade&quot;: &quot;204001&quot;,&#10;  &quot;description&quot;: &quot;&quot;,&#10;  &quot;objectives&quot;: &quot;&quot;&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:63040/content/course" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;charge&quot;: &quot;201001&quot;,&#10;  &quot;price&quot;: 0,&#10;  &quot;originalPrice&quot;:0,&#10;  &quot;qq&quot;: &quot;22333&quot;,&#10;  &quot;wechat&quot;: &quot;223344&quot;,&#10;  &quot;phone&quot;: &quot;13333333&quot;,&#10;  &quot;validDays&quot;: 365,&#10;  &quot;mt&quot;: &quot;1-1&quot;,&#10;  &quot;st&quot;: &quot;1-1-1&quot;,&#10;  &quot;name&quot;: &quot;测试课程103&quot;,&#10;  &quot;pic&quot;: &quot;&quot;,&#10;  &quot;teachmode&quot;: &quot;200002&quot;,&#10;  &quot;users&quot;: &quot;初级人员&quot;,&#10;  &quot;tags&quot;: &quot;&quot;,&#10;  &quot;grade&quot;: &quot;204001&quot;,&#10;  &quot;description&quot;: &quot;&quot;,&#10;  &quot;objectives&quot;: &quot;&quot;&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:63040/content/course" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;charge&quot;: &quot;201000&quot;,&#10;  &quot;price&quot;: 0,&#10;  &quot;originalPrice&quot;:0,&#10;  &quot;qq&quot;: &quot;22333&quot;,&#10;  &quot;wechat&quot;: &quot;223344&quot;,&#10;  &quot;phone&quot;: &quot;13333333&quot;,&#10;  &quot;validDays&quot;: 365,&#10;  &quot;mt&quot;: &quot;1-1&quot;,&#10;  &quot;st&quot;: &quot;1-1-1&quot;,&#10;  &quot;name&quot;: &quot;测试课程103&quot;,&#10;  &quot;pic&quot;: &quot;&quot;,&#10;  &quot;teachmode&quot;: &quot;200002&quot;,&#10;  &quot;users&quot;: &quot;初级人员&quot;,&#10;  &quot;tags&quot;: &quot;&quot;,&#10;  &quot;grade&quot;: &quot;204001&quot;,&#10;  &quot;description&quot;: &quot;&quot;,&#10;  &quot;objectives&quot;: &quot;&quot;&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:63040/content/course-category/tree-nodes" />
+          <option name="urlPath" value="" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:63040/content/course/list" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="pageNo" />
+                <option name="value" value="1" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="pageSize" />
+                <option name="value" value="10" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;&quot;auditStatus&quot;: &quot;202004&quot;,&#10;&quot;courseName&quot;: &quot;java&quot;,&#10;&quot;publishStatus&quot;: &quot;203001&quot;&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:63040/content/course/list" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="pageNo" />
+                <option name="value" value="1" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="pageSize" />
+                <option name="value" value="2" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;&quot;auditStatus&quot;: &quot;202004&quot;,&#10;&quot;courseName&quot;: &quot;java&quot;,&#10;&quot;publishStatus&quot;: &quot;203001&quot;&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:63040/course/list" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="pageNo" />
+                <option name="value" value="1" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="pageSize" />
+                <option name="value" value="2" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;&quot;auditStatus&quot;: &quot;202004&quot;,&#10;&quot;courseName&quot;: &quot;java&quot;,&#10;&quot;publishStatus&quot;: &quot;203001&quot;&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:63040/content/course/list" />
+          <option name="urlPath" value="" />
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="pageNo" />
+                <option name="value" value="1" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="pageSize" />
+                <option name="value" value="2" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="Content-Type: application/json&#10;&#10;{&#10;  &quot;auditStatus&quot;: &quot;202002&quot;,&#10;  &quot;courseName&quot;: &quot;java&quot;,&#10;  &quot;publishStatus&quot;: &quot;203001&quot;&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:63040/course/list" />
+          <option name="urlPath" value="" />
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="pageNo" />
+                <option name="value" value="1" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="pageSize" />
+                <option name="value" value="2" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="Content-Type: application/json&#10;&#10;{&#10;  &quot;auditStatus&quot;: &quot;202002&quot;,&#10;  &quot;courseName&quot;: &quot;java&quot;,&#10;  &quot;publishStatus&quot;: &quot;203001&quot;&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:63040/course/list" />
+          <option name="urlPath" value="" />
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="pageNo" />
+                <option name="value" value="2" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="pageSize" />
+                <option name="value" value="10" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="Content-Type: application/json&#10;&#10;{&#10;  &quot;auditStatus&quot;: &quot;202002&quot;,&#10;  &quot;courseName&quot;: &quot;java&quot;,&#10;  &quot;publishStatus&quot;: &quot;203001&quot;&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:63040/course/list" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="pageNo" />
+                <option name="value" value="2" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="pageSize" />
+                <option name="value" value="10" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;auditStatus&quot;: &quot;202002&quot;,&#10;  &quot;courseName&quot;: &quot;java&quot;,&#10;  &quot;publishStatus&quot;: &quot;203001&quot;&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:63040/course/list" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="pageNo" />
+                <option name="value" value="1" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="pageSize" />
+                <option name="value" value="2" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;auditStatus&quot;: &quot;202002&quot;,&#10;  &quot;courseName&quot;: &quot;java&quot;,&#10;  &quot;publishStatus&quot;: &quot;203001&quot;&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:63040/course/list" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="pageNo" />
+                <option name="value" value="1" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="pageSize" />
+                <option name="value" value="2" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;auditStatus&quot;: &quot;202004&quot;,&#10;  &quot;courseName&quot;: &quot;java&quot;,&#10;  &quot;publishStatus&quot;: &quot;203001&quot;&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:63040/course/list" />
+          <option name="urlPath" value="" />
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="pageNo" />
+                <option name="value" value="1" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="pageSize" />
+                <option name="value" value="2" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="Content-Type: application/json&#10;&#10;{&#10;  &quot;auditStatus&quot;: &quot;202004&quot;,&#10;  &quot;courseName&quot;: &quot;java&quot;,&#10;  &quot;publishStatus&quot;: &quot;203001&quot;&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:63040/course/list" />
+          <option name="urlPath" value="" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.ContentCodeGenerator">
+    <configuration name="ContentCodeGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xuecheng.generator.ContentCodeGenerator" />
+      <module name="xuecheng-plus-generator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xuecheng.generator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="xc-content-api | 课程查询接口" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/api-test/xc-content-api.http" requestIdentifier="课程查询接口" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="xc-content-api | 课程分类查询" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/api-test/xc-content-api.http" index="2" requestIdentifier="课程分类查询" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="AliPayTest.queryPayResult" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="xuecheng-plus-orders-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xuecheng.orders.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xuecheng.orders" />
+      <option name="MAIN_CLASS_NAME" value="com.xuecheng.orders.AliPayTest" />
+      <option name="METHOD_NAME" value="queryPayResult" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AuthApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <module name="xuecheng-plus-auth" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xuecheng.AuthApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CheckcodeApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <module name="xuecheng-plus-checkcode" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xuecheng.checkcode.CheckcodeApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContentApiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <module name="xuecheng-plus-content-api" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xuecheng.ContentApiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <module name="xuecheng-plus-gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xuecheng.GatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LearningApiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <module name="xuecheng-plus-learning-api" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xuecheng.LearningApiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MediaApplication (2)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <module name="xuecheng-plus-media-api" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xuecheng.MediaApplication" />
+      <option name="VM_PARAMETERS" value="-Dserver.port=63051 -Dxxl.job.executor.port=9998" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MediaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <module name="xuecheng-plus-media-api" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xuecheng.MediaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrdersApiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <module name="xuecheng-plus-orders-api" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xuecheng.OrdersApiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <module name="xuecheng-plus-search" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xuecheng.SearchApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SystemApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="xuecheng-plus-system-api" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xuecheng.system.SystemApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xuecheng.system.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ContentCodeGenerator" />
+      <item itemvalue="HTTP Request.xc-content-api | 课程分类查询" />
+      <item itemvalue="JUnit.AliPayTest.queryPayResult" />
+      <item itemvalue="Spring Boot.MediaApplication" />
+      <item itemvalue="Spring Boot.MediaApplication (2)" />
+      <item itemvalue="Spring Boot.ContentApiApplication" />
+      <item itemvalue="Spring Boot.GatewayApplication" />
+      <item itemvalue="Spring Boot.SearchApplication" />
+      <item itemvalue="Spring Boot.AuthApplication" />
+      <item itemvalue="Spring Boot.CheckcodeApplication" />
+      <item itemvalue="Spring Boot.LearningApiApplication" />
+      <item itemvalue="Spring Boot.OrdersApiApplication" />
+      <item itemvalue="Spring Boot.SystemApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ContentCodeGenerator" />
+        <item itemvalue="Spring Boot.SystemApplication" />
+        <item itemvalue="JUnit.AliPayTest.queryPayResult" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="182e7f25-ff10-4e25-9141-71b9a325a253" name="Default Changelist" comment="" />
+      <created>1677222631793</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677222631793</updated>
+      <workItem from="1677222634584" duration="1000000" />
+      <workItem from="1677223679443" duration="3776000" />
+      <workItem from="1677228321306" duration="15394000" />
+      <workItem from="1677292289615" duration="9946000" />
+      <workItem from="1677305770835" duration="20990000" />
+      <workItem from="1677390252827" duration="1329000" />
+      <workItem from="1677405061363" duration="667000" />
+      <workItem from="1677462248069" duration="25619000" />
+      <workItem from="1677503155778" duration="2120000" />
+      <workItem from="1677551087459" duration="30026000" />
+      <workItem from="1677595111504" duration="103000" />
+      <workItem from="1677638921557" duration="7331000" />
+      <workItem from="1677654393108" duration="22388000" />
+      <workItem from="1677721909643" duration="8041000" />
+      <workItem from="1677733925461" duration="4172000" />
+      <workItem from="1677739662499" duration="19633000" />
+      <workItem from="1677808536061" duration="15220000" />
+      <workItem from="1677832215168" duration="6703000" />
+      <workItem from="1677841858270" duration="9464000" />
+      <workItem from="1677854462480" duration="188000" />
+      <workItem from="1677896165707" duration="13662000" />
+      <workItem from="1677993399902" duration="18478000" />
+      <workItem from="1678020221370" duration="663000" />
+      <workItem from="1678021121497" duration="3632000" />
+      <workItem from="1678072425185" duration="9242000" />
+      <workItem from="1678089048925" duration="11402000" />
+      <workItem from="1678158437687" duration="23510000" />
+      <workItem from="1678190031865" duration="7679000" />
+      <workItem from="1678242830694" duration="8022000" />
+      <workItem from="1678261648671" duration="13560000" />
+      <workItem from="1678284188296" duration="2447000" />
+      <workItem from="1678325949608" duration="11697000" />
+      <workItem from="1678343285475" duration="17673000" />
+      <workItem from="1678414052878" duration="510000" />
+      <workItem from="1678414678139" duration="4238000" />
+      <workItem from="1678419007714" duration="106000" />
+      <workItem from="1678419161245" duration="1596000" />
+      <workItem from="1678423099001" duration="562000" />
+      <workItem from="1678423692167" duration="15758000" />
+      <workItem from="1678450538098" duration="6179000" />
+      <workItem from="1678503247637" duration="10765000" />
+      <workItem from="1678587830125" duration="7628000" />
+      <workItem from="1678697322645" duration="4020000" />
+      <workItem from="1678708451559" duration="115000" />
+      <workItem from="1678777436818" duration="20620000" />
+      <workItem from="1678846661935" duration="5015000" />
+      <workItem from="1678862695129" duration="17175000" />
+      <workItem from="1678884697463" duration="1341000" />
+      <workItem from="1678947232787" duration="81000" />
+      <workItem from="1681868772867" duration="3375000" />
+      <workItem from="1684134847835" duration="49000" />
+      <workItem from="1684135303894" duration="942000" />
+      <workItem from="1684141413007" duration="24000" />
+      <workItem from="1684152924018" duration="56000" />
+      <workItem from="1684153176984" duration="1992000" />
+      <workItem from="1684480453199" duration="559000" />
+      <workItem from="1684481665705" duration="16000" />
+      <workItem from="1688646240283" duration="2534000" />
+      <workItem from="1688693296940" duration="18000" />
+      <workItem from="1689574462041" duration="8404000" />
+      <workItem from="1689584627887" duration="1804000" />
+      <workItem from="1689640013505" duration="1799000" />
+      <workItem from="1689646524517" duration="7971000" />
+      <workItem from="1689673620052" duration="2508000" />
+      <workItem from="1689758192681" duration="1378000" />
+    </task>
+    <task id="LOCAL-00001" summary="提交父工程、基础工程的基础代码(pom.xml)">
+      <created>1677225417292</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677225417293</updated>
+    </task>
+    <task id="LOCAL-00002" summary="课程查询接口开发">
+      <created>1677315230976</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1677315230976</updated>
+    </task>
+    <task id="LOCAL-00003" summary="课程添加分类树接口开发">
+      <created>1677331290787</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1677331290789</updated>
+    </task>
+    <task id="LOCAL-00004" summary="改为阿里云自建linux">
+      <created>1677464400427</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1677464400427</updated>
+    </task>
+    <task id="LOCAL-00005" summary="课程搜索前所有工程完毕">
+      <created>1678192657150</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1678192657150</updated>
+    </task>
+    <task id="LOCAL-00006" summary="搜索工程结束">
+      <created>1678258455210</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1678258455210</updated>
+    </task>
+    <task id="LOCAL-00007" summary="认证授权工程完结">
+      <created>1678265120660</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1678265120661</updated>
+    </task>
+    <task id="LOCAL-00008" summary="密码登录完结">
+      <created>1678344124215</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1678344124215</updated>
+    </task>
+    <task id="LOCAL-00009" summary="选课完结">
+      <created>1678441911525</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1678441911525</updated>
+    </task>
+    <task id="LOCAL-00010" summary="支付完结">
+      <created>1678868069015</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1678868069015</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="提交父工程、基础工程的基础代码(pom.xml)" />
+    <MESSAGE value="课程查询接口开发" />
+    <MESSAGE value="课程添加分类树接口开发" />
+    <MESSAGE value="改为阿里云自建linux" />
+    <MESSAGE value="课程搜索前所有工程完毕" />
+    <MESSAGE value="搜索工程结束" />
+    <MESSAGE value="认证授权工程完结" />
+    <MESSAGE value="密码登录完结" />
+    <MESSAGE value="选课完结" />
+    <MESSAGE value="支付完结" />
+    <option name="LAST_COMMIT_MESSAGE" value="支付完结" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

@@ -1,0 +1,8 @@
+{
+  "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOlsieHVlY2hlbmdwbHVzIl0sInVzZXJfbmFtZSI6InpoYW5nc2FuIiwic2NvcGUiOlsiYWxsIl0sImV4cCI6MTY3ODI3MzA1OCwiYXV0aG9yaXRpZXMiOlsicDEiXSwianRpIjoiNDJkOTAxZjQtNTI0ZC00Y2Y4LTkzM2EtMWE5MDVlMDFhODg0IiwiY2xpZW50X2lkIjoiWGNXZWJBcHAifQ.6BtcK5iyid6psAYrUlbmjzb30d1KBx1VSrghUXQj_Io",
+  "token_type": "bearer",
+  "refresh_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOlsieHVlY2hlbmdwbHVzIl0sInVzZXJfbmFtZSI6InpoYW5nc2FuIiwic2NvcGUiOlsiYWxsIl0sImF0aSI6IjQyZDkwMWY0LTUyNGQtNGNmOC05MzNhLTFhOTA1ZTAxYTg4NCIsImV4cCI6MTY3ODUyNTA1OCwiYXV0aG9yaXRpZXMiOlsicDEiXSwianRpIjoiMmJhZmQ3ZTQtMDM5MS00YzBiLTg1MDEtY2Q2MTVhZWViNWIyIiwiY2xpZW50X2lkIjoiWGNXZWJBcHAifQ.p9ar131gSojjKRHB_srU7ahQmOrgyPR2y-CL_6oNUYM",
+  "expires_in": 7199,
+  "scope": "all",
+  "jti": "42d901f4-524d-4cf8-933a-1a905e01a884"
+}

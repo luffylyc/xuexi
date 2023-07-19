@@ -1,0 +1,16 @@
+{
+  "aud": [
+    "xuechengplus"
+  ],
+  "user_name": "{\"companyId\":\"1232141425\",\"createTime\":\"2022-09-28T08:32:03\",\"id\":\"52\",\"name\":\"M老师\",\"sex\":\"1\",\"status\":\"\",\"username\":\"t1\",\"utype\":\"101002\"}",
+  "scope": [
+    "all"
+  ],
+  "active": true,
+  "exp": 1678289559,
+  "authorities": [
+    "p1"
+  ],
+  "jti": "3a499a00-3d78-4d0d-95a6-8302e087386a",
+  "client_id": "XcWebApp"
+}

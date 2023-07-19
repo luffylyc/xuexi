@@ -1,0 +1,28 @@
+2023-02-28 17:00:00,825 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-02-28 17:00:00,825 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-02-28 17:00:00,871 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-02-28 17:00:00,871 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-02-28 17:00:07,417 DEBUG [http-nio-63040-exec-1][BaseJdbcLogger.java:137] - ==>  Preparing: SELECT COUNT(*) FROM course_base
+2023-02-28 17:00:07,417 DEBUG [http-nio-63040-exec-1][BaseJdbcLogger.java:137] - ==>  Preparing: SELECT COUNT(*) FROM course_base
+2023-02-28 17:00:07,418 DEBUG [http-nio-63040-exec-1][BaseJdbcLogger.java:137] - ==> Parameters: 
+2023-02-28 17:00:07,418 DEBUG [http-nio-63040-exec-1][BaseJdbcLogger.java:137] - ==> Parameters: 
+2023-02-28 17:00:07,460 DEBUG [http-nio-63040-exec-1][BaseJdbcLogger.java:137] - <==      Total: 1
+2023-02-28 17:00:07,460 DEBUG [http-nio-63040-exec-1][BaseJdbcLogger.java:137] - <==      Total: 1
+2023-02-28 17:00:07,466 DEBUG [http-nio-63040-exec-1][BaseJdbcLogger.java:137] - ==>  Preparing: SELECT id,company_id,company_name,name,users,tags,mt,st,grade,teachmode,description,pic,create_date,change_date,create_people,change_people,audit_status,status FROM course_base LIMIT ?
+2023-02-28 17:00:07,466 DEBUG [http-nio-63040-exec-1][BaseJdbcLogger.java:137] - ==>  Preparing: SELECT id,company_id,company_name,name,users,tags,mt,st,grade,teachmode,description,pic,create_date,change_date,create_people,change_people,audit_status,status FROM course_base LIMIT ?
+2023-02-28 17:00:07,466 DEBUG [http-nio-63040-exec-1][BaseJdbcLogger.java:137] - ==> Parameters: 10(Long)
+2023-02-28 17:00:07,466 DEBUG [http-nio-63040-exec-1][BaseJdbcLogger.java:137] - ==> Parameters: 10(Long)
+2023-02-28 17:00:07,513 DEBUG [http-nio-63040-exec-1][BaseJdbcLogger.java:137] - <==      Total: 10
+2023-02-28 17:00:07,513 DEBUG [http-nio-63040-exec-1][BaseJdbcLogger.java:137] - <==      Total: 10
+2023-02-28 17:00:20,381 DEBUG [http-nio-63040-exec-8][BaseJdbcLogger.java:137] - ==>  Preparing: SELECT COUNT(*) FROM course_base
+2023-02-28 17:00:20,381 DEBUG [http-nio-63040-exec-8][BaseJdbcLogger.java:137] - ==>  Preparing: SELECT COUNT(*) FROM course_base
+2023-02-28 17:00:20,382 DEBUG [http-nio-63040-exec-8][BaseJdbcLogger.java:137] - ==> Parameters: 
+2023-02-28 17:00:20,382 DEBUG [http-nio-63040-exec-8][BaseJdbcLogger.java:137] - ==> Parameters: 
+2023-02-28 17:00:20,421 DEBUG [http-nio-63040-exec-8][BaseJdbcLogger.java:137] - <==      Total: 1
+2023-02-28 17:00:20,421 DEBUG [http-nio-63040-exec-8][BaseJdbcLogger.java:137] - <==      Total: 1
+2023-02-28 17:00:20,432 DEBUG [http-nio-63040-exec-8][BaseJdbcLogger.java:137] - ==>  Preparing: SELECT id,company_id,company_name,name,users,tags,mt,st,grade,teachmode,description,pic,create_date,change_date,create_people,change_people,audit_status,status FROM course_base LIMIT ?
+2023-02-28 17:00:20,432 DEBUG [http-nio-63040-exec-8][BaseJdbcLogger.java:137] - ==>  Preparing: SELECT id,company_id,company_name,name,users,tags,mt,st,grade,teachmode,description,pic,create_date,change_date,create_people,change_people,audit_status,status FROM course_base LIMIT ?
+2023-02-28 17:00:20,433 DEBUG [http-nio-63040-exec-8][BaseJdbcLogger.java:137] - ==> Parameters: 10(Long)
+2023-02-28 17:00:20,433 DEBUG [http-nio-63040-exec-8][BaseJdbcLogger.java:137] - ==> Parameters: 10(Long)
+2023-02-28 17:00:20,492 DEBUG [http-nio-63040-exec-8][BaseJdbcLogger.java:137] - <==      Total: 10
+2023-02-28 17:00:20,492 DEBUG [http-nio-63040-exec-8][BaseJdbcLogger.java:137] - <==      Total: 10

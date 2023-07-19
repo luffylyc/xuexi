@@ -1,0 +1,55 @@
+{
+  "items": [
+    {
+      "id": "119",
+      "companyId": "22",
+      "name": "HTML实战课程",
+      "users": "初级人员",
+      "tags": "课程标签",
+      "mt": "1-1",
+      "st": "1-1-1",
+      "grade": "204001",
+      "teachmode": "200002",
+      "description": "课程描述",
+      "pic": "fdsfdsfds",
+      "createDate": "2022-10-08 16:18:21",
+      "auditStatus": "202002",
+      "status": "203001"
+    },
+    {
+      "id": "120",
+      "companyId": "22",
+      "name": "HTML实战课程",
+      "users": "初级人员",
+      "tags": "课程标签",
+      "mt": "1-1",
+      "st": "1-1-1",
+      "grade": "204001",
+      "teachmode": "200002",
+      "description": "课程描述",
+      "pic": "fdsfdsfds",
+      "createDate": "2022-10-08 16:20:56",
+      "auditStatus": "202002",
+      "status": "203001"
+    },
+    {
+      "id": "121",
+      "companyId": "22",
+      "name": "HTML实战第二版",
+      "users": "初级工程师",
+      "tags": "HTML实战第二版",
+      "mt": "1-1",
+      "st": "1-1-1",
+      "grade": "204002",
+      "teachmode": "200002",
+      "description": "HTML实战第二版HTML实战第二版HTML实战第二版",
+      "pic": "",
+      "createDate": "2022-10-08 16:26:01",
+      "auditStatus": "202002",
+      "status": "203001"
+    }
+  ],
+  "counts": "4",
+  "page": "1",
+  "pageSize": "3"
+}

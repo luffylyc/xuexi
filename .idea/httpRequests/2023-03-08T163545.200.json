@@ -1,0 +1,16 @@
+{
+  "aud": [
+    "xuechengplus"
+  ],
+  "user_name": "zhangsan",
+  "scope": [
+    "all"
+  ],
+  "active": true,
+  "exp": 1678271625,
+  "authorities": [
+    "p1"
+  ],
+  "jti": "5f634e5a-0b63-4182-b838-e02452dbe2d3",
+  "client_id": "XcWebApp"
+}
